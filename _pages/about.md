@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at College of Informatics, Huazhong Agricultural University. Previously, I received the B.S. degree in Engineering from China Agricultural University in 2019. And I am pursuing my Ph.D. degree from Huazhong Agricultural University.
+I am a Ph.D. candidate at College of Informatics, Huazhong Agricultural University, supervised by [Prof. Hong Chen](https://chenhongml.github.io/). Previously, I received the B.S. degree in Engineering from China Agricultural University in 2019.
 
 My research interests lie in the areas of optimization and learning theory, with emphasis on the following topics:
 
