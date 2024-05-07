@@ -27,6 +27,7 @@ My research interests lie in the areas of optimization and learning theory, with
 
 - Applications on hardware Trojan detection (e.g., FPGA/Gate/LUT synthetic levels)
 
+If you are interested or have any question on my works, please feel free to contact me: zhangxuelin@webmail.hzau.edu.cn
 
 # 🔥 News
 - *2024.04*: &nbsp;🎉🎉 **Xuelin Zhang**, Hong Chen*, Bin Gu, Tieliang Gong, Feng Zheng. Fine-grained Analysis of Stability and Generalization for Stochastic Bilevel Optimization. IJCAI 2024, just accepted.
