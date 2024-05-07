@@ -41,7 +41,7 @@ My research interests lie in the areas of optimization and learning theory, with
 
 **Xuelin Zhang**, Hong Chen*, Bin Gu, Tieliang Gong, Feng Zheng
 
-- In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods.. 
+- In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods.
 </div>
 </div>
 
