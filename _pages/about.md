@@ -29,24 +29,35 @@ My research interests lie in the areas of optimization and learning theory, with
 
 
 # 🔥 News
-- *2024.04*: &nbsp;🎉🎉 Xuelin Zhang, Hong Chen*, Bin Gu, Tieliang Gong, Feng Zheng. Fine-grained Analysis of Stability and Generalization for Stochastic Bilevel Optimization. IJCAI 2024, just accepted.
-- *2024.03*: &nbsp;🎉🎉 Peng Sima, Hao Deng*, Xuelin Zhang, Hong Chen. Improved Concentration Bound for CVaR, IJCNN 2024, just accepted.
+- *2024.04*: &nbsp;🎉🎉 **Xuelin Zhang**, Hong Chen*, Bin Gu, Tieliang Gong, Feng Zheng. Fine-grained Analysis of Stability and Generalization for Stochastic Bilevel Optimization. IJCAI 2024, just accepted.
+- *2024.03*: &nbsp;🎉🎉 Peng Sima, Hao Deng*, **Xuelin Zhang**, Hong Chen. Improved Concentration Bound for CVaR, IJCNN 2024, just accepted.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/ijcai24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Fine-grained Analysis of Stability and Generalization for Stochastic Bilevel Optimization](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Xuelin Zhang**, Hong Chen*, Bin Gu, Tieliang Gong, Feng Zheng
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods.. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Improved Concentration Bound for CVaR](https://github.com), Peng Sima, Hao Deng*, **Xuelin Zhang**, Hong Chen. **IJCNN 2024**
+
+- [Automated Hardware Trojan Detection at LUT Using Explainable Graph Neural Networks](https://github.com), Lingjuan Wu, Hao Su, **Xuelin Zhang**, Yu Tai, Han Li, Wei Hu*. **ICCAD 2023**
+  
+- [Neural Partially Linear Additive Model](https://github.com), Liangxuan Zhu, Han Li*, **Xuelin Zhang**, Lingjuan Wu, Hong Chen. **FCS 2024**
+
+- [Stepdown SLOPE for Controlled Feature Selection](https://github.com), Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang. **AAAI 2023 [C]**
+
+- [Robust variable structure discovery based on tilted empirical risk minimization](https://github.com), **Xuelin Zhang**, Yingjie Wang, Liangxuan Zhu, Hong Chen, Han Li, Lingjuan Wu*. **Applied Intelligence 2023 [J]**
+
+- [Hardware Trojan Detection at LUT: Where Structural Features Meet Behavioral Characteristics](https://github.com), Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu*. **HOST 2022 [C]**
+
+- [Robustness of classifier to adversarial examples under imbalanced data](https://github.com), Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, Yizhi Zhao. **ICCCS 2022 [C]**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
