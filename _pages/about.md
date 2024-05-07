@@ -25,7 +25,7 @@ My research interests lie in the areas of optimization and learning theory, with
 
 - Robust/Interpretable machine learning (e.g., Robust Metric, Sparse/Neural additive models)
 
-- Applications on hardware Trojan detection & agriculture (e.g., FPGA/Gate/LUT synthetic levels)
+- Applications on hardware Trojan detection (e.g., FPGA/Gate/LUT synthetic levels)
 
 
 # 🔥 News
