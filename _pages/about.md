@@ -17,20 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Professor at Department of Mathematics and Statistics, Huazhong Agricultural University. Previously, I was an Adjunct Research Fellow at University of Pittsburgh, a Postdoctoral Research Fellow at University of Texas at Arlington, an Adjunct Research Fellow at University of Macau, and a Research Assistant at City University of Hong Kong. I received the B.S., M.S, and Ph.D. degrees in Mathematics from Hubei University in 2003, 2006, and 2009, respectively.
+I am a Ph.D. candidate at College of Informatics, Huazhong Agricultural University. Previously, I received the B.S. degree in Engineering from China Agricultural University in 2019. And I am pursuing my Ph.D. degree from Huazhong Agricultural University.
 
-My research interests lie in the areas of machine learning and learning theory, with emphasis on the following topics:
+My research interests lie in the areas of optimization and learning theory, with emphasis on the following topics:
 
 - Automatic machine learning (e.g., Meta learning, Hyperparameter Optimization, Bilevel Optimization)
 
-- Robust/Interpretable machine learning (e.g., Robust Metric, Automatic weighting learning)
+- Robust/Interpretable machine learning (e.g., Robust Metric, Sparse/Neural additive models, Controlled feature selection)
 
-- Applications on hardware Trojan detection & agriculture (e.g., Sparse additive models, Neural additive models, Feature selection)
+- Applications on hardware Trojan detection & agriculture (e.g., FPGA/Gate/LUT synthetic levels, Early warning for wheat diseases)
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2024.04*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.04*: &nbsp;🎉🎉 Xuelin Zhang, Hong Chen*, Bin Gu, Tieliang Gong, Feng Zheng. Fine-grained Analysis of Stability and Generalization for Stochastic Bilevel Optimization. IJCAI 2024, just accepted.
+- *2024.03*: &nbsp;🎉🎉 Peng Sima, Hao Deng*, Xuelin Zhang, Hong Chen. Improved Concentration Bound for CVaR, IJCNN 2024, just accepted.
 
 # 📝 Publications 
 
@@ -51,10 +51,6 @@ My research interests lie in the areas of machine learning and learning theory, 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.09 - now*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2016.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 [^_^]: #  💬 Academic Services
 
