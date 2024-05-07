@@ -37,7 +37,7 @@ My research interests lie in the areas of optimization and learning theory, with
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/ijcai24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Fine-grained Analysis of Stability and Generalization for Stochastic Bilevel Optimization](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Fine-grained Analysis of Stability and Generalization for Stochastic Bilevel Optimization](https://zxlml.github.io/)
 
 **Xuelin Zhang**, Hong Chen*, Bin Gu, Tieliang Gong, Feng Zheng
 
@@ -45,19 +45,19 @@ My research interests lie in the areas of optimization and learning theory, with
 </div>
 </div>
 
-- [Improved Concentration Bound for CVaR](https://github.com), Peng Sima, Hao Deng*, **Xuelin Zhang**, Hong Chen. **IJCNN 2024**
+- [Improved Concentration Bound for CVaR](https://zxlml.github.io/), Peng Sima, Hao Deng*, **Xuelin Zhang**, Hong Chen. **IJCNN 2024 [C]**
 
-- [Automated Hardware Trojan Detection at LUT Using Explainable Graph Neural Networks](https://github.com), Lingjuan Wu, Hao Su, **Xuelin Zhang**, Yu Tai, Han Li, Wei Hu*. **ICCAD 2023**
+- [Automated Hardware Trojan Detection at LUT Using Explainable Graph Neural Networks](https://ieeexplore.ieee.org/document/10323915), Lingjuan Wu, Hao Su, **Xuelin Zhang**, Yu Tai, Han Li, Wei Hu*. **ICCAD 2023 [C]**
   
-- [Neural Partially Linear Additive Model](https://github.com), Liangxuan Zhu, Han Li*, **Xuelin Zhang**, Lingjuan Wu, Hong Chen. **FCS 2024**
+- [Neural Partially Linear Additive Model](https://link.springer.com/article/10.1007/s11704-023-2662-3), Liangxuan Zhu, Han Li*, **Xuelin Zhang**, Lingjuan Wu, Hong Chen. **FCS 2024 [J]**
 
-- [Stepdown SLOPE for Controlled Feature Selection](https://github.com), Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang. **AAAI 2023 [C]**
+- [Stepdown SLOPE for Controlled Feature Selection](https://ojs.aaai.org/index.php/AAAI/article/view/26050), Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang. **AAAI 2023 [C]**
 
-- [Robust variable structure discovery based on tilted empirical risk minimization](https://github.com), **Xuelin Zhang**, Yingjie Wang, Liangxuan Zhu, Hong Chen, Han Li, Lingjuan Wu*. **Applied Intelligence 2023 [J]**
+- [Robust variable structure discovery based on tilted empirical risk minimization](https://dl.acm.org/doi/abs/10.1007/s10489-022-04409-z), **Xuelin Zhang**, Yingjie Wang, Liangxuan Zhu, Hong Chen, Han Li, Lingjuan Wu*. **Applied Intelligence 2023 [J]**
 
-- [Hardware Trojan Detection at LUT: Where Structural Features Meet Behavioral Characteristics](https://github.com), Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu*. **HOST 2022 [C]**
+- [Hardware Trojan Detection at LUT: Where Structural Features Meet Behavioral Characteristics](https://ieeexplore.ieee.org/document/9840276), Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu*. **HOST 2022 [C]**
 
-- [Robustness of classifier to adversarial examples under imbalanced data](https://github.com), Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, Yizhi Zhao. **ICCCS 2022 [C]**
+- [Robustness of classifier to adversarial examples under imbalanced data](https://ieeexplore.ieee.org/document/9846074), Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, Yizhi Zhao. **ICCCS 2022 [C]**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
