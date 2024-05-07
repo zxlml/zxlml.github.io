@@ -21,11 +21,11 @@ I am a Ph.D. candidate at College of Informatics, Huazhong Agricultural Universi
 
 My research interests lie in the areas of optimization and learning theory, with emphasis on the following topics:
 
-- Automatic machine learning (e.g., Meta learning, Hyperparameter Optimization, Bilevel Optimization)
+- Automatic machine learning (e.g., Hyperparameter Optimization)
 
-- Robust/Interpretable machine learning (e.g., Robust Metric, Sparse/Neural additive models, Controlled feature selection)
+- Robust/Interpretable machine learning (e.g., Robust Metric, Sparse/Neural additive models)
 
-- Applications on hardware Trojan detection & agriculture (e.g., FPGA/Gate/LUT synthetic levels, Early warning for wheat diseases)
+- Applications on hardware Trojan detection & agriculture (e.g., FPGA/Gate/LUT synthetic levels)
 
 
 # 🔥 News
