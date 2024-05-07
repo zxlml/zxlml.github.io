@@ -49,7 +49,7 @@ My research interests lie in the areas of optimization and learning theory, with
 
 - [Automated Hardware Trojan Detection at LUT Using Explainable Graph Neural Networks](https://ieeexplore.ieee.org/document/10323915), Lingjuan Wu, Hao Su, **Xuelin Zhang**, Yu Tai, Han Li, Wei Hu*. **ICCAD 2023 [C]**
   
-- [Neural Partially Linear Additive Model](https://link.springer.com/article/10.1007/s11704-023-2662-3), Liangxuan Zhu, Han Li*, **Xuelin Zhang**, Lingjuan Wu, Hong Chen. **FCS 2024 [J]**
+- [Neural Partially Linear Additive Model](https://link.springer.com/article/10.1007/s11704-023-2662-3), Liangxuan Zhu, Han Li*, **Xuelin Zhang**, Lingjuan Wu, Hong Chen. **FCS 2023 [J]**
 
 - [Stepdown SLOPE for Controlled Feature Selection](https://ojs.aaai.org/index.php/AAAI/article/view/26050), Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang. **AAAI 2023 [C]**
 
