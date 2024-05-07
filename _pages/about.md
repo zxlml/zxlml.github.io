@@ -21,11 +21,11 @@ I am a Professor at Department of Mathematics and Statistics, Huazhong Agricultu
 
 My research interests lie in the areas of machine learning and learning theory, with emphasis on the following topics:
 
-- Interpretable machine learning (e.g., Sparse additive models, Knockoffs inference)
+- Automatic machine learning (e.g., Meta learning, Hyperparameter Optimization, Bilevel Optimization)
 
-- Robust/Stable machine learning (e.g., Modal regression, Out-of-Distribution Generalization)
+- Robust/Interpretable machine learning (e.g., Robust Metric, Automatic weighting learning)
 
-- Apply and develop machine learning methods to solve real-data analysis problems ( e.g., Space Environment, Smart Agriculture, Computer Vision)
+- Applications on hardware Trojan detection & agriculture (e.g., Sparse additive models, Neural additive models, Feature selection)
 
 
 # 🔥 News
