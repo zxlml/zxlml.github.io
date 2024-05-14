@@ -90,13 +90,41 @@ Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang. **AAAI 2023 [C
 </div>
 </div>
 
-- [Stepdown SLOPE for Controlled Feature Selection](https://ojs.aaai.org/index.php/AAAI/article/view/26050), Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang. **AAAI 2023 [C]**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APIN 2023</div><img src='images/apin23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [Robust variable structure discovery based on tilted empirical risk minimization](https://dl.acm.org/doi/abs/10.1007/s10489-022-04409-z), **Xuelin Zhang**, Yingjie Wang, Liangxuan Zhu, Hong Chen, Han Li, Lingjuan Wu*. **Applied Intelligence 2023 [J]**
+[Robust variable structure discovery based on tilted empirical risk minimization](https://dl.acm.org/doi/abs/10.1007/s10489-022-04409-z)
 
-- [Hardware Trojan Detection at LUT: Where Structural Features Meet Behavioral Characteristics](https://ieeexplore.ieee.org/document/9840276), Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu*. **HOST 2022 [C]**
+**Xuelin Zhang**, Yingjie Wang, Liangxuan Zhu, Hong Chen, Han Li, Lingjuan Wu*. **Applied Intelligence 2023 [J]**
 
-- [Robustness of classifier to adversarial examples under imbalanced data](https://ieeexplore.ieee.org/document/9846074), Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, Yizhi Zhao. **ICCCS 2022 [C]**
+- In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HOST 2022</div><img src='images/host22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hardware Trojan Detection at LUT: Where Structural Features Meet Behavioral Characteristics](https://ieeexplore.ieee.org/document/9840276)
+
+Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu*. **HOST 2022 [C]**
+
+- In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCCS 2022</div><img src='images/icccs22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Robustness of classifier to adversarial examples under imbalanced data](https://ieeexplore.ieee.org/document/9846074)
+
+Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, Yizhi Zhao. **ICCCS 2022 [C]**
+
+- In this paper, we provide a theoretical framework to analyze the robustness of classifier to AE under imbalanced dataset from the perspective of AUC (Area under the ROC curve), and derive an interpretable upper bound.
+</div>
+</div>
+
 
 [^_^]: #  # 🎖 Honors and Awards
 [^_^]: #  - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
