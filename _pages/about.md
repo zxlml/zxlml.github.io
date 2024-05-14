@@ -53,7 +53,7 @@ If you are interested or have any question on my works, please feel free to cont
 
 Peng Sima, Hao Deng*, **Xuelin Zhang**, Hong Chen. **IJCNN 2024 [C]**
 
-- this paper introduces a novel estimator that relies on an estimator of Value at Risk (VaR) and investigates the concentration inequalities in independent scenarios where the underlying distributions are sub-Gaussian, sub-exponential, or heavy-tailed, where the inequalities we derive are bilateral, exhibit exponential decay, and are not confined to bounded scenarios.
+- This paper introduces a novel estimator that relies on an estimator of Value at Risk (VaR) and investigates the concentration inequalities in independent scenarios where the underlying distributions are sub-Gaussian, sub-exponential, or heavy-tailed, where the inequalities we derive are bilateral, exhibit exponential decay, and are not confined to bounded scenarios.
 </div>
 </div>
 
