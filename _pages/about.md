@@ -86,7 +86,7 @@ Liangxuan Zhu, Han Li*, **Xuelin Zhang**, Lingjuan Wu, Hong Chen. **FCS 2023 [J]
 
 Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang. **AAAI 2023 [C]**
 
-- In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods.
+- This paper goes beyond the previous concern of Sorted L-One Penalized Estimation (SLOPE) limited to the false discovery rate (FDR) control by considering the stepdown-based SLOPE in order to control the probability of k or more false rejections (k-FWER) and the false discovery proportion (FDP).
 </div>
 </div>
 
@@ -97,7 +97,7 @@ Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang. **AAAI 2023 [C
 
 **Xuelin Zhang**, Yingjie Wang, Liangxuan Zhu, Hong Chen, Han Li, Lingjuan Wu*. **Applied Intelligence 2023 [J]**
 
-- In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods.
+- In this paper, we propose a new robust variable structure discovery method for group lasso based on a convergent bilevel optimization framework, where the robust tilted empirical risk minimization is adopted.
 </div>
 </div>
 
@@ -109,7 +109,7 @@ Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang. **AAAI 2023 [C
 
 Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu*. **HOST 2022 [C]**
 
-- In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods.
+- This work proposes a novel hardware Trojan detection method that leverages static structural features and behavioral characteristics in field programmable gate array (FPGA) netlists. Mapping of hardware design sources to look-up-table (LUT) networks makes these features explicit, allowing automated feature extraction and further effective Trojan detection through machine learning.
 </div>
 </div>
 
