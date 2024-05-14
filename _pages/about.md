@@ -42,7 +42,7 @@ If you are interested or have any question on my works, please feel free to cont
 
 **Xuelin Zhang**, Hong Chen*, Bin Gu, Tieliang Gong, Feng Zheng
 
-- In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods.
+- In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods, based on the algorithmic average technique.
 </div>
 </div>
 
@@ -53,7 +53,7 @@ If you are interested or have any question on my works, please feel free to cont
 
 Peng Sima, Hao Deng*, **Xuelin Zhang**, Hong Chen. **IJCNN 2024 [C]**
 
-- In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods.
+- this paper introduces a novel estimator that relies on an estimator of Value at Risk (VaR) and investigates the concentration inequalities in independent scenarios where the underlying distributions are sub-Gaussian, sub-exponential, or heavy-tailed, where the inequalities we derive are bilateral, exhibit exponential decay, and are not confined to bounded scenarios.
 </div>
 </div>
 
@@ -64,7 +64,7 @@ Peng Sima, Hao Deng*, **Xuelin Zhang**, Hong Chen. **IJCNN 2024 [C]**
 
 Lingjuan Wu, Hao Su, **Xuelin Zhang**, Yu Tai, Han Li, Wei Hu*. **ICCAD 2023 [C]**
 
-- In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods.
+- In this work, we propose a novel hardware Trojan detection method based on graph neural networks (GNNs) targeting FPGA netlist. We leverage the rich explicit structural features and behavioral characteristics at LUT, which offers an ideal abstraction level and granularity for Trojan detection. A GNN model with optimized class-balanced focal loss is trained for automated Trojan feature extraction and classification. 
 </div>
 </div>
 
@@ -75,7 +75,7 @@ Lingjuan Wu, Hao Su, **Xuelin Zhang**, Yu Tai, Han Li, Wei Hu*. **ICCAD 2023 [C]
 
 Liangxuan Zhu, Han Li*, **Xuelin Zhang**, Lingjuan Wu, Hong Chen. **FCS 2023 [J]**
 
-- In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods.
+- This paper propose a Neural  Partially  Linear  Additive  Model  (NPLAM),  which automatically  distinguishes  insignificant,  linear,  and  nonlinear features  in  neural  networks, which can realize model-level interpretability.
 </div>
 </div>
 
