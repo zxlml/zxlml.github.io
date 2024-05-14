@@ -46,11 +46,49 @@ If you are interested or have any question on my works, please feel free to cont
 </div>
 </div>
 
-- [Improved Concentration Bound for CVaR](https://zxlml.github.io/), Peng Sima, Hao Deng*, **Xuelin Zhang**, Hong Chen. **IJCNN 2024 [C]**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2024</div><img src='images/ijcnn24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [Automated Hardware Trojan Detection at LUT Using Explainable Graph Neural Networks](https://ieeexplore.ieee.org/document/10323915), Lingjuan Wu, Hao Su, **Xuelin Zhang**, Yu Tai, Han Li, Wei Hu*. **ICCAD 2023 [C]**
-  
-- [Neural Partially Linear Additive Model](https://link.springer.com/article/10.1007/s11704-023-2662-3), Liangxuan Zhu, Han Li*, **Xuelin Zhang**, Lingjuan Wu, Hong Chen. **FCS 2023 [J]**
+[Improved Concentration Bound for CVaR](https://zxlml.github.io/)
+
+Peng Sima, Hao Deng*, **Xuelin Zhang**, Hong Chen. **IJCNN 2024 [C]**
+
+- In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2023</div><img src='images/iccad23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Automated Hardware Trojan Detection at LUT Using Explainable Graph Neural Networks](https://ieeexplore.ieee.org/document/10323915)
+
+Lingjuan Wu, Hao Su, **Xuelin Zhang**, Yu Tai, Han Li, Wei Hu*. **ICCAD 2023 [C]**
+
+- In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FCS 2023</div><img src='images/fcs23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Neural Partially Linear Additive Model](https://link.springer.com/article/10.1007/s11704-023-2662-3)
+
+Liangxuan Zhu, Han Li*, **Xuelin Zhang**, Lingjuan Wu, Hong Chen. **FCS 2023 [J]**
+
+- In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/aaai23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Stepdown SLOPE for Controlled Feature Selection](https://ojs.aaai.org/index.php/AAAI/article/view/26050)
+
+Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang. **AAAI 2023 [C]**
+
+- In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods.
+</div>
+</div>
 
 - [Stepdown SLOPE for Controlled Feature Selection](https://ojs.aaai.org/index.php/AAAI/article/view/26050), Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang. **AAAI 2023 [C]**
 
