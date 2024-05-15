@@ -42,7 +42,7 @@ If you are interested or have any question on my works, please feel free to cont
 
 **Xuelin Zhang**, Hong Chen*, Bin Gu, Tieliang Gong, Feng Zheng
 
-- In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods, based on the algorithmic average technique.
+- In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods, based on the (on-average argument) algorithmic stability technique.
 </div>
 </div>
 
