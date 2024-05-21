@@ -40,7 +40,7 @@ If you are interested or have any question on my works, please feel free to cont
 
 [Fine-grained Analysis of Stability and Generalization for Stochastic Bilevel Optimization](https://zxlml.github.io/)
 
-**Xuelin Zhang**, Hong Chen*, Bin Gu, Tieliang Gong, Feng Zheng **IJCAI 2024 [C]**
+**Xuelin Zhang**, Hong Chen*, Bin Gu, Tieliang Gong, Feng Zheng. **IJCAI 2024 [C]**
 
 - In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods, based on the (on-average argument) algorithmic stability technique.
 </div>
