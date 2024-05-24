@@ -130,11 +130,11 @@ Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, Yizhi Zhao.
 [^_^]: #  - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 [^_^]: #  - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-[^_^]: #  💬 Academic Services
+💬 Academic Services
 
 [^_^]: #  - Journals reviewer for IEEE Transactions on Pattern Analysis and Machine Intelligence, IEEE Transactions on Neural Networks and Learning System, Pattern Recognition, Neural Networks, IEEE Transactions on Circuits and Systems II: Express Briefs, Journal of Complexity, Journal of Mathematical Analysis and Applications, Artificial Intelligence in Medicine, Applied Mathematics Letters, Neural Processing Letters, Information Sciences, Neurocomputing, International Journal of Computer Mathematics, etc.
   
-[^_^]: # - Conference reviewer for ICML(2022), ICLR(2019-2022) AAAI(2017-2023), IJCAI(2019-2022).)
+- Conference reviewer for ICML(2022).
 
 # 💻 Visitor Maps
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
