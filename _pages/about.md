@@ -30,6 +30,7 @@ My research interests lie in the areas of optimization and learning theory, with
 If you are interested or have any question on my works, please feel free to contact me: zhangxuelin@webmail.hzau.edu.cn
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉🎉 Hong Chen*, **Xuelin Zhang**, Tieliang Gong, Bin Gu, Feng Zheng. Error Density-dependent Empirical Risk Minimization. ESWA 2024, just accepted.
 - *2024.04*: &nbsp;🎉🎉 **Xuelin Zhang**, Hong Chen*, Bin Gu, Tieliang Gong, Feng Zheng. Fine-grained Analysis of Stability and Generalization for Stochastic Bilevel Optimization. IJCAI 2024, just accepted.
 - *2024.03*: &nbsp;🎉🎉 Peng Sima, Hao Deng*, **Xuelin Zhang**, Hong Chen. Improved Concentration Bound for CVaR, IJCNN 2024, just accepted.
 
