@@ -36,7 +36,7 @@ If you are interested or have any question on my works, please feel free to cont
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2024</div><img src='images/ijcai24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2024</div><img src='images/eswa24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Error Density-dependent Empirical Risk Minimization](https://zxlml.github.io/)
