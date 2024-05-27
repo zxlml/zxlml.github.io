@@ -36,74 +36,74 @@ If you are interested or have any question on my works, please feel free to cont
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2024</div><img src='images/eswa24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[9] ESWA 2024</div><img src='images/eswa24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Error Density-dependent Empirical Risk Minimization](https://zxlml.github.io/)
 
-Hong Chen*, **Xuelin Zhang**, Tieliang Gong, Bin Gu, Feng Zheng **ESWA 2024 [J]**
+Hong Chen*, **Xuelin Zhang**, Tieliang Gong, Bin Gu, Feng Zheng **Expert Systems With Applications 2024 [J]**
 
 - This paper goes beyond the limitation of error value-dependent learning criterion and proposes the EDERM framework for robust regression against atypical data. The effectiveness of our method is validated by sufficient empirical evaluations. 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/ijcai24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[8] IJCAI 2024</div><img src='images/ijcai24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fine-grained Analysis of Stability and Generalization for Stochastic Bilevel Optimization](https://zxlml.github.io/)
 
-**Xuelin Zhang**, Hong Chen*, Bin Gu, Tieliang Gong, Feng Zheng. **IJCAI 2024 [C]**
+**Xuelin Zhang**, Hong Chen*, Bin Gu, Tieliang Gong, Feng Zheng. **International Joint Conference on Artificial Intelligence 2024 [C]**
 
 - In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods, based on the (on-average argument) algorithmic stability technique.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2024</div><img src='images/ijcnn24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[7] IJCNN 2024</div><img src='images/ijcnn24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Improved Concentration Bound for CVaR](https://zxlml.github.io/)
 
-Peng Sima, Hao Deng*, **Xuelin Zhang**, Hong Chen. **IJCNN 2024 [C]**
+Peng Sima, Hao Deng*, **Xuelin Zhang**, Hong Chen. **International Joint Conference on Neural Networks 2024 [C]**
 
 - This paper introduces a novel estimator that relies on an estimator of Value at Risk (VaR) and investigates the concentration inequalities in independent scenarios where the underlying distributions are sub-Gaussian, sub-exponential, or heavy-tailed, where the inequalities we derive are bilateral, exhibit exponential decay, and are not confined to bounded scenarios.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2023</div><img src='images/iccad23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[6] ICCAD 2023</div><img src='images/iccad23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Automated Hardware Trojan Detection at LUT Using Explainable Graph Neural Networks](https://ieeexplore.ieee.org/document/10323915)
 
-Lingjuan Wu, Hao Su, **Xuelin Zhang**, Yu Tai, Han Li, Wei Hu*. **ICCAD 2023 [C]**
+Lingjuan Wu, Hao Su, **Xuelin Zhang**, Yu Tai, Han Li, Wei Hu*. **International Conference on Computer-Aided Design 2023 [C]**
 
 - In this work, we propose a novel hardware Trojan detection method based on graph neural networks (GNNs) targeting FPGA netlist. We leverage the rich explicit structural features and behavioral characteristics at LUT, which offers an ideal abstraction level and granularity for Trojan detection. A GNN model with optimized class-balanced focal loss is trained for automated Trojan feature extraction and classification. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FCS 2023</div><img src='images/fcs23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[5] FCS 2023</div><img src='images/fcs23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Neural Partially Linear Additive Model](https://link.springer.com/article/10.1007/s11704-023-2662-3)
 
-Liangxuan Zhu, Han Li*, **Xuelin Zhang**, Lingjuan Wu, Hong Chen. **FCS 2023 [J]**
+Liangxuan Zhu, Han Li*, **Xuelin Zhang**, Lingjuan Wu, Hong Chen. **Frontiers of Computer Science 2023 [J]**
 
 - This paper proposes a Neural  Partially  Linear  Additive  Model  (NPLAM),  which automatically  distinguishes  insignificant,  linear,  and  nonlinear features  in  neural  networks, which can realize model-level interpretability.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/aaai23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[4] AAAI 2023</div><img src='images/aaai23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Stepdown SLOPE for Controlled Feature Selection](https://ojs.aaai.org/index.php/AAAI/article/view/26050)
 
-Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang. **AAAI 2023 [C]**
+Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang. **Association for the Advancement of Artificial Intelligence 2023 [C]**
 
 - This paper goes beyond the previous concern of Sorted L-One Penalized Estimation (SLOPE) limited to the false discovery rate (FDR) control by considering the stepdown-based SLOPE in order to control the probability of k or more false rejections (k-FWER) and the false discovery proportion (FDP).
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APIN 2023</div><img src='images/apin23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[3] APIN 2023</div><img src='images/apin23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Robust variable structure discovery based on tilted empirical risk minimization](https://dl.acm.org/doi/abs/10.1007/s10489-022-04409-z)
@@ -115,24 +115,24 @@ Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang. **AAAI 2023 [C
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HOST 2022</div><img src='images/host22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[2] HOST 2022</div><img src='images/host22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hardware Trojan Detection at LUT: Where Structural Features Meet Behavioral Characteristics](https://ieeexplore.ieee.org/document/9840276)
 
-Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu*. **HOST 2022 [C]**
+Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu*. **International Symposium on Hardware Oriented Security and Trust 2022 [C]**
 
 - This work proposes a novel hardware Trojan detection method that leverages static structural features and behavioral characteristics in field programmable gate array (FPGA) netlists. Mapping of hardware design sources to look-up-table (LUT) networks makes these features explicit, allowing automated feature extraction and further effective Trojan detection through machine learning.
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCCS 2022</div><img src='images/icccs22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[1] ICCCS 2022</div><img src='images/icccs22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Robustness of classifier to adversarial examples under imbalanced data](https://ieeexplore.ieee.org/document/9846074)
 
-Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, Yizhi Zhao. **ICCCS 2022 [C]**
+Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, Yizhi Zhao. **International Conference on Computer and Communication Systems 2022 [C]**
 
 - In this paper, we provide a theoretical framework to analyze the robustness of classifier to AE under imbalanced dataset from the perspective of AUC (Area under the ROC curve), and derive an interpretable upper bound.
 </div>
