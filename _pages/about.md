@@ -41,7 +41,7 @@ If you are interested or have any question on my works, please feel free to cont
 
 [Error Density-dependent Empirical Risk Minimization](https://zxlml.github.io/)
 
-Hong Chen*, **Xuelin Zhang**, Tieliang Gong, Bin Gu, Feng Zheng **Expert Systems With Applications 2024 [J]**
+Hong Chen*, **Xuelin Zhang**, Tieliang Gong, Bin Gu, Feng Zheng. **Expert Systems With Applications 2024 [J]**
 
 - This paper goes beyond the limitation of error value-dependent learning criterion and proposes the EDERM framework for robust regression against atypical data. The effectiveness of our method is validated by sufficient empirical evaluations. 
 </div>
