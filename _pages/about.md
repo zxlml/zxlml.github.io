@@ -41,7 +41,7 @@ If you are interested or have any question on my works, please feel free to cont
 
 [Pinpointing Hardware Trojans Through Semantic Feature Extraction and Natural Language Processing](https://zxlml.github.io/)
 
-Yichen Li, Wei Hu, Hao Su, **Xuelin Zhang**, Yizhi Zhao, Lingjuan Wu*. **ITC-Asia 2024 [J]**
+Yichen Li, Wei Hu, Hao Su, **Xuelin Zhang**, Yizhi Zhao, Lingjuan Wu*. **ITC-Asia 2024 [C]**
 
 - In this work, we propose a novel hardware Trojan detection method at RTL. Our approach involves the transformation of hardware design into CDFG, followed by path extraction and segmentation. 
 </div>
