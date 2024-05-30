@@ -30,11 +30,22 @@ My research interests lie in the areas of optimization and learning theory, with
 If you are interested or have any question on my works, please feel free to contact me: zhangxuelin@webmail.hzau.edu.cn
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉🎉 Yichen Li, Wei Hu, Hao Su, **Xuelin Zhang**, Yizhi Zhao, Lingjuan Wu*. Pinpointing Hardware Trojans Through Semantic Feature Extraction and Natural Language Processing. ITC-Asia 2024, just accepted.
 - *2024.05*: &nbsp;🎉🎉 Hong Chen*, **Xuelin Zhang**, Tieliang Gong, Bin Gu, Feng Zheng. Error Density-dependent Empirical Risk Minimization. ESWA 2024, just accepted.
 - *2024.04*: &nbsp;🎉🎉 **Xuelin Zhang**, Hong Chen*, Bin Gu, Tieliang Gong, Feng Zheng. Fine-grained Analysis of Stability and Generalization for Stochastic Bilevel Optimization. IJCAI 2024, just accepted.
-- *2024.03*: &nbsp;🎉🎉 Peng Sima, Hao Deng*, **Xuelin Zhang**, Hong Chen. Improved Concentration Bound for CVaR, IJCNN 2024, just accepted.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[10] ITC-Asia2024</div><img src='images/eswa24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Pinpointing Hardware Trojans Through Semantic Feature Extraction and Natural Language Processing](https://zxlml.github.io/)
+
+Yichen Li, Wei Hu, Hao Su, **Xuelin Zhang**, Yizhi Zhao, Lingjuan Wu*. **ITC-Asia 2024 [J]**
+
+- In this work, we propose a novel hardware Trojan detection method at RTL. Our approach involves the transformation of hardware design into CDFG, followed by path extraction and segmentation. 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[9] ESWA 2024</div><img src='images/eswa24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
