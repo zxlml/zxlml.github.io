@@ -50,7 +50,7 @@ Yichen Li, Wei Hu, Hao Su, **Xuelin Zhang**, Yizhi Zhao, Lingjuan Wu*. **ITC-Asi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[9] ESWA 2024</div><img src='images/eswa24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Error Density-dependent Empirical Risk Minimization](https://zxlml.github.io/)
+[Error Density-dependent Empirical Risk Minimization](https://www.sciencedirect.com/science/article/pii/S0957417424011989)
 
 Hong Chen*, **Xuelin Zhang**, Tieliang Gong, Bin Gu, Feng Zheng. **Expert Systems With Applications 2024 [J]**
 
