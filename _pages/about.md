@@ -151,7 +151,7 @@ Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, Yizhi Zhao.
 
 
 # 🎖 Authorized Patents
-- *2024.06* Hong Chen, **Xuelin Zhang**, Weifu Li, Feng Zheng. CN114580299A.
+- *2024.06:* Hong Chen, **Xuelin Zhang**, Weifu Li, Feng Zheng. CN114580299A.
 
 
 
