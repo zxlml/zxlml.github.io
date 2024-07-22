@@ -154,9 +154,11 @@ Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, Yizhi Zhao.
 [^_^]: #  - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 [^_^]: #  - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+
  # 🎖 Authorized Patents
 
 Hong Chen, Xuelin Zhang, Weifu Li, Feng Zheng. CN114580299A
+
 
 # 💬 Academic Services
 
