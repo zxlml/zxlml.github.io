@@ -154,6 +154,10 @@ Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, Yizhi Zhao.
 [^_^]: #  - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 [^_^]: #  - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+ # 🎖 Authorized Patents
+
+Hong Chen, Xuelin Zhang, Weifu Li, Feng Zheng. CN114580299A
+
 # 💬 Academic Services
 
 [^_^]: #  - Journals reviewer for IEEE Transactions on Pattern Analysis and Machine Intelligence, IEEE Transactions on Neural Networks and Learning System, Pattern Recognition, Neural Networks, IEEE Transactions on Circuits and Systems II: Express Briefs, Journal of Complexity, Journal of Mathematical Analysis and Applications, Artificial Intelligence in Medicine, Applied Mathematics Letters, Neural Processing Letters, Information Sciences, Neurocomputing, International Journal of Computer Mathematics, etc.
