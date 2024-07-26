@@ -30,7 +30,7 @@ My research interests lie in the areas of optimization and learning theory, with
 If you are interested or have any question on my works, please feel free to contact me: zhangxuelin@webmail.hzau.edu.cn
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉  New authorized patent: Hong Chen, **Xuelin Zhang**, Weifu Li, Feng Zheng. CN114580299A.
+- *2024.06*: &nbsp;🎉🎉  New authorized patent: Hong Chen, **Xuelin Zhang**, Weifu Li, Feng Zheng. CN114580299A.
 
 # 📝 Publications 
 
