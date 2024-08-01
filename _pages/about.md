@@ -60,7 +60,7 @@ Hong Chen*, **Xuelin Zhang**, Tieliang Gong, Bin Gu, Feng Zheng. **Expert System
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[8] IJCAI 2024</div><img src='images/ijcai24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Fine-grained Analysis of Stability and Generalization for Stochastic Bilevel Optimization]([https://www.ijcai.org/proceedings/2024/0609.pdf])
+[Fine-grained Analysis of Stability and Generalization for Stochastic Bilevel Optimization](https://www.ijcai.org/proceedings/2024/0609.pdf)
 
 **Xuelin Zhang**, Hong Chen*, Bin Gu, Tieliang Gong, Feng Zheng. **International Joint Conference on Artificial Intelligence 2024 [C]**
 
