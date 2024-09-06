@@ -30,9 +30,22 @@ My research interests lie in the areas of optimization and learning theory, with
 If you are interested or have any question on my works, please feel free to contact me: zhangxuelin@webmail.hzau.edu.cn
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉  New Acceptance: Peipei Yuan, Xinge You, Hong Chen, Xuelin Zhang, and Qinmu Peng. Generalized Sparse Additive Model with Unknown Link Function. ICDM 2024.
+
 - *2024.06*: &nbsp;🎉🎉  New authorized patent: Hong Chen, **Xuelin Zhang**, Weifu Li, Feng Zheng. CN114580299A.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[11] ICDM 2024 </div><img src='images/itc24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Generalized Sparse Additive Model with Unknown Link Function](https://zxlml.github.io/)
+
+Peipei Yuan, Xinge You*, Hong Chen, **Xuelin Zhang**, and Qinmu Peng. **ICDM 2024 [C]**
+
+- In this work, we propose a novel generalized additive model with a flexible link function automatically learned by a bilevel scheme. The proposed model is capable of nonlinear approximation, hidden interaction and feature selection, which also enjoys the theoretical guarantee of algorithmic convergence.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[10] ITC-Asia 2024</div><img src='images/itc24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
