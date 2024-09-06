@@ -41,7 +41,9 @@ If you are interested or have any question on my works, please feel free to cont
 
 [Generalized Sparse Additive Model with Unknown Link Function](https://zxlml.github.io/)
 
-Peipei Yuan, Xinge You*, Hong Chen, **Xuelin Zhang**, and Qinmu Peng. **IEEE International Conference on Data Mining 2024 [C]**
+Peipei Yuan, Xinge You*, Hong Chen, **Xuelin Zhang**, and Qinmu Peng. 
+
+**IEEE International Conference on Data Mining 2024 [C]**
 
 - In this work, we propose a novel generalized additive model with a flexible link function automatically learned by a bilevel scheme. The proposed model is capable of nonlinear approximation, hidden interaction and feature selection, which also enjoys the theoretical guarantee of algorithmic convergence.
 </div>
@@ -52,7 +54,9 @@ Peipei Yuan, Xinge You*, Hong Chen, **Xuelin Zhang**, and Qinmu Peng. **IEEE Int
 
 [Pinpointing Hardware Trojans Through Semantic Feature Extraction and Natural Language Processing](https://zxlml.github.io/)
 
-Yichen Li, Wei Hu, Hao Su, **Xuelin Zhang**, Yizhi Zhao, Lingjuan Wu*. **International Test Conference in Asia 2024 [C]**
+Yichen Li, Wei Hu, Hao Su, **Xuelin Zhang**, Yizhi Zhao, Lingjuan Wu*. 
+
+**International Test Conference in Asia 2024 [C]**
 
 - In this work, we propose a novel hardware Trojan detection method at RTL. Our approach involves the transformation of hardware design into CDFG, followed by path extraction and segmentation. 
 </div>
@@ -63,7 +67,9 @@ Yichen Li, Wei Hu, Hao Su, **Xuelin Zhang**, Yizhi Zhao, Lingjuan Wu*. **Interna
 
 [Error Density-dependent Empirical Risk Minimization](https://www.sciencedirect.com/science/article/pii/S0957417424011989)
 
-Hong Chen*, **Xuelin Zhang**, Tieliang Gong, Bin Gu, Feng Zheng. **Expert Systems With Applications 2024 [J]**
+Hong Chen*, **Xuelin Zhang**, Tieliang Gong, Bin Gu, Feng Zheng. 
+
+**Expert Systems With Applications 2024 [J]**
 
 - This paper goes beyond the limitation of error value-dependent learning criterion and proposes the EDERM framework for robust regression against atypical data. The effectiveness of our method is validated by sufficient empirical evaluations. The implementation codes can be found at: https://github.com/zhangxuelincode/EDERM
 </div>
@@ -86,7 +92,9 @@ Hong Chen*, **Xuelin Zhang**, Tieliang Gong, Bin Gu, Feng Zheng. **Expert System
 
 [Improved Concentration Bound for CVaR](https://zxlml.github.io/)
 
-Peng Sima, Hao Deng*, **Xuelin Zhang**, Hong Chen. **International Joint Conference on Neural Networks 2024 [C]**
+Peng Sima, Hao Deng*, **Xuelin Zhang**, Hong Chen. 
+
+**International Joint Conference on Neural Networks 2024 [C]**
 
 - This paper introduces a novel estimator that relies on an estimator of Value at Risk (VaR) and investigates the concentration inequalities in independent scenarios where the underlying distributions are sub-Gaussian, sub-exponential, or heavy-tailed, where the inequalities we derive are bilateral, exhibit exponential decay, and are not confined to bounded scenarios.
 </div>
@@ -97,7 +105,9 @@ Peng Sima, Hao Deng*, **Xuelin Zhang**, Hong Chen. **International Joint Confere
 
 [Automated Hardware Trojan Detection at LUT Using Explainable Graph Neural Networks](https://ieeexplore.ieee.org/document/10323915)
 
-Lingjuan Wu, Hao Su, **Xuelin Zhang**, Yu Tai, Han Li, Wei Hu*. **International Conference on Computer-Aided Design 2023 [C]**
+Lingjuan Wu, Hao Su, **Xuelin Zhang**, Yu Tai, Han Li, Wei Hu*. 
+
+**International Conference on Computer-Aided Design 2023 [C]**
 
 - In this work, we propose a novel hardware Trojan detection method based on graph neural networks (GNNs) targeting FPGA netlist. We leverage the rich explicit structural features and behavioral characteristics at LUT, which offers an ideal abstraction level and granularity for Trojan detection. A GNN model with optimized class-balanced focal loss is trained for automated Trojan feature extraction and classification. 
 </div>
@@ -108,7 +118,9 @@ Lingjuan Wu, Hao Su, **Xuelin Zhang**, Yu Tai, Han Li, Wei Hu*. **International 
 
 [Neural Partially Linear Additive Model](https://link.springer.com/article/10.1007/s11704-023-2662-3)
 
-Liangxuan Zhu, Han Li*, **Xuelin Zhang**, Lingjuan Wu, Hong Chen. **Frontiers of Computer Science 2023 [J]**
+Liangxuan Zhu, Han Li*, **Xuelin Zhang**, Lingjuan Wu, Hong Chen. 
+
+**Frontiers of Computer Science 2023 [J]**
 
 - This paper proposes a Neural  Partially  Linear  Additive  Model  (NPLAM),  which automatically  distinguishes  insignificant,  linear,  and  nonlinear features  in  neural  networks, which can realize model-level interpretability.
 </div>
@@ -119,7 +131,9 @@ Liangxuan Zhu, Han Li*, **Xuelin Zhang**, Lingjuan Wu, Hong Chen. **Frontiers of
 
 [Stepdown SLOPE for Controlled Feature Selection](https://ojs.aaai.org/index.php/AAAI/article/view/26050)
 
-Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang. **Association for the Advancement of Artificial Intelligence 2023 [C]**
+Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang. 
+
+**Association for the Advancement of Artificial Intelligence 2023 [C]**
 
 - This paper goes beyond the previous concern of Sorted L-One Penalized Estimation (SLOPE) limited to the false discovery rate (FDR) control by considering the stepdown-based SLOPE in order to control the probability of k or more false rejections (k-FWER) and the false discovery proportion (FDP).
 </div>
@@ -130,7 +144,9 @@ Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang. **Association 
 
 [Robust variable structure discovery based on tilted empirical risk minimization](https://dl.acm.org/doi/abs/10.1007/s10489-022-04409-z)
 
-**Xuelin Zhang**, Yingjie Wang, Liangxuan Zhu, Hong Chen, Han Li, Lingjuan Wu*. **Applied Intelligence 2023 [J]**
+**Xuelin Zhang**, Yingjie Wang, Liangxuan Zhu, Hong Chen, Han Li, Lingjuan Wu*. 
+
+**Applied Intelligence 2023 [J]**
 
 - In this paper, we propose a new robust variable structure discovery method for group lasso based on a convergent bilevel optimization framework, where the robust tilted empirical risk minimization is adopted. The implementation codes can be found at: https://github.com/zhangxuelincode/demoTERMGL
 </div>
@@ -154,7 +170,9 @@ Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu*. **International Symposium on 
 
 [Robustness of classifier to adversarial examples under imbalanced data](https://ieeexplore.ieee.org/document/9846074)
 
-Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, Yizhi Zhao. **International Conference on Computer and Communication Systems 2022 [C]**
+Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, Yizhi Zhao. 
+
+**International Conference on Computer and Communication Systems 2022 [C]**
 
 - In this paper, we provide a theoretical framework to analyze the robustness of classifier to AE under imbalanced dataset from the perspective of AUC (Area under the ROC curve), and derive an interpretable upper bound.
 </div>
