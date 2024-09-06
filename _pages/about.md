@@ -36,12 +36,12 @@ If you are interested or have any question on my works, please feel free to cont
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[11] ICDM 2024 </div><img src='images/itc24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[11] ICDM 2024 </div><img src='images/ICDM2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generalized Sparse Additive Model with Unknown Link Function](https://zxlml.github.io/)
 
-Peipei Yuan, Xinge You*, Hong Chen, **Xuelin Zhang**, and Qinmu Peng. **ICDM 2024 [C]**
+Peipei Yuan, Xinge You*, Hong Chen, **Xuelin Zhang**, and Qinmu Peng. **IEEE International Conference on Data Mining 2024 [C]**
 
 - In this work, we propose a novel generalized additive model with a flexible link function automatically learned by a bilevel scheme. The proposed model is capable of nonlinear approximation, hidden interaction and feature selection, which also enjoys the theoretical guarantee of algorithmic convergence.
 </div>
@@ -52,7 +52,7 @@ Peipei Yuan, Xinge You*, Hong Chen, **Xuelin Zhang**, and Qinmu Peng. **ICDM 202
 
 [Pinpointing Hardware Trojans Through Semantic Feature Extraction and Natural Language Processing](https://zxlml.github.io/)
 
-Yichen Li, Wei Hu, Hao Su, **Xuelin Zhang**, Yizhi Zhao, Lingjuan Wu*. **ITC-Asia 2024 [C]**
+Yichen Li, Wei Hu, Hao Su, **Xuelin Zhang**, Yizhi Zhao, Lingjuan Wu*. **International Test Conference in Asia 2024 [C]**
 
 - In this work, we propose a novel hardware Trojan detection method at RTL. Our approach involves the transformation of hardware design into CDFG, followed by path extraction and segmentation. 
 </div>
