@@ -81,7 +81,9 @@ Hong Chen*, **Xuelin Zhang**, Tieliang Gong, Bin Gu, Feng Zheng.
 
 [Fine-grained Analysis of Stability and Generalization for Stochastic Bilevel Optimization](https://www.ijcai.org/proceedings/2024/0609.pdf)
 
-**Xuelin Zhang**, Hong Chen*, Bin Gu, Tieliang Gong, Feng Zheng. **International Joint Conference on Artificial Intelligence 2024 [C]**
+**Xuelin Zhang**, Hong Chen*, Bin Gu, Tieliang Gong, Feng Zheng. 
+
+**International Joint Conference on Artificial Intelligence 2024 [C]**
 
 - In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods, based on the (on-average argument) algorithmic stability technique.
 </div>
@@ -158,7 +160,9 @@ Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang.
 
 [Hardware Trojan Detection at LUT: Where Structural Features Meet Behavioral Characteristics](https://ieeexplore.ieee.org/document/9840276)
 
-Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu*. **International Symposium on Hardware Oriented Security and Trust 2022 [C]**
+Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu*. 
+
+**International Symposium on Hardware Oriented Security and Trust 2022 [C]**
 
 - This work proposes a novel hardware Trojan detection method that leverages static structural features and behavioral characteristics in field programmable gate array (FPGA) netlists. Mapping of hardware design sources to look-up-table (LUT) networks makes these features explicit, allowing automated feature extraction and further effective Trojan detection through machine learning.
 </div>
