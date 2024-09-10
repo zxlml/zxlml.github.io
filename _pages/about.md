@@ -85,7 +85,7 @@ Hong Chen*, **Xuelin Zhang**, Tieliang Gong, Bin Gu, Feng Zheng.
 
 **International Joint Conference on Artificial Intelligence 2024 [C]**
 
-- In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods, based on the (on-average argument) algorithmic stability technique.
+- In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods, based on the (on-average argument) algorithmic stability technique. The verification codes are provided at: https://github.com/zhangxuelincode/BilevelOptimization
 </div>
 </div>
 
