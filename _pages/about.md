@@ -52,7 +52,7 @@ Peipei Yuan, Xinge You*, Hong Chen, **Xuelin Zhang**, and Qinmu Peng.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[10] ITC-Asia 2024</div><img src='images/itc24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Pinpointing Hardware Trojans Through Semantic Feature Extraction and Natural Language Processing](https://zxlml.github.io/)
+[Pinpointing Hardware Trojans Through Semantic Feature Extraction and Natural Language Processing](https://ieeexplore.ieee.org/abstract/document/10661348)
 
 Yichen Li, Wei Hu, Hao Su, **Xuelin Zhang**, Yizhi Zhao, Lingjuan Wu*. 
 
@@ -92,7 +92,7 @@ Hong Chen*, **Xuelin Zhang**, Tieliang Gong, Bin Gu, Feng Zheng.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[7] IJCNN 2024</div><img src='images/ijcnn24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Improved Concentration Bound for CVaR](https://zxlml.github.io/)
+[Improved Concentration Bound for CVaR](https://ieeexplore.ieee.org/abstract/document/10650860)
 
 Peng Sima, Hao Deng*, **Xuelin Zhang**, Hong Chen. 
 
