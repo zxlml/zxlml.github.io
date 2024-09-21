@@ -83,7 +83,7 @@ Hong Chen*, **Xuelin Zhang**, Tieliang Gong, Bin Gu, Feng Zheng.
 
 **Xuelin Zhang**, Hong Chen*, Bin Gu, Tieliang Gong, Feng Zheng. 
 
-**International Joint Conference on Artificial Intelligence 2024 [C]**
+**International Joint Conference on Artificial Intelligence 2024 [C] (Oral)**
 
 - In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods, based on the (on-average argument) algorithmic stability technique. The verification codes are provided at: https://github.com/zhangxuelincode/BilevelOptimization
 </div>
@@ -135,7 +135,7 @@ Liangxuan Zhu, Han Li*, **Xuelin Zhang**, Lingjuan Wu, Hong Chen.
 
 Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang. 
 
-**Association for the Advancement of Artificial Intelligence 2023 [C]**
+**Association for the Advancement of Artificial Intelligence 2023 [C] (Oral)**
 
 - This paper goes beyond the previous concern of Sorted L-One Penalized Estimation (SLOPE) limited to the false discovery rate (FDR) control by considering the stepdown-based SLOPE in order to control the probability of k or more false rejections (k-FWER) and the false discovery proportion (FDP).
 </div>
