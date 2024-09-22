@@ -27,7 +27,7 @@ author:
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=ed1B8x0AAAAJ"
   email            : "zhangxuelin@webmial.hzau.edu.cn"
   researchgate     :  "https://www.researchgate.net/profile/Xuelin-Zhang-13"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/zhangxuelincode"
   google_plus      :
   keybase          :
   instagram        :
