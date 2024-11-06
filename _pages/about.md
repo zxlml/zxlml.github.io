@@ -183,7 +183,7 @@ Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, Yizhi Zhao.
 </div>
 
 # 🎖 Honors
-- *2024.11:* China National Scholarship
+- *2024.11: National Scholarship in China*
 
 # 🔖 Authorized Patents
 - *2024.06:* Hong Chen, **Xuelin Zhang**, Weifu Li, Feng Zheng. CN114580299A.
