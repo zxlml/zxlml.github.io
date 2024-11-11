@@ -25,7 +25,7 @@ My research interests lie in the areas of optimization and learning theory, with
 
 - Robust/Interpretable machine learning (e.g., Robust Metric, Sparse/Neural additive models)
 
-- Applications on hardware Trojan detection (e.g., FPGA/Gate/LUT synthetic levels)
+- Applications in hardware security (e.g., Trojan detection at FPGA/Gate/LUT synthetic levels)
 
 If you are interested or have any question on my works, please feel free to contact me: zhangxuelin@webmail.hzau.edu.cn
 
