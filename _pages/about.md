@@ -199,8 +199,6 @@ Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu*.
 
 # 💬 Academic Services
 
-[^_^]: #  - Journals reviewer for IEEE Transactions on Pattern Analysis and Machine Intelligence, IEEE Transactions on Neural Networks and Learning System, Pattern Recognition, Neural Networks, IEEE Transactions on Circuits and Systems II: Express Briefs, Journal of Complexity, Journal of Mathematical Analysis and Applications, Artificial Intelligence in Medicine, Applied Mathematics Letters, Neural Processing Letters, Information Sciences, Neurocomputing, International Journal of Computer Mathematics, etc.
-  
 - Conference reviewer for ICLR, ICML.
 
 - Journal reviewer for Expert Systems With Applications, Journal of Infrastructure, Policy and Development.
