@@ -1,12 +1,10 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
+  - title: "Chinese"
+    url: "https://blog.csdn.net/qq_35155934"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "CSDN"
+    url: "https://blog.csdn.net/qq_35155934"
 
-  - title: "Publications"
-    url: "/#-publications"
-
-
+  - title: "My Team"
+    url: "https://aisle.hzau.edu.cn/index.htm"
