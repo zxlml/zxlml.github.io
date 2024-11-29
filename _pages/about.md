@@ -199,6 +199,6 @@ Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu*.
 
 # 💬 Academic Services
 
-- Conference reviewer for ICLR, ICML.
+- Conference reviewer for ICLR, ICML, IJCNN.
 
 - Journal reviewer for Expert Systems With Applications, Journal of Infrastructure, Policy and Development.
