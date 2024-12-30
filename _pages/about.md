@@ -31,6 +31,8 @@ If you are interested or have any question on my works, please feel free to cont
 
 # 🔥 News
 
+- *2024.12*: &nbsp;🎉🎉  New Activity: Attendance in CCF Wuhan 2024 Annual Conference and the 8th Outstanding Doctoral Student Academic Activity
+
 - *2024.11*: &nbsp;🎉🎉  New Award: **China Doctoral National Scholarship**.
 
 - *2024.09*: &nbsp;🎉🎉  New Acceptance: Peipei Yuan, Xinge You, Hong Chen, **Xuelin Zhang**, and Qinmu Peng. Generalized Sparse Additive Model with Unknown Link Function. ICDM 2024.
