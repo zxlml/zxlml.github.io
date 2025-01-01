@@ -148,6 +148,19 @@ Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, Yizhi Zhao.
 
 # 📝 Publications in Hardware Security
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[4] TCAD 2025</div><img src='images/tcad2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Precise and Explainable Hardware Trojan Localization at LUT Level](https://ieeexplore.ieee.org/abstract/document/10661348)
+
+Hao Su, Wei Hu, **Xuelin Zhang**, Dan Zhu, Lingjuan Wu*. 
+
+**IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 2025 [J]**
+
+- The proposed approach aims to extract the rich structural and behavioral features at look-up-table (LUT) level to train an explainable graph neural network (GNN) model for classifying design nodes in FPGA netlists and identifying the Trojan-infected ones.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[3] ITC-Asia 2024</div><img src='images/itc24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
