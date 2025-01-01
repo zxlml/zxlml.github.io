@@ -31,7 +31,7 @@ If you are interested or have any question on my works, please feel free to cont
 
 # 🔥 News
 
-- *2025.01*: &nbsp;🎉🎉  New Acceptance "Towards Precise and Explainable Hardware Trojan Localization at LUT Level" to appear in **TCAD (ccf-A)**. Congratulations to my co-authors!
+- *2025.01*: &nbsp;🎉🎉  New Acceptance: "Towards Precise and Explainable Hardware Trojan Localization at LUT Level" to appear in **TCAD (ccf-A)**. Congratulations to my co-authors!
 
 - *2024.12*: &nbsp;🎉🎉  New Activity: Attendance in CCF Wuhan 2024 Annual Conference and the 8th Outstanding Doctoral Student Academic Activity.
 
