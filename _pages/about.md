@@ -205,9 +205,9 @@ Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu*.
 # 🎖️ Activities and Honors
 - *2024.12:* A report is made at [**CCF Wuhan 2024 Annual Conference and 8th Outstanding Doctoral Student Academic Forum**.](https://www.ccf.org.cn/Chapters/Chapters/Wuhan/hyhdzxdt/2024-12-23/836269.shtml)
 - *2024.11:* [**China Doctoral National Scholarship**.](https://aisle.hzau.edu.cn/info/1097/2216.htm)
-- *2024.11:* A poster is presented at [**the 22nd Annual Meeting of the Chinese Society of Industrial and Applied Mathematics**.](https://aisle.hzau.edu.cn/info/1097/2201.htm)
+- *2024.11:* A poster is presented at [**CSIAM 2024**.](https://aisle.hzau.edu.cn/info/1097/2201.htm)
 - *2024.8:* A report is made at Jeju, South Korea. [**Conference of IJCAI-2024**.](https://aisle.hzau.edu.cn/info/1097/1911.htm)
-- *2024.4:* A report is made at [**Hubei Society for Industrial and Applied Mathematics**.](https://aisle.hzau.edu.cn/info/1097/1901.htm)
+- *2024.4:* A report is made at [**HBSIAM 2024**.](https://aisle.hzau.edu.cn/info/1097/1901.htm)
 
 # 🛠️ Authorized Patents
 - *2024.06:* Hong Chen, **Xuelin Zhang**, Weifu Li, Feng Zheng. [**CN114580299A**.](https://patents.google.com/patent/CN114580299A/zh)
