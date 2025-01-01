@@ -151,7 +151,7 @@ Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, Yizhi Zhao.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[4] TCAD 2025</div><img src='images/tcad2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Towards Precise and Explainable Hardware Trojan Localization at LUT Level](https://ieeexplore.ieee.org/abstract/document/10661348)
+[Towards Precise and Explainable Hardware Trojan Localization at LUT Level](https://zxlml.github.io/)
 
 Hao Su, Wei Hu, **Xuelin Zhang**, Dan Zhu, Lingjuan Wu*. 
 
