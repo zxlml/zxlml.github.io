@@ -27,6 +27,8 @@ My research interests lie in the areas of optimization and learning theory, with
 
 - Applications in hardware security (e.g., Trojan detection at FPGA/Gate/LUT synthetic levels)
 
+Suggested videos for understanding the [bilevel optimization](https://www.youtube.com/watch?v=hTDrSjBtKLc), [robust machine learning](https://www.youtube.com/watch?v=IgAPc0i0-9E), [interpretable additive models](https://www.youtube.com/watch?v=3aMB51GMUyQ) as well as the [hardware Trojans](https://www.youtube.com/watch?v=VL3kizVud9Q).
+
 If you are interested or have any question on my works, please feel free to contact me: zhangxuelin@webmail.hzau.edu.cn
 
 # 🔥 News
