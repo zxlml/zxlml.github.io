@@ -157,7 +157,7 @@ Hao Su, Wei Hu, **Xuelin Zhang**, Dan Zhu, Lingjuan Wu*.
 
 **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 2025 [J]**
 
-- The proposed approach aims to extract the rich structural and behavioral features at look-up-table (LUT) level to train an explainable graph neural network (GNN) model for classifying design nodes in FPGA netlists and identifying the Trojan-infected ones.
+- The proposed approach aims to extract the rich structural and behavioral features at look-up-table (LUT) level to train an explainable graph neural network (GNN) model for classifying design nodes in FPGA netlists and identifying the Trojan-infected ones. The implementation codes can be found at: https://github.com/zhangxuelincode/node_label
 </div>
 </div>
 
