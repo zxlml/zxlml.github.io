@@ -85,7 +85,7 @@ redirect_from:
 
 **International Joint Conference on Artificial Intelligence 2024 [C] (Oral)**
 
-- 在这篇论文中，我们基于（平均参数）算法稳定性技术，对一阶基于梯度的双层优化方法进行了系统的泛化分析。验证代码提供在: [https://github.com/zhangxuelincode/BilevelOptimization](https://github.com/zhangxuelincode/BilevelOptimization)
+- 在这篇论文中，我们基于（平均参数）算法稳定性技术，对一阶基于梯度的双层优化方法进行了系统的泛化分析。实现代码：[https://github.com/zhangxuelincode/BilevelOptimization](https://github.com/zhangxuelincode/BilevelOptimization)
 - 算法稳定性大法好，泛化分析中可以体现出优化的细节（迭代次数，算法设计，学习率，目标函数的光滑性/凸性等）.
 </div>
 </div>
@@ -100,7 +100,7 @@ Peng Sima, Hao Deng*, **Xuelin Zhang**, Hong Chen.
 **International Joint Conference on Neural Networks 2024 [C]**
 
 - 这篇论文介绍了一种新颖的估计器，该估计器依赖于风险价值（Value at Risk，简称VaR）的估计，并研究了在独立场景中的集中不等式，其中底层分布是次高斯（sub-Gaussian）、次指数（sub-exponential）或重尾（heavy-tailed）的。我们推导出的不等式是双边的，表现出指数衰减，并且不局限于有界场景.
-- VaR和CVaR其实都是经济学里的常见度量，同时也在机器学习得到了广泛引用.这篇工作也是从复杂情景下，推导了无界目标的上下界.
+- VaR和CVaR其实都是经济学里的常见度量，同时也在机器学习得到了广泛应用.这篇工作也是从复杂情景下，推导了无界目标的上下界.
 </div>
 </div>
 
