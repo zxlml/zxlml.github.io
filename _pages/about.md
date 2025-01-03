@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-[中文主页](../cn_page.md) 
+[中文主页](cn_page.md) 
 
 I am a Ph.D. candidate at College of Informatics, Huazhong Agricultural University, supervised by [Prof. Hong Chen](https://chenhongml.github.io/). Previously, I was persuing the M.S. degree with assistance of [Prof. Lingjuan Wu](https://www.researchgate.net/profile/Lingjuan-Wu). I received the B.S. degree in Engineering from China Agricultural University in 2019. Recently, I have been conducting academic exchanges at Sun Yat-sen University.
 
