@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-[English](./pages/about.md) 
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -19,25 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-本科就读于中国农业大学，研究生就读于华中农业大学。硕士期间（2020-2022）在[武玲娟教授](https://www.researchgate.net/profile/Lingjuan-Wu)的指导下研究**可解释稳健机器学习**算法设计以及在**硬件安全领域**的应用；博士期间（2022-）在[陈洪教授](https://chenhongml.github.io/)的指导下研究**可解释稳健优化算法设计与统计理论分析**。
+I am a Ph.D. candidate at College of Informatics, Huazhong Agricultural University, supervised by [Prof. Hong Chen](https://chenhongml.github.io/). Previously, I was persuing the M.S. degree with assistance of [Prof. Lingjuan Wu](https://www.researchgate.net/profile/Lingjuan-Wu). I received the B.S. degree in Engineering from China Agricultural University in 2019. Recently, I have been conducting academic exchanges at Sun Yat-sen University.
 
-我的研究方向主要包括：
+My research interests lie in the areas of optimization and learning theory, with emphasis on the following topics:
 
-- 自动机器学习（双层优化、元学习）
+- Automatic machine learning (e.g., Hyperparameter Optimization)
 
-- 可解释/鲁棒算法设计（鲁棒度量函数设计、稀疏可加建模）
+- Robust/Interpretable machine learning (e.g., Robust Metric, Sparse/Neural additive models)
 
-- 硬件安全应用（基于 自然语言与拓扑结构 等策略的硬件特洛伊木马检测）
-  
-我预计2026年中旬毕业。如果你对我的研究方向感兴趣，或者愿意给俺个offer，请联系: zhangxuelin@webmail.hzau.edu.cn
+- Applications in hardware security (e.g., Trojan detection at FPGA/Gate/LUT synthetic levels)
 
-# 🔥 新闻
+Suggested videos for understanding the [bilevel optimization](https://www.youtube.com/watch?v=hTDrSjBtKLc), [robust machine learning](https://www.youtube.com/watch?v=IgAPc0i0-9E), [interpretable additive models](https://www.youtube.com/watch?v=3aMB51GMUyQ) as well as the [hardware Trojans](https://www.youtube.com/watch?v=VL3kizVud9Q).
 
-- *2025.01*: &nbsp;🎉🎉  合作论文接收在**TCAD (ccf-A)**类期刊. 
+If you are interested or have any question on my works, please feel free to contact me: zhangxuelin@webmail.hzau.edu.cn
 
-- *2024.12*: &nbsp;🎉🎉  参加CCF2024年会暨第八届优秀博士论坛.
+# 🔥 News
 
-- *2024.11*: &nbsp;🎉🎉  荣获 **博士国家奖学金**.
+- *2025.01*: &nbsp;🎉🎉  New Acceptance: "Towards Precise and Explainable Hardware Trojan Localization at LUT Level" to appear in **TCAD (ccf-A)**. Congratulations to my co-authors!
+
+- *2024.12*: &nbsp;🎉🎉  New Activity: Attendance in CCF Wuhan 2024 Annual Conference and the 8th Outstanding Doctoral Student Academic Activity.
+
+- *2024.11*: &nbsp;🎉🎉  New Award: **China Doctoral National Scholarship**.
 
 # 📝 Publications in Machine Learning
 
@@ -205,20 +205,20 @@ Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu*.
 
 
 # 🎖️ Activities and Honors
-- *2024.12:* 受邀汇报： [**CCF Wuhan 2024 Annual Conference and 8th Outstanding Doctoral Student Academic Forum**.](https://www.ccf.org.cn/Chapters/Chapters/Wuhan/hyhdzxdt/2024-12-23/836269.shtml)
-- *2024.11:* 荣获 [**博士国家奖学金**.](https://aisle.hzau.edu.cn/info/1097/2216.htm)
-- *2024.11:* 海报参展： [**CSIAM 2024**.](https://aisle.hzau.edu.cn/info/1097/2201.htm)
-- *2024.8:* 受邀汇报： [**Conference of IJCAI-2024**.](https://aisle.hzau.edu.cn/info/1097/1911.htm)
-- *2024.4:* 受邀汇报： [**HBSIAM 2024**.](https://aisle.hzau.edu.cn/info/1097/1901.htm)
+- *2024.12:* A report is made at [**CCF Wuhan 2024 Annual Conference and 8th Outstanding Doctoral Student Academic Forum**.](https://www.ccf.org.cn/Chapters/Chapters/Wuhan/hyhdzxdt/2024-12-23/836269.shtml)
+- *2024.11:* [**China Doctoral National Scholarship**.](https://aisle.hzau.edu.cn/info/1097/2216.htm)
+- *2024.11:* A poster is presented at [**CSIAM 2024**.](https://aisle.hzau.edu.cn/info/1097/2201.htm)
+- *2024.8:* A report is made at Jeju, South Korea. [**Conference of IJCAI-2024**.](https://aisle.hzau.edu.cn/info/1097/1911.htm)
+- *2024.4:* A report is made at [**HBSIAM 2024**.](https://aisle.hzau.edu.cn/info/1097/1901.htm)
 
 # 🛠️ Authorized Patents
-- *2024.06:* 陈洪, **张学林**, 李伟夫, 郑锋. [**CN114580299A**.](https://patents.google.com/patent/CN114580299A/zh)
+- *2024.06:* Hong Chen, **Xuelin Zhang**, Weifu Li, Feng Zheng. [**CN114580299A**.](https://patents.google.com/patent/CN114580299A/zh)
 
-# 💬 学术服务
+# 💬 Academic Services
 
-- 会议审稿人: ICLR, ICML, IJCNN.
+- Conference reviewer for ICLR, ICML, IJCNN.
 
-- 期刊审稿人: Expert Systems With Applications, Journal of Infrastructure, Policy and Development.
+- Journal reviewer for Expert Systems With Applications, Journal of Infrastructure, Policy and Development.
   
 # 🌏 Visit Counter
 <a href="https://info.flagcounter.com/LoqT"><img src="https://s05.flagcounter.com/countxl/LoqT/bg_FFFFFF/txt_061414/border_CC4BBB/columns_8/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
