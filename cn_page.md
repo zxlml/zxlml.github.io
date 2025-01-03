@@ -34,7 +34,7 @@ redirect_from:
 
 - 硬件安全应用（基于 自然语言与电路拓扑结构 等策略的硬件特洛伊木马检测）
   
-如果你对我的研究方向感兴趣, 或者有不错的Offer 😃, 请联系: zhangxuelin@webmail.hzau.edu.cn
+如果对我的研究方向感兴趣, 或者有不错的Offer 😃, 烦请联系: zhangxuelin@webmail.hzau.edu.cn
 
 # 🔥 新闻
 
