@@ -19,11 +19,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我本科就读于中国农业大学，研究生就读于华中农业大学。硕士期间（2020-2022）在[武玲娟教授](https://www.researchgate.net/profile/Lingjuan-Wu)的指导下研究**可解释稳健机器学习**算法设计以及在**硬件安全领域**的应用；博士期间（2022-）在[陈洪教授](https://chenhongml.github.io/)的指导下研究**可解释稳健优化算法设计与统计理论分析**。
+本科就读于中国农业大学，研究生就读于华中农业大学。硕士期间（2020-2022）在[武玲娟教授](https://www.researchgate.net/profile/Lingjuan-Wu)的指导下研究**可解释稳健机器学习**算法设计以及在**硬件安全领域**的应用；博士期间（2022-）在[陈洪教授](https://chenhongml.github.io/)的指导下研究**可解释稳健优化算法设计与统计理论分析**。
 
 我的研究方向主要包括：
 
-- 自动机器学习（元学习、超参优化）
+- 自动机器学习（双层优化、元学习）
 
 - 可解释/鲁棒算法设计（鲁棒度量函数设计、稀疏可加建模）
 
@@ -33,11 +33,11 @@ redirect_from:
 
 # 🔥 新闻
 
-- *2025.01*: &nbsp;🎉🎉  **TCAD (ccf-A)** 合作论文接收: "Towards Precise and Explainable Hardware Trojan Localization at LUT Level".
+- *2025.01*: &nbsp;🎉🎉  合作论文接收在**TCAD (ccf-A)**类期刊. 
 
-- *2024.12*: &nbsp;🎉🎉  New Activity: Attendance in CCF Wuhan 2024 Annual Conference and the 8th Outstanding Doctoral Student Academic Activity.
+- *2024.12*: &nbsp;🎉🎉  参加CCF2024年会暨第八届优秀博士论坛.
 
-- *2024.11*: &nbsp;🎉🎉  New Award: **China Doctoral National Scholarship**.
+- *2024.11*: &nbsp;🎉🎉  荣获 **博士国家奖学金**.
 
 # 📝 Publications in Machine Learning
 
@@ -205,20 +205,20 @@ Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu*.
 
 
 # 🎖️ Activities and Honors
-- *2024.12:* A report is made at [**CCF Wuhan 2024 Annual Conference and 8th Outstanding Doctoral Student Academic Forum**.](https://www.ccf.org.cn/Chapters/Chapters/Wuhan/hyhdzxdt/2024-12-23/836269.shtml)
-- *2024.11:* [**China Doctoral National Scholarship**.](https://aisle.hzau.edu.cn/info/1097/2216.htm)
-- *2024.11:* A poster is presented at [**CSIAM 2024**.](https://aisle.hzau.edu.cn/info/1097/2201.htm)
-- *2024.8:* A report is made at Jeju, South Korea. [**Conference of IJCAI-2024**.](https://aisle.hzau.edu.cn/info/1097/1911.htm)
-- *2024.4:* A report is made at [**HBSIAM 2024**.](https://aisle.hzau.edu.cn/info/1097/1901.htm)
+- *2024.12:* 受邀汇报： [**CCF Wuhan 2024 Annual Conference and 8th Outstanding Doctoral Student Academic Forum**.](https://www.ccf.org.cn/Chapters/Chapters/Wuhan/hyhdzxdt/2024-12-23/836269.shtml)
+- *2024.11:* 荣获 [**博士国家奖学金**.](https://aisle.hzau.edu.cn/info/1097/2216.htm)
+- *2024.11:* 海报参展： [**CSIAM 2024**.](https://aisle.hzau.edu.cn/info/1097/2201.htm)
+- *2024.8:* 受邀汇报： [**Conference of IJCAI-2024**.](https://aisle.hzau.edu.cn/info/1097/1911.htm)
+- *2024.4:* 受邀汇报： [**HBSIAM 2024**.](https://aisle.hzau.edu.cn/info/1097/1901.htm)
 
 # 🛠️ Authorized Patents
-- *2024.06:* Hong Chen, **Xuelin Zhang**, Weifu Li, Feng Zheng. [**CN114580299A**.](https://patents.google.com/patent/CN114580299A/zh)
+- *2024.06:* 陈洪, **张学林**, 李伟夫, 郑锋. [**CN114580299A**.](https://patents.google.com/patent/CN114580299A/zh)
 
-# 💬 Academic Services
+# 💬 学术服务
 
-- Conference reviewer for ICLR, ICML, IJCNN.
+- 会议审稿人: ICLR, ICML, IJCNN.
 
-- Journal reviewer for Expert Systems With Applications, Journal of Infrastructure, Policy and Development.
+- 期刊审稿人: Expert Systems With Applications, Journal of Infrastructure, Policy and Development.
   
 # 🌏 Visit Counter
 <a href="https://info.flagcounter.com/LoqT"><img src="https://s05.flagcounter.com/countxl/LoqT/bg_FFFFFF/txt_061414/border_CC4BBB/columns_8/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
