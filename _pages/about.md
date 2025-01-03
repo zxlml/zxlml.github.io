@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[中文](./about_cn.md) 
+
+[中文主页](./about_cn.md) 
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
