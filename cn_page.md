@@ -51,7 +51,7 @@ redirect_from:
 
 [Generalized Sparse Additive Model with Unknown Link Function](https://icdm2024.org/accepted_papers/)
 
-Peipei Yuan, Xinge You*, Hong Chen, **Xuelin Zhang**, and Qinmu Peng. 
+[Peipei Yuan](https://www.researchgate.net/profile/Peipei-Yuan-3), [Xinge You*](https://scholar.google.com/citations?user=v7bRZX8AAAAJ&hl=en), [Hong Chen](https://chenhongml.github.io/), **Xuelin Zhang**, and [Qinmu Peng](https://scholar.google.com/citations?user=frL8yhIAAAAJ&hl=en). 
 
 **IEEE International Conference on Data Mining 2024 [C]**
 
@@ -65,7 +65,7 @@ Peipei Yuan, Xinge You*, Hong Chen, **Xuelin Zhang**, and Qinmu Peng.
 
 [Error Density-dependent Empirical Risk Minimization](https://www.sciencedirect.com/science/article/pii/S0957417424011989)
 
-Hong Chen*, **Xuelin Zhang**, Tieliang Gong, Bin Gu, Feng Zheng. 
+[Hong Chen*](https://chenhongml.github.io/), **Xuelin Zhang**, [Tieliang Gong](https://gong-tl.github.io/), [Bin Gu](https://scholar.google.com/citations?user=Vo8OgCgAAAAJ), [Feng Zheng](https://scholar.google.com/citations?user=PcmyXHMAAAAJ&hl=en). 
 
 **Expert Systems With Applications 2024 [J]**
 
@@ -168,7 +168,7 @@ Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, Yizhi Zhao.
 
 [Towards Precise and Explainable Hardware Trojan Localization at LUT Level](https://zxlml.github.io/)
 
-Hao Su, Wei Hu, **Xuelin Zhang**, Dan Zhu, Lingjuan Wu*. 
+Hao Su, [Wei Hu](https://scholar.google.com.hk/citations?user=1kXI0YEAAAAJ&hl=en), **Xuelin Zhang**, Dan Zhu, Lingjuan Wu*. 
 
 **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 2025 [J]**
 
@@ -210,24 +210,24 @@ Lingjuan Wu, Hao Su, **Xuelin Zhang**, Yu Tai, Han Li, Wei Hu*.
 
 [Hardware Trojan Detection at LUT: Where Structural Features Meet Behavioral Characteristics](https://ieeexplore.ieee.org/document/9840276)
 
-Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu*. 
+Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?user=xZ6Hd2IAAAAJ), Wei Hu*. 
 
 **International Symposium on Hardware Oriented Security and Trust 2022 [C]**
 
 - 这项工作提出了一种新颖的硬件木马检测方法，该方法利用现场可编程门阵列（FPGA）网表中的静态结构特征和行为特征.将硬件设计源映射到查找表（LUT）网络使得这些特征变得明确，允许通过机器学习自动化特征提取，并进一步有效地检测木马.
 - 这篇论文我们引入了混合高效重采样（过采样与欠采样结合）来处理非均衡问题，并在实验中得到了理想的性能提升.
-- 😞 遗憾的是，HOST会议在这个领域有着一定的知名度，但是CCF-C都没进.
+- 😞 遗憾的是，尽管HOST会议在这个领域有着一定的知名度，但是CCF-C都没进.
 </div>
 </div>
 
 
 # 📝 审稿中工作
 
-- **Xuelin Zhang**, et al,.  Meta Additive Model for Auto Weighting and Sparse Approximation. 
-- **Xuelin Zhang**, et al,. S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. 
-- **Xuelin Zhang**, et al,. Meta Additive Model: Learning Theory Analysis and Applications. 
-- Ricehng Zhou, **Xuelin Zhang**, et al,. Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift. 
-- Lingjuan Wu, Hao Su, **Xuelin Zhang**, et al,. Explainable Hardware Trojan Detection and Localization in FPGA Netlists. 
+- **Xuelin Zhang**, et al,. Meta Additive Model: Learning Theory Analysis and Applications.
+- **Xuelin Zhang**, et al,. S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection.
+- **Xuelin Zhang**, et al,. Robust Manifold Learning via Bilevel CycleGAN.
+- Ricehng Zhou#, **Xuelin Zhang**#, (Equal Contribution#) et al,. Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift.
+- Lingjuan Wu, Hao Su, **Xuelin Zhang**, et al,. Explainable Hardware Trojan Detection and Localization in FPGA Netlists.
 
 # 🎖️ 近期活动与奖项
 - *2024.12:* 受邀汇报： [**CCF武汉2024年会暨第八届优秀博士生学术风采展示论坛**.](https://www.ccf.org.cn/Chapters/Chapters/Wuhan/hyhdzxdt/2024-12-23/836269.shtml)
@@ -239,7 +239,7 @@ Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu*.
 - *2024.5:* 荣获 2024年度党支部**优秀党员**.
 - *2024.4:* 受邀汇报： [**湖北省工业与应用数学学会2024年学术交流大会**.](https://aisle.hzau.edu.cn/info/1097/1901.htm)
 - *2023.11:* 荣获 **华中农业大学信息学院“电子信息研究生论坛”一等奖**.
-- *2023.7:* 录取 **武汉大学国家天元数学中部中心《高性能计算短期课程》**.
+- *2023.7:* 录取 **武汉大学国家天元数学中部中心[《高性能计算短期课程》](https://tmcc.whu.edu.cn/info/1051/1571.htm)**.
 
 # 🛠️ 专利
 - *2024.06:* 陈洪, **张学林**, 李伟夫, 郑锋. [**一种混凝土抗压能力预测方法、装置、设备及存储介质(已授权)**](https://patents.google.com/patent/CN114580299A/zh)
