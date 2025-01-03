@@ -1,8 +1,11 @@
 # main links links
 main:
- 
-  - title: "My CSDN"
+
+  - title: "英文主页"
+    url: "https://zxlml.github.io/"
+    
+  - title: "我的CSDN博客"
     url: "https://blog.csdn.net/qq_35155934"
 
-  - title: "My Team"
+  - title: "团队介绍"
     url: "https://aisle.hzau.edu.cn/index.htm"
