@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xuelin Zhang"
-description              : "Welcome! "
+title                    : "张学林"
+description              : " "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xuelin Zhang"
+  name             : "张学林"
   avatar           : "images/shy.jpg"
-  bio              : "Huazhong Agricultural University"
-  location         : "Wuhan, China"
+  bio              : "华中农业大学"
+  location         : "武汉, 中国"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ed1B8x0AAAAJ"
