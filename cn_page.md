@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 本科就读于中国农业大学，研究生就读于华中农业大学。
-硕士期间（2020-2022）在[武玲娟教授](https://www.researchgate.net/profile/Lingjuan-Wu)的指导下研究**可解释稳健机器学习**算法设计以及在**硬件安全领域**的应用；博士期间（2022-）在[陈洪教授](https://chenhongml.github.io/)的指导下研究**可解释稳健优化算法设计**与**算法统计理论分析**。
+硕士期间（2020-2022）在[武玲娟教授](https://www.researchgate.net/profile/Lingjuan-Wu)的指导下研究**可解释稳健机器学习**算法设计以及在**硬件安全领域**的应用；博士期间（2022-）在[陈洪教授](https://chenhongml.github.io/)的指导下研究**可解释稳健优化算法设计**与**算法统计理论分析**。预计于2026年中旬毕业。
 
 我的研究方向主要包括：
 
@@ -28,7 +28,7 @@ redirect_from:
 
 - 硬件安全应用（基于 自然语言与拓扑结构 等策略的硬件特洛伊木马检测）
   
-我预计于2026年中旬毕业。如果你对我的研究方向感兴趣，(**或者base武汉 愿意给个offer**),请联系: zhangxuelin@webmail.hzau.edu.cn
+如果你对我的研究方向感兴趣,请联系: zhangxuelin@webmail.hzau.edu.cn
 
 # 🔥 新闻
 
