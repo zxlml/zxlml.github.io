@@ -1,6 +1,9 @@
 # main links links
 main:
- 
+
+  - title: "中文主页"
+    url: "https://zhangxuelincode.github.io/"
+    
   - title: "My CSDN"
     url: "https://blog.csdn.net/qq_35155934"
 
