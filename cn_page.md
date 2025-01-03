@@ -95,7 +95,7 @@ redirect_from:
 
 [Improved Concentration Bound for CVaR](https://ieeexplore.ieee.org/abstract/document/10650860)
 
-Peng Sima, Hao Deng*, **Xuelin Zhang**, Hong Chen. 
+[Peng Sima](https://www.semanticscholar.org/author/Peng-Sima/2320582518), [Hao Deng*](https://scholar.google.com/citations?user=94-PGUAAAAAJ&hl=en), **Xuelin Zhang**, Hong Chen. 
 
 **International Joint Conference on Neural Networks 2024 [C]**
 
@@ -109,7 +109,7 @@ Peng Sima, Hao Deng*, **Xuelin Zhang**, Hong Chen.
 
 [Neural Partially Linear Additive Model](https://link.springer.com/article/10.1007/s11704-023-2662-3)
 
-Liangxuan Zhu, Han Li*, **Xuelin Zhang**, Lingjuan Wu, Hong Chen. 
+[Liangxuan Zhu](https://dl.acm.org/profile/99660968082), [Han Li*](https://www.researchgate.net/profile/Han-Li-115), **Xuelin Zhang**, [Lingjuan Wu](https://www.researchgate.net/profile/Lingjuan-Wu), Hong Chen. 
 
 **Frontiers of Computer Science 2023 [J]**
 
@@ -123,7 +123,7 @@ Liangxuan Zhu, Han Li*, **Xuelin Zhang**, Lingjuan Wu, Hong Chen.
 
 [Stepdown SLOPE for Controlled Feature Selection](https://ojs.aaai.org/index.php/AAAI/article/view/26050)
 
-Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang. 
+Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, [Weifu Li](https://www.researchgate.net/profile/Weifu-Li), [Xin Tang](https://ieeexplore.ieee.org/author/37088421138). 
 
 **Association for the Advancement of Artificial Intelligence 2023 [C] (Oral)**
 
@@ -137,7 +137,7 @@ Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang.
 
 [Robust variable structure discovery based on tilted empirical risk minimization](https://dl.acm.org/doi/abs/10.1007/s10489-022-04409-z)
 
-**Xuelin Zhang**, Yingjie Wang, Liangxuan Zhu, Hong Chen, Han Li, Lingjuan Wu*. 
+**Xuelin Zhang**, [Yingjie Wang](https://scholar.google.com/citations?user=jPJBUnoAAAAJ&hl=en), Liangxuan Zhu, Hong Chen, Han Li, Lingjuan Wu*. 
 
 **Applied Intelligence 2023 [J]**
 
@@ -153,7 +153,7 @@ Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang.
 
 [Robustness of classifier to adversarial examples under imbalanced data](https://ieeexplore.ieee.org/document/9846074)
 
-Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, Yizhi Zhao. 
+Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, [Yizhi Zhao](https://www.researchgate.net/profile/Yizhi-Zhao-2). 
 
 **International Conference on Computer and Communication Systems 2022 [C]**
 
@@ -169,7 +169,7 @@ Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, Yizhi Zhao.
 
 [Towards Precise and Explainable Hardware Trojan Localization at LUT Level](https://zxlml.github.io/)
 
-Hao Su, [Wei Hu](https://scholar.google.com.hk/citations?user=1kXI0YEAAAAJ&hl=en), **Xuelin Zhang**, Dan Zhu, Lingjuan Wu*. 
+Hao Su, [Wei Hu](https://scholar.google.com.hk/citations?user=1kXI0YEAAAAJ&hl=en), **Xuelin Zhang**, [Dan Zhu](https://scholar.google.com/citations?user=vxiSH8kAAAAJ), Lingjuan Wu*. 
 
 **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 2025 [J]**
 
@@ -197,7 +197,7 @@ Yichen Li, Wei Hu, Hao Su, **Xuelin Zhang**, Yizhi Zhao, Lingjuan Wu*.
 
 [Automated Hardware Trojan Detection at LUT Using Explainable Graph Neural Networks](https://ieeexplore.ieee.org/document/10323915)
 
-Lingjuan Wu, Hao Su, **Xuelin Zhang**, Yu Tai, Han Li, Wei Hu*. 
+Lingjuan Wu, Hao Su, **Xuelin Zhang**, [Yu Tai](https://ieeexplore.ieee.org/author/37086110235), Han Li, Wei Hu*. 
 
 **International Conference on Computer-Aided Design 2023 [C]**
 
@@ -241,8 +241,6 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - *2024.4:* 受邀汇报： [**湖北省工业与应用数学学会2024年学术交流大会**.](https://aisle.hzau.edu.cn/info/1097/1901.htm)
 - *2023.11:* 荣获 **华中农业大学信息学院“电子信息研究生论坛”一等奖**.
 - *2023.7:* 录取 **武汉大学国家天元数学中部中心[《高性能计算短期课程》](https://tmcc.whu.edu.cn/info/1051/1571.htm)**.
-
-
 
 # 🛠️ 专利
 - *2024.06:* 陈洪, **张学林**, 李伟夫, 郑锋. [**一种混凝土抗压能力预测方法、装置、设备及存储介质(已授权)**](https://patents.google.com/patent/CN114580299A/zh).
