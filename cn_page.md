@@ -19,27 +19,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-本科就读于中国农业大学，研究生就读于华中农业大学。硕士期间（2020-2022）在[武玲娟教授](https://www.researchgate.net/profile/Lingjuan-Wu)的指导下研究**可解释稳健机器学习**算法设计以及在**硬件安全领域**的应用；博士期间（2022-）在[陈洪教授](https://chenhongml.github.io/)的指导下研究**可解释稳健优化算法设计与统计理论分析**。
+本科就读于中国农业大学，研究生就读于华中农业大学。硕士期间（2020-2022）在[武玲娟教授](https://www.researchgate.net/profile/Lingjuan-Wu)的指导下研究**可解释稳健机器学习**算法设计以及在**硬件安全领域**的应用；博士期间（2022-）在[陈洪教授](https://chenhongml.github.io/)的指导下研究**可解释稳健优化算法设计**与**算法统计理论分析**。
 
 我的研究方向主要包括：
 
-- 自动机器学习（双层优化、元学习）
+- 自动化机器学习（双层优化、元学习）
 
 - 可解释/鲁棒算法设计（鲁棒度量函数设计、稀疏可加建模）
 
 - 硬件安全应用（基于 自然语言与拓扑结构 等策略的硬件特洛伊木马检测）
   
-我预计2026年中旬毕业。如果你对我的研究方向感兴趣，或者愿意给俺个offer，请联系: zhangxuelin@webmail.hzau.edu.cn
+我预计于2026年中旬毕业。如果你对我的研究方向感兴趣，(**或者愿意给个offer**),请联系: zhangxuelin@webmail.hzau.edu.cn
 
 # 🔥 新闻
 
-- *2025.01*: &nbsp;🎉🎉  合作论文接收在**TCAD (ccf-A)**类期刊. 
+- *2025.01*: &nbsp;🎉🎉  合作论文被**TCAD**(**ccf-A**类期刊)接收. 
 
-- *2024.12*: &nbsp;🎉🎉  参加CCF2024年会暨第八届优秀博士论坛.
+- *2024.12*: &nbsp;🎉🎉  参加CCF武汉2024年会暨第八届优秀博士论坛并作口头汇报.
 
 - *2024.11*: &nbsp;🎉🎉  荣获 **博士国家奖学金**.
 
-# 📝 Publications in Machine Learning
+# 📝 机器学习方向论文
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[8] ICDM 2024 [ccf-B]</div><img src='images/ICDM2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -50,7 +50,8 @@ Peipei Yuan, Xinge You*, Hong Chen, **Xuelin Zhang**, and Qinmu Peng.
 
 **IEEE International Conference on Data Mining 2024 [C]**
 
-- In this work, we propose a novel generalized additive model with a flexible link function automatically learned by a bilevel scheme. The proposed model is capable of nonlinear approximation, hidden interaction and feature selection, which also enjoys the theoretical guarantee of algorithmic convergence.
+- 在这项工作中，我们提出了一种新型的广义加性模型，该模型具有一个通过双层方案自动学习的灵活链接函数。所提出的模型能够进行非线性逼近、隐藏交互和特征选择，同时也享有算法收敛的理论保证。
+
 </div>
 </div>
 
@@ -63,7 +64,7 @@ Hong Chen*, **Xuelin Zhang**, Tieliang Gong, Bin Gu, Feng Zheng.
 
 **Expert Systems With Applications 2024 [J]**
 
-- This paper goes beyond the limitation of error value-dependent learning criterion and proposes the EDERM framework for robust regression against atypical data. The effectiveness of our method is validated by sufficient empirical evaluations. The implementation codes can be found at: [https://github.com/zhangxuelincode/EDERM](https://github.com/zhangxuelincode/EDERM)
+- 这篇论文缓解了依赖误差值的稳健学习准则的局限性，并提出了误差密度依赖的经验风险最小化框架，用于对抗异常数据的稳健回归与分类。我们的方法的有效性通过充分的实证评估得到了验证。实现代码可以在以下网址找到： [https://github.com/zhangxuelincode/EDERM](https://github.com/zhangxuelincode/EDERM)
 </div>
 </div>
 
@@ -77,7 +78,7 @@ Hong Chen*, **Xuelin Zhang**, Tieliang Gong, Bin Gu, Feng Zheng.
 
 **International Joint Conference on Artificial Intelligence 2024 [C] (Oral)**
 
-- In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods, based on the (on-average argument) algorithmic stability technique. The verification codes are provided at: [https://github.com/zhangxuelincode/BilevelOptimization](https://github.com/zhangxuelincode/BilevelOptimization)
+- 在这篇论文中，我们基于（平均参数）算法稳定性技术，对一阶基于梯度的双层优化方法进行了系统的泛化分析。验证代码提供在: [https://github.com/zhangxuelincode/BilevelOptimization](https://github.com/zhangxuelincode/BilevelOptimization)
 </div>
 </div>
 
@@ -90,7 +91,7 @@ Peng Sima, Hao Deng*, **Xuelin Zhang**, Hong Chen.
 
 **International Joint Conference on Neural Networks 2024 [C]**
 
-- This paper introduces a novel estimator that relies on an estimator of Value at Risk (VaR) and investigates the concentration inequalities in independent scenarios where the underlying distributions are sub-Gaussian, sub-exponential, or heavy-tailed, where the inequalities we derive are bilateral, exhibit exponential decay, and are not confined to bounded scenarios.
+- 这篇论文介绍了一种新颖的估计器，该估计器依赖于风险价值（Value at Risk，简称VaR）的估计，并研究了在独立场景中的集中不等式，其中底层分布是次高斯（sub-Gaussian）、次指数（sub-exponential）或重尾（heavy-tailed）的。我们推导出的不等式是双边的，表现出指数衰减，并且不局限于有界场景.
 </div>
 </div>
 
@@ -103,7 +104,7 @@ Liangxuan Zhu, Han Li*, **Xuelin Zhang**, Lingjuan Wu, Hong Chen.
 
 **Frontiers of Computer Science 2023 [J]**
 
-- This paper proposes a Neural  Partially  Linear  Additive  Model  (NPLAM),  which automatically  distinguishes  insignificant,  linear,  and  nonlinear features  in  neural  networks, which can realize model-level interpretability.
+- 这篇论文提出了一种神经部分线性加性模型，该模型能够在神经网络中自动区分不显著、线性和非线性特征，从而实现模型级别的可解释性.
 </div>
 </div>
 
@@ -116,7 +117,7 @@ Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang.
 
 **Association for the Advancement of Artificial Intelligence 2023 [C] (Oral)**
 
-- This paper goes beyond the previous concern of Sorted L-One Penalized Estimation (SLOPE) limited to the false discovery rate (FDR) control by considering the stepdown-based SLOPE in order to control the probability of k or more false rejections (k-FWER) and the false discovery proportion (FDP).
+- 这篇论文超越了之前对排序L-One惩罚估计（Sorted L-One Penalized Estimation，简称SLOPE）的担忧，SLOPE仅限于控制假发现率（False Discovery Rate，简称FDR）.论文考虑了基于逐步下降的SLOPE，以控制k个或更多假拒绝的概率（k-FWER）和假发现比例（False Discovery Proportion，简称FDP）.
 </div>
 </div>
 
@@ -129,7 +130,7 @@ Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang.
 
 **Applied Intelligence 2023 [J]**
 
-- In this paper, we propose a new robust variable structure discovery method for group lasso based on a convergent bilevel optimization framework, where the robust tilted empirical risk minimization is adopted. The implementation codes can be found at: [https://github.com/zhangxuelincode/demoTERMGL](https://github.com/zhangxuelincode/demoTERMGL)
+- 在这篇论文中，我们提出了一种新的基于收敛双层优化框架的鲁棒变量结构发现方法，用于基于组套索（group lasso），其中采用了鲁棒倾斜的经验风险最小化。实现代码可以在以下网址找到: [https://github.com/zhangxuelincode/demoTERMGL](https://github.com/zhangxuelincode/demoTERMGL)
 </div>
 </div>
 
@@ -143,12 +144,12 @@ Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, Yizhi Zhao.
 
 **International Conference on Computer and Communication Systems 2022 [C]**
 
-- In this paper, we provide a theoretical framework to analyze the robustness of classifier to AE under imbalanced dataset from the perspective of AUC (Area under the ROC curve), and derive an interpretable upper bound.
+- 在这篇论文中，我们提供了一个理论框架，用于从AUC（ROC曲线下面积）的角度分析分类器对AE（Adversarial Examples，对抗性样本）在不平衡数据集下的鲁棒性，并推导出一个可解释的上限.
 </div>
 </div>
 
 
-# 📝 Publications in Hardware Security
+# 📝 硬件安全方向论文
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[4] TCAD 2025 [ccf-A]</div><img src='images/tcad2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -159,7 +160,7 @@ Hao Su, Wei Hu, **Xuelin Zhang**, Dan Zhu, Lingjuan Wu*.
 
 **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 2025 [J]**
 
-- The proposed approach aims to extract the rich structural and behavioral features at look-up-table (LUT) level to train an explainable graph neural network (GNN) model for classifying design nodes in FPGA netlists and identifying the Trojan-infected ones. The implementation codes can be found at: [https://github.com/zhangxuelincode/node_label](https://github.com/zhangxuelincode/node_label)
+- 提出的方法是旨在提取查找表（LUT）级别的丰富结构和行为特征，以训练一个可解释的图神经网络（GNN）模型，用于对FPGA网表中的设计节点进行分类，并识别感染木马的节点。实现代码可以在以下网址找到: [https://github.com/zhangxuelincode/node_label](https://github.com/zhangxuelincode/node_label)
 </div>
 </div>
 
@@ -172,7 +173,7 @@ Yichen Li, Wei Hu, Hao Su, **Xuelin Zhang**, Yizhi Zhao, Lingjuan Wu*.
 
 **International Test Conference in Asia 2024 [C]**
 
-- In this work, we propose a novel hardware Trojan detection method at RTL. Our approach involves the transformation of hardware design into CDFG, followed by path extraction and segmentation. 
+- 在这项工作中，我们提出了一种新颖的RTL（寄存器传输级）硬件木马检测方法。我们的方法涉及将硬件设计转换为CDFG（控制数据流图），然后进行路径提取和分割.
 </div>
 </div>
 
@@ -185,7 +186,7 @@ Lingjuan Wu, Hao Su, **Xuelin Zhang**, Yu Tai, Han Li, Wei Hu*.
 
 **International Conference on Computer-Aided Design 2023 [C]**
 
-- In this work, we propose a novel hardware Trojan detection method based on graph neural networks (GNNs) targeting FPGA netlist. We leverage the rich explicit structural features and behavioral characteristics at LUT, which offers an ideal abstraction level and granularity for Trojan detection. A GNN model with optimized class-balanced focal loss is trained for automated Trojan feature extraction and classification. 
+- 在这项工作中，我们提出了一种基于图神经网络（GNNs）的新型硬件木马检测方法，针对FPGA网表。我们利用LUT级别的丰富显式结构特征和行为特征，这为木马检测提供了一个理想的抽象层次和粒度。通过训练一个优化的类别平衡焦点损失的GNN模型，实现了自动化的木马特征提取和分类. 
 </div>
 </div>
 
@@ -198,21 +199,27 @@ Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu*.
 
 **International Symposium on Hardware Oriented Security and Trust 2022 [C]**
 
-- This work proposes a novel hardware Trojan detection method that leverages static structural features and behavioral characteristics in field programmable gate array (FPGA) netlists. Mapping of hardware design sources to look-up-table (LUT) networks makes these features explicit, allowing automated feature extraction and further effective Trojan detection through machine learning.
+- 这项工作提出了一种新颖的硬件木马检测方法，该方法利用现场可编程门阵列（FPGA）网表中的静态结构特征和行为特征。将硬件设计源映射到查找表（LUT）网络使得这些特征变得明确，允许通过机器学习自动化特征提取，并进一步有效地检测木马.
 </div>
 </div>
 
 
 
-# 🎖️ Activities and Honors
-- *2024.12:* 受邀汇报： [**CCF Wuhan 2024 Annual Conference and 8th Outstanding Doctoral Student Academic Forum**.](https://www.ccf.org.cn/Chapters/Chapters/Wuhan/hyhdzxdt/2024-12-23/836269.shtml)
-- *2024.11:* 荣获 [**博士国家奖学金**.](https://aisle.hzau.edu.cn/info/1097/2216.htm)
-- *2024.11:* 海报参展： [**CSIAM 2024**.](https://aisle.hzau.edu.cn/info/1097/2201.htm)
-- *2024.8:* 受邀汇报： [**Conference of IJCAI-2024**.](https://aisle.hzau.edu.cn/info/1097/1911.htm)
-- *2024.4:* 受邀汇报： [**HBSIAM 2024**.](https://aisle.hzau.edu.cn/info/1097/1901.htm)
+# 🎖️ 活动与奖项
+- *2024.12:* 受邀汇报： [**CCF武汉2024年会暨第八届优秀博士生学术风采展示论坛**.](https://www.ccf.org.cn/Chapters/Chapters/Wuhan/hyhdzxdt/2024-12-23/836269.shtml)
+- *2024.11:* 荣获 [2024年度**博士国家奖学金**.](https://aisle.hzau.edu.cn/info/1097/2216.htm)
+- *2024.11:* 荣获 [2024年度**三好研究生**.](https://yjs.hzau.edu.cn/info/1192/10321.htm)
+- *2024.11:* 海报参展： [**第二十二届中国工业与应用数学学会年会**.](https://aisle.hzau.edu.cn/info/1097/2201.htm)
+- *2024.8:* 受邀汇报： [**IJCAI-2024国际人工智能会议口头汇报与海报展示**.](https://aisle.hzau.edu.cn/info/1097/1911.htm)
+- *2024.4:* 受邀汇报： [**湖北省工业与应用数学学会2024年学术交流大会**.](https://aisle.hzau.edu.cn/info/1097/1901.htm)
+- *2023.11:* 荣获 **华中农业大学信息学院“电子信息研究生论坛”一等奖**
 
-# 🛠️ Authorized Patents
-- *2024.06:* 陈洪, **张学林**, 李伟夫, 郑锋. [**CN114580299A**.](https://patents.google.com/patent/CN114580299A/zh)
+# 🛠️ 专利
+- *2024.06:* 陈洪, **张学林**, 李伟夫, 郑锋. [**一种混凝土抗压能力预测方法、装置、设备及存储介质(已授权)**](https://patents.google.com/patent/CN114580299A/zh)
+- *2024.06:* 武玲娟, 胡伟, 宿豪, **张学林**, 李函. **一种基于FPGA网表特征子图的硬件木马检测方法(实质审查中)**
+- *2024.10.:* 武玲娟, 李奕晨, 胡伟, **张学林**, 李函. **一种基于语义特征自动提取的硬件木马检测方法(实质审查中)**
+- *2023.01:* 武玲娟, 胡伟, 宿豪, **张学林**, 邰瑜. **一种基于图神经网络的硬件木马自动检测方法(实质审查中)**
+
 
 # 💬 学术服务
 
@@ -220,5 +227,5 @@ Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu*.
 
 - 期刊审稿人: Expert Systems With Applications, Journal of Infrastructure, Policy and Development.
   
-# 🌏 Visit Counter
+# 🌏 浏览记录
 <a href="https://info.flagcounter.com/LoqT"><img src="https://s05.flagcounter.com/countxl/LoqT/bg_FFFFFF/txt_061414/border_CC4BBB/columns_8/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
