@@ -40,7 +40,7 @@ redirect_from:
 
 - *2025.01*: &nbsp;🎉🎉  合作论文被**TCAD**(**体系结构领域CCF-A类**期刊)接收. 
 
-- *2024.12*: &nbsp;🎉🎉  参加CCF武汉2024年会暨第八届优秀博士论坛并作口头汇报.
+- *2024.12*: &nbsp;🎉🎉  参加[CCF武汉2024年会暨第八届优秀博士论坛](https://www.ccf.org.cn/Member_Activities/2024-12-23/836271.shtml)并作口头汇报.
 
 - *2024.11*: &nbsp;🎉🎉  荣获 **博士国家奖学金**.
 
@@ -226,7 +226,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - **Xuelin Zhang**, et al,. Meta Additive Model: Learning Theory Analysis and Applications.
 - **Xuelin Zhang**, et al,. S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection.
 - **Xuelin Zhang**, et al,. Robust Manifold Learning via Bilevel CycleGAN.
-- Ricehng Zhou#, **Xuelin Zhang**#, (Equal Contribution#) et al,. Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift.
+- (Equal Contribution#) Ricehng Zhou#, **Xuelin Zhang**#, et al,. Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift.
 - Lingjuan Wu, Hao Su, **Xuelin Zhang**, et al,. Explainable Hardware Trojan Detection and Localization in FPGA Netlists.
 
 # 🎖️ 近期活动与奖项
@@ -242,10 +242,10 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - *2023.7:* 录取 **武汉大学国家天元数学中部中心[《高性能计算短期课程》](https://tmcc.whu.edu.cn/info/1051/1571.htm)**.
 
 # 🛠️ 专利
-- *2024.06:* 陈洪, **张学林**, 李伟夫, 郑锋. [**一种混凝土抗压能力预测方法、装置、设备及存储介质(已授权)**](https://patents.google.com/patent/CN114580299A/zh)
-- *2024.06:* 武玲娟, 胡伟, 宿豪, **张学林**, 李函. **一种基于FPGA网表特征子图的硬件木马检测方法(实质审查中)**
-- *2024.10:* 武玲娟, 李奕晨, 胡伟, **张学林**, 李函. **一种基于语义特征自动提取的硬件木马检测方法(实质审查中)**
-- *2023.01:* 武玲娟, 胡伟, 宿豪, **张学林**, 邰瑜. **一种基于图神经网络的硬件木马自动检测方法(实质审查中)**
+- *2024.06:* 陈洪, **张学林**, 李伟夫, 郑锋. [**一种混凝土抗压能力预测方法、装置、设备及存储介质(已授权)**](https://patents.google.com/patent/CN114580299A/zh).
+- *2024.06:* 武玲娟, 胡伟, 宿豪, **张学林**, 李函. **一种基于FPGA网表特征子图的硬件木马检测方法(实质审查中)**.
+- *2024.10:* 武玲娟, 李奕晨, 胡伟, **张学林**, 李函. **一种基于语义特征自动提取的硬件木马检测方法(实质审查中)**.
+- *2023.01:* 武玲娟, 胡伟, 宿豪, **张学林**, 邰瑜. **一种基于图神经网络的硬件木马自动检测方法(实质审查中)**.
 
 
 # 💬 学术服务
