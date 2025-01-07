@@ -227,7 +227,9 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - **Xuelin Zhang**, et al,. S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection.
 - **Xuelin Zhang**, et al,. Robust Manifold Learning via Bilevel CycleGAN.
 - (Equal Contribution#) Ricehng Zhou#, **Xuelin Zhang**#, et al,. Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift.
-- Lingjuan Wu, Hao Su, **Xuelin Zhang**, et al,. Explainable Hardware Trojan Detection and Localization in FPGA Netlists.
+- From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning
+- On the Generalization Ability of Next-Token-Prediction Pretraining.
+- Explainable Hardware Trojan Detection and Localization in FPGA Netlists.
 
 # 🎖️ 近期活动与奖项
 - *2024.12:* 受邀汇报： [**CCF武汉2024年会暨第八届优秀博士生学术风采展示论坛**.](https://www.ccf.org.cn/Chapters/Chapters/Wuhan/hyhdzxdt/2024-12-23/836269.shtml)
