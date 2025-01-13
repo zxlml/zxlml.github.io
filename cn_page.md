@@ -28,13 +28,13 @@ redirect_from:
 
 我的研究方向主要包括：
 
-- 自动化算法设计（双层优化、元学习）与统计性质分析（收敛、泛化、一致性）
-
 - 可解释/鲁棒算法设计（鲁棒度量函数设计、稀疏可加建模）
+
+- 统计性质分析（收敛、泛化、一致性保障）
 
 - 硬件安全应用（基于 自然语言与电路拓扑结构 等策略的硬件特洛伊木马检测）
   
-如果对我的研究方向感兴趣, 或者有不错的Offer 😃, 烦请联系: zhangxuelin@webmail.hzau.edu.cn
+如果对我的研究方向感兴趣, 或者有合适的Offer 😃, 烦请联系: zhangxuelin@webmail.hzau.edu.cn
 
 # 🔥 新闻
 
@@ -216,14 +216,14 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 - 这项工作提出了一种新颖的硬件木马检测方法，该方法利用现场可编程门阵列（FPGA）网表中的静态结构特征和行为特征.将硬件设计源映射到查找表（LUT）网络使得这些特征变得明确，允许通过机器学习自动化特征提取，并进一步有效地检测木马.
 - 这篇论文我们引入了混合高效重采样（过采样与欠采样结合）来处理非均衡问题，并在实验中得到了理想的性能提升.
-- 😞 遗憾的是，尽管HOST会议在这个领域有着一定的知名度，但是CCF-C都没进.
+- 😞 遗憾的是，尽管HOST会议在这个领域有着一定的知名度，但是ccf-C都没进.
 </div>
 </div>
 
 
 # 📝 审稿中工作
 
-- **Xuelin Zhang**, et al,. Meta Additive Model: Learning Theory Analysis and Applications.
+- **Xuelin Zhang**, et al,. Meta Additive Model: Learning Theory Analysis and Applications. 
 - **Xuelin Zhang**, et al,. S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection.
 - **Xuelin Zhang**, et al,. Robust Manifold Learning via Bilevel CycleGAN.
 - (Equal Contribution#) Ricehng Zhou#, **Xuelin Zhang**#, et al,. Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift.
