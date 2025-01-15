@@ -170,7 +170,7 @@ Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, [Yizhi Zhao
 
 Hao Su, [Wei Hu](https://scholar.google.com.hk/citations?user=1kXI0YEAAAAJ&hl=en), **Xuelin Zhang**, [Dan Zhu](https://scholar.google.com/citations?user=vxiSH8kAAAAJ), Lingjuan Wu*. 
 
-**Transactions on Computer-Aided Design of Integrated Circuits and Systems 2025 [J]**
+**IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 2025 [J]**
 
 - 提出的方法是旨在提取查找表（LUT）级别的丰富结构和行为特征，以训练一个可解释的图神经网络（GNN）模型，用于对FPGA网表中的设计节点进行分类，并识别感染木马的节点。实现代码: [https://github.com/zhangxuelincode/node_label](https://github.com/zhangxuelincode/node_label)
 - 在跨年的这个夜晚，能够看到顶刊接收信息蛮开心的.希望2025年对我好一点 🙏 尤其是善良的编辑，领域主席和审稿人们.
