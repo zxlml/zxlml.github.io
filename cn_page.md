@@ -198,7 +198,7 @@ Yichen Li, Wei Hu, Hao Su, **Xuelin Zhang**, Yizhi Zhao, Lingjuan Wu*.
 
 Lingjuan Wu, Hao Su, **Xuelin Zhang**, [Yu Tai](https://ieeexplore.ieee.org/author/37086110235), Han Li, Wei Hu*. 
 
-**ACM/IEEE International Conference on Computer-Aided Design 2023 [C]**
+**International Conference on Computer-Aided Design 2023 [C]**
 
 - 在这项工作中，我们提出了一种基于图神经网络（GNNs）的新型硬件木马检测方法，针对FPGA网表。我们利用LUT级别的丰富显式结构特征和行为特征，这为木马检测提供了一个理想的抽象层次和粒度。通过训练一个优化的类别平衡焦点损失的GNN模型，实现了自动化的木马特征提取和分类.
 - 我们引入了一些很有意思的（基于格兰杰因果思想）可解释策略以及处理非均衡问题的策略，这也是我们初步尝试GNN的应用.
