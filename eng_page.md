@@ -174,7 +174,7 @@ Hao Su, Wei Hu, **Xuelin Zhang**, Dan Zhu, Lingjuan Wu*.
 
 Yichen Li, Wei Hu, Hao Su, **Xuelin Zhang**, Yizhi Zhao, Lingjuan Wu*. 
 
-**International Test Conference in Asia 2024 [C]**
+**IEEE International Test Conference in Asia 2024 [C]**
 
 - In this work, we propose a novel hardware Trojan detection method at RTL. Our approach involves the transformation of hardware design into CDFG, followed by path extraction and segmentation. 
 </div>
@@ -187,7 +187,7 @@ Yichen Li, Wei Hu, Hao Su, **Xuelin Zhang**, Yizhi Zhao, Lingjuan Wu*.
 
 Lingjuan Wu, Hao Su, **Xuelin Zhang**, Yu Tai, Han Li, Wei Hu*. 
 
-**International Conference on Computer-Aided Design 2023 [C]**
+**ACM/IEEE International Conference on Computer-Aided Design 2023 [C]**
 
 - In this work, we propose a novel hardware Trojan detection method based on graph neural networks (GNNs) targeting FPGA netlist. We leverage the rich explicit structural features and behavioral characteristics at LUT, which offers an ideal abstraction level and granularity for Trojan detection. A GNN model with optimized class-balanced focal loss is trained for automated Trojan feature extraction and classification. 
 </div>
@@ -200,7 +200,7 @@ Lingjuan Wu, Hao Su, **Xuelin Zhang**, Yu Tai, Han Li, Wei Hu*.
 
 Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu*. 
 
-**International Symposium on Hardware Oriented Security and Trust 2022 [C]**
+**IEEE International Symposium on Hardware Oriented Security and Trust 2022 [C]**
 
 - This work proposes a novel hardware Trojan detection method that leverages static structural features and behavioral characteristics in field programmable gate array (FPGA) netlists. Mapping of hardware design sources to look-up-table (LUT) networks makes these features explicit, allowing automated feature extraction and further effective Trojan detection through machine learning.
 </div>
