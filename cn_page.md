@@ -170,7 +170,7 @@ Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, [Yizhi Zhao
 
 Hao Su, [Wei Hu](https://scholar.google.com.hk/citations?user=1kXI0YEAAAAJ&hl=en), **Xuelin Zhang**, [Dan Zhu](https://scholar.google.com/citations?user=vxiSH8kAAAAJ), Lingjuan Wu*. 
 
-**IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 2025 [J]**
+**Transactions on Computer-Aided Design of Integrated Circuits and Systems 2025 [J]**
 
 - 提出的方法是旨在提取查找表（LUT）级别的丰富结构和行为特征，以训练一个可解释的图神经网络（GNN）模型，用于对FPGA网表中的设计节点进行分类，并识别感染木马的节点。实现代码: [https://github.com/zhangxuelincode/node_label](https://github.com/zhangxuelincode/node_label)
 - 在跨年的这个夜晚，能够看到顶刊接收信息蛮开心的.希望2025年对我好一点 🙏 尤其是善良的编辑，领域主席和审稿人们.
@@ -184,7 +184,7 @@ Hao Su, [Wei Hu](https://scholar.google.com.hk/citations?user=1kXI0YEAAAAJ&hl=en
 
 Yichen Li, Wei Hu, Hao Su, **Xuelin Zhang**, Yizhi Zhao, Lingjuan Wu*. 
 
-**IEEE International Test Conference in Asia 2024 [C]**
+**International Test Conference in Asia 2024 [C]**
 
 - 在这项工作中，我们提出了一种新颖的RTL（寄存器传输级）硬件木马检测方法。我们的方法涉及将硬件设计转换为CDFG（控制数据流图），然后进行路径提取和分割.
 - 这篇工作算是NLP技术在硬件木马检测任务上，比较早的应用.我们首次在RTL仿真阶段对代码直接进行建模，就可以高精度地检测出木马设计，无需进一步仿真或者流片.
@@ -212,7 +212,7 @@ Lingjuan Wu, Hao Su, **Xuelin Zhang**, [Yu Tai](https://ieeexplore.ieee.org/auth
 
 Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?user=xZ6Hd2IAAAAJ), Wei Hu*. 
 
-**IEEE International Symposium on Hardware Oriented Security and Trust 2022 [C]**
+**International Symposium on Hardware Oriented Security and Trust 2022 [C]**
 
 - 这项工作提出了一种新颖的硬件木马检测方法，该方法利用现场可编程门阵列（FPGA）网表中的静态结构特征和行为特征.将硬件设计源映射到查找表（LUT）网络使得这些特征变得明确，允许通过机器学习自动化特征提取，并进一步有效地检测木马.
 - 这篇论文我们引入了混合高效重采样（过采样与欠采样结合）来处理非均衡问题，并在实验中得到了理想的性能提升.
