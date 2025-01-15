@@ -184,7 +184,7 @@ Hao Su, [Wei Hu](https://scholar.google.com.hk/citations?user=1kXI0YEAAAAJ&hl=en
 
 Yichen Li, Wei Hu, Hao Su, **Xuelin Zhang**, Yizhi Zhao, Lingjuan Wu*. 
 
-**International Test Conference in Asia 2024 [C]**
+**IEEE International Test Conference in Asia 2024 [C]**
 
 - 在这项工作中，我们提出了一种新颖的RTL（寄存器传输级）硬件木马检测方法。我们的方法涉及将硬件设计转换为CDFG（控制数据流图），然后进行路径提取和分割.
 - 这篇工作算是NLP技术在硬件木马检测任务上，比较早的应用.我们首次在RTL仿真阶段对代码直接进行建模，就可以高精度地检测出木马设计，无需进一步仿真或者流片.
@@ -198,7 +198,7 @@ Yichen Li, Wei Hu, Hao Su, **Xuelin Zhang**, Yizhi Zhao, Lingjuan Wu*.
 
 Lingjuan Wu, Hao Su, **Xuelin Zhang**, [Yu Tai](https://ieeexplore.ieee.org/author/37086110235), Han Li, Wei Hu*. 
 
-**International Conference on Computer-Aided Design 2023 [C]**
+**ACM/IEEE International Conference on Computer-Aided Design 2023 [C]**
 
 - 在这项工作中，我们提出了一种基于图神经网络（GNNs）的新型硬件木马检测方法，针对FPGA网表。我们利用LUT级别的丰富显式结构特征和行为特征，这为木马检测提供了一个理想的抽象层次和粒度。通过训练一个优化的类别平衡焦点损失的GNN模型，实现了自动化的木马特征提取和分类.
 - 我们引入了一些很有意思的（基于格兰杰因果思想）可解释策略以及处理非均衡问题的策略，这也是我们初步尝试GNN的应用.
@@ -212,7 +212,7 @@ Lingjuan Wu, Hao Su, **Xuelin Zhang**, [Yu Tai](https://ieeexplore.ieee.org/auth
 
 Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?user=xZ6Hd2IAAAAJ), Wei Hu*. 
 
-**International Symposium on Hardware Oriented Security and Trust 2022 [C]**
+**IEEE International Symposium on Hardware Oriented Security and Trust 2022 [C]**
 
 - 这项工作提出了一种新颖的硬件木马检测方法，该方法利用现场可编程门阵列（FPGA）网表中的静态结构特征和行为特征.将硬件设计源映射到查找表（LUT）网络使得这些特征变得明确，允许通过机器学习自动化特征提取，并进一步有效地检测木马.
 - 这篇论文我们引入了混合高效重采样（过采样与欠采样结合）来处理非均衡问题，并在实验中得到了理想的性能提升.
