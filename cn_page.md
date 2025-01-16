@@ -223,10 +223,12 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 # 📝 审稿中工作
 
-- **Xuelin Zhang**, et al,. Meta Additive Model: Learning Theory Analysis and Applications. 
-- **Xuelin Zhang**, et al,. S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection.
-- **Xuelin Zhang**, et al,. Robust Manifold Learning via Bilevel CycleGAN.
-- (Equal Contribution#) Ricehng Zhou#, **Xuelin Zhang**#, et al,. Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift.
+- Meta Additive Model: Learning Theory Analysis and Applications. 
+- S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection.
+- Robust Manifold Learning via Bilevel CycleGAN.
+- Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift.
+- Fine-grained Analysis on the Generalization of Multimodal Metric Learning
+- Controlled Feature Interaction Selection for Deep Sparse Networks
 - From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning
 - On the Generalization Ability of Next-Token-Prediction Pretraining.
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists.
