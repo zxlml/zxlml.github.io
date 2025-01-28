@@ -55,8 +55,8 @@ redirect_from:
 
 **IEEE International Conference on Data Mining 2024 [C]**
 
-- 在这项工作中，我们提出了一种新型的广义加性模型，该模型具有一个通过双层方案自动学习的灵活链接函数。所提出的模型能够进行非线性逼近、隐藏交互和特征选择，同时也享有算法收敛的理论保证。
-- 广义可加模型，就应该多考虑一个灵活的外层映射函数嘛！ 这不，我们就用双层建模学出来。
+- 在这项工作中，我们提出了一种新型的广义加性模型，该模型具有一个通过双层方案自动学习的灵活链接函数.所提出的模型能够进行非线性逼近、隐藏交互和特征选择，同时也享有算法收敛的理论保证.
+- 广义可加模型，就应该多考虑一个灵活的外层映射函数嘛！ 这不，我们就用双层建模学出来.
 </div>
 </div>
 
@@ -69,7 +69,7 @@ redirect_from:
 
 **Expert Systems With Applications 2024 [J]**
 
-- 这篇论文缓解了依赖误差值的稳健学习准则的局限性，并提出了误差密度依赖的经验风险最小化框架，用于对抗异常数据的稳健回归与分类。我们的方法的有效性通过充分的实证评估得到了验证。实现代码： [https://github.com/zhangxuelincode/EDERM](https://github.com/zhangxuelincode/EDERM)
+- 这篇论文缓解了依赖误差值的稳健学习准则的局限性，并提出了误差密度依赖的经验风险最小化框架，用于对抗异常数据的稳健回归与分类.我们的方法的有效性通过充分的实证评估得到了验证.实现代码： [https://github.com/zhangxuelincode/EDERM](https://github.com/zhangxuelincode/EDERM)
 - 这个原创的损失函数经历了漫长的打磨，从2021年就一直在不断地从实验做补充.尽管花了我三年的时间反复揉搓，仍觉得它还是个需要从理论上进行打磨的半成品.
 </div>
 </div>
@@ -84,7 +84,7 @@ redirect_from:
 
 **International Joint Conference on Artificial Intelligence 2024 [C] (Oral)**
 
-- 在这篇论文中，我们基于（平均参数）算法稳定性技术，对一阶基于梯度的双层优化方法进行了系统的泛化分析。实现代码：[https://github.com/zhangxuelincode/BilevelOptimization](https://github.com/zhangxuelincode/BilevelOptimization)
+- 在这篇论文中，我们基于（平均参数）算法稳定性技术，对一阶基于梯度的双层优化方法进行了系统的泛化分析.实现代码：[https://github.com/zhangxuelincode/BilevelOptimization](https://github.com/zhangxuelincode/BilevelOptimization)
 - 算法稳定性大法好，泛化分析中可以体现出优化的细节（迭代次数，算法设计，学习率，目标函数的光滑性/凸性等）.
 </div>
 </div>
@@ -98,7 +98,7 @@ redirect_from:
 
 **International Joint Conference on Neural Networks 2024 [C]**
 
-- 这篇论文介绍了一种新颖的估计器，该估计器依赖于风险价值（Value at Risk，简称VaR）的估计，并研究了在独立场景中的集中不等式，其中底层分布是次高斯（sub-Gaussian）、次指数（sub-exponential）或重尾（heavy-tailed）的。我们推导出的不等式是双边的，表现出指数衰减，并且不局限于有界场景.
+- 这篇论文介绍了一种新颖的估计器，该估计器依赖于风险价值（Value at Risk，简称VaR）的估计，并研究了在独立场景中的集中不等式，其中底层分布是次高斯（sub-Gaussian）、次指数（sub-exponential）或重尾（heavy-tailed）的.我们推导出的不等式是双边的，表现出指数衰减，并且不局限于有界场景.
 - VaR和CVaR其实都是经济学里的常见度量，同时也在机器学习得到了广泛应用.这篇工作也是从复杂情景下，推导了无界目标的上下界.
 </div>
 </div>
@@ -140,7 +140,7 @@ Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, [Weifu Li](https://www.researchgat
 
 **Applied Intelligence 2023 [J]**
 
-- 在这篇论文中，我们提出了一种新的基于收敛双层优化框架的鲁棒变量结构发现方法，用于基于组套索（group lasso），其中采用了鲁棒倾斜的经验风险最小化。实现代码: [https://github.com/zhangxuelincode/demoTERMGL](https://github.com/zhangxuelincode/demoTERMGL)
+- 在这篇论文中，我们提出了一种新的基于收敛双层优化框架的鲁棒变量结构发现方法，用于基于组套索（group lasso），其中采用了鲁棒倾斜的经验风险最小化.实现代码: [https://github.com/zhangxuelincode/demoTERMGL](https://github.com/zhangxuelincode/demoTERMGL)
 - 鲁棒性质是可以度量的喔，本文尝试分析了模型的击穿点,也就是能够忍受的最多的异常数据.
 - 能够从高维数据中挖掘协同关系的组结构，挺有意思.不过做的有些粗糙，只考虑到了非重叠的分组结构.重叠情境比较复杂，这也是最近的考虑方向.
 </div>
@@ -172,7 +172,7 @@ Hao Su, [Wei Hu](https://scholar.google.com.hk/citations?user=1kXI0YEAAAAJ&hl=en
 
 **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 2025 [J]**
 
-- 提出的方法是旨在提取查找表（LUT）级别的丰富结构和行为特征，以训练一个可解释的图神经网络（GNN）模型，用于对FPGA网表中的设计节点进行分类，并识别感染木马的节点。实现代码: [https://github.com/zhangxuelincode/node_label](https://github.com/zhangxuelincode/node_label)
+- 提出的方法是旨在提取查找表（LUT）级别的丰富结构和行为特征，以训练一个可解释的图神经网络（GNN）模型，用于对FPGA网表中的设计节点进行分类，并识别感染木马的节点.实现代码: [https://github.com/zhangxuelincode/node_label](https://github.com/zhangxuelincode/node_label)
 - 在跨年的这个夜晚，能够看到顶刊接收信息蛮开心的.希望2025年对我好一点 🙏 尤其是善良的编辑，领域主席和审稿人们.
 </div>
 </div>
@@ -186,7 +186,7 @@ Yichen Li, Wei Hu, Hao Su, **Xuelin Zhang**, Yizhi Zhao, Lingjuan Wu*.
 
 **International Test Conference in Asia 2024 [C]**
 
-- 在这项工作中，我们提出了一种新颖的RTL（寄存器传输级）硬件木马检测方法。我们的方法涉及将硬件设计转换为CDFG（控制数据流图），然后进行路径提取和分割.
+- 在这项工作中，我们提出了一种新颖的RTL（寄存器传输级）硬件木马检测方法.我们的方法涉及将硬件设计转换为CDFG（控制数据流图），然后进行路径提取和分割.
 - 这篇工作算是NLP技术在硬件木马检测任务上，比较早的应用.我们首次在RTL仿真阶段对代码直接进行建模，就可以高精度地检测出木马设计，无需进一步仿真或者流片.
 </div>
 </div>
@@ -200,7 +200,7 @@ Lingjuan Wu, Hao Su, **Xuelin Zhang**, [Yu Tai](https://ieeexplore.ieee.org/auth
 
 **International Conference on Computer-Aided Design 2023 [C]**
 
-- 在这项工作中，我们提出了一种基于图神经网络（GNNs）的新型硬件木马检测方法，针对FPGA网表。我们利用LUT级别的丰富显式结构特征和行为特征，这为木马检测提供了一个理想的抽象层次和粒度。通过训练一个优化的类别平衡焦点损失的GNN模型，实现了自动化的木马特征提取和分类.
+- 在这项工作中，我们提出了一种基于图神经网络（GNNs）的新型硬件木马检测方法，针对FPGA网表.我们利用LUT级别的丰富显式结构特征和行为特征，这为木马检测提供了一个理想的抽象层次和粒度.通过训练一个优化的类别平衡焦点损失的GNN模型，实现了自动化的木马特征提取和分类.
 - 我们引入了一些很有意思的（基于格兰杰因果思想）可解释策略以及处理非均衡问题的策略，这也是我们初步尝试GNN的应用.
 </div>
 </div>
@@ -223,16 +223,16 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 # 📝   审稿中工作
 
-- Meta Additive Model: Learning Theory Analysis and Applications. 
-- S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection.
-- Robust Manifold Learning via Bilevel CycleGAN.
-- Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift.
-- Fine-grained Analysis on the Generalization of Multimodal Metric Learning
-- Controlled Feature Interaction Selection for Deep Sparse Networks
-- From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning
-- On the Generalization Ability of Next-Token-Prediction Pretraining.
-- HDME: Hallucination Detection in LLMs Using Manifold Embedding.
-- Explainable Hardware Trojan Detection and Localization in FPGA Netlists.
+- Meta Additive Model: Learning Theory Analysis and Applications. (To ACHA[J])
+- S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. (To ICML[C])
+- Robust Manifold Learning via Bilevel CycleGAN. (To JMLR[J])
+- Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift. (To IJCAI[C])
+- ~~Fine-grained Analysis on the Generalization of Multimodal Metric Learning. (Resubmit)~~
+- Controlled Feature Interaction Selection for Deep Sparse Networks. (To IJCAI[C])
+- From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. (To IJCAI[C])
+- On the Generalization Ability of Next-Token-Prediction Pretraining.(To ICML[C])
+- HDME: Hallucination Detection in LLMs Using Manifold Embedding. (To ICML[C])
+- Explainable Hardware Trojan Detection and Localization in FPGA Netlists. (To ACM TODAES[J])
 
 # 🎖️ 近期活动与奖项
 - *2024.12:* 受邀汇报： [**CCF武汉2024年会暨第八届优秀博士生学术风采展示论坛**.](https://www.ccf.org.cn/Chapters/Chapters/Wuhan/hyhdzxdt/2024-12-23/836269.shtml)
