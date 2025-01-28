@@ -231,7 +231,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - **合作**
 - ~~Fine-grained Analysis on the Generalization of Multimodal Metric Learning. (Resubmit)~~
 - Controlled Feature Interaction Selection for Deep Sparse Networks. (To IJCAI[C])
-- From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. (To IJCAI[C])
+- From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. (To ICML[C])
 - On the Generalization Ability of Next-Token-Prediction Pretraining.(To ICML[C])
 - HDME: Hallucination Detection in LLMs Using Manifold Embedding. (To ICML[C])
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists. (To ACM TODAES[J])
