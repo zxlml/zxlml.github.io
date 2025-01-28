@@ -34,7 +34,7 @@ redirect_from:
 
 - 硬件安全应用（基于 自然语言与电路拓扑结构 等策略的硬件特洛伊木马检测）
   
-如果对我的研究方向感兴趣, 或者有合适的Offer 😃, 烦请联系: xlinml@163.com
+如果对我的研究方向感兴趣, 或者有合适的Offer (Base 武汉) 😃, 烦请联系: xlinml@163.com
 
 # 🔥 新闻
 
@@ -221,7 +221,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 </div>
 
 
-# 📝 审稿中工作
+# 📝   审稿中工作
 
 - Meta Additive Model: Learning Theory Analysis and Applications. 
 - S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection.
@@ -231,6 +231,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Controlled Feature Interaction Selection for Deep Sparse Networks
 - From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning
 - On the Generalization Ability of Next-Token-Prediction Pretraining.
+- HDME: Hallucination Detection in LLMs Using Manifold Embedding.
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists.
 
 # 🎖️ 近期活动与奖项
