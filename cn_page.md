@@ -223,10 +223,12 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 # 📝   审稿中工作
 
+- **一作**
 - Meta Additive Model: Learning Theory Analysis and Applications. (To ACHA[J])
 - S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. (To ICML[C])
 - Robust Manifold Learning via Bilevel CycleGAN. (To JMLR[J])
 - Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift. (To IJCAI[C])
+- **合作**
 - ~~Fine-grained Analysis on the Generalization of Multimodal Metric Learning. (Resubmit)~~
 - Controlled Feature Interaction Selection for Deep Sparse Networks. (To IJCAI[C])
 - From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. (To IJCAI[C])
