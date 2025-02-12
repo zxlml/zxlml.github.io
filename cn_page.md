@@ -69,7 +69,7 @@ redirect_from:
 
 **Expert Systems With Applications 2024 [J]**
 
-- 这篇论文缓解了依赖误差值的稳健学习准则的局限性，并提出了误差密度依赖的经验风险最小化框架，用于对抗异常数据的稳健回归与分类.我们的方法的有效性通过充分的实证评估得到了验证.实现代码： [https://github.com/zhangxuelincode/EDERM](https://github.com/zhangxuelincode/EDERM)
+- 这篇论文缓解了依赖误差值的稳健学习准则的局限性，并提出了误差密度依赖的经验风险最小化框架，用于对抗异常数据的稳健回归与分类.我们的方法的有效性通过充分的实验评估得到了验证.实现代码： [https://github.com/zhangxuelincode/EDERM](https://github.com/zhangxuelincode/EDERM)
 - 这个原创的损失函数经历了漫长的打磨，从2021年就一直在不断地从实验做补充.尽管花了三年的时间反复揉搓，仍觉得它还是个需要从理论上进行打磨的半成品.
 </div>
 </div>
