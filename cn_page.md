@@ -260,6 +260,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - *2017.8:* 担任 中国农业大学“新丝路暑期实践支队”的微信公众号负责人，历史回顾 [**1-启程**](https://mp.weixin.qq.com/s/Xt4DKLweN3KdBmz-v9CSFA), [**2-征程**](https://mp.weixin.qq.com/s/XePZcWS8f5cHk0K4J41HyQ), [**3-马尾区**](https://mp.weixin.qq.com/s/P3YMbiHi9Pk3ZmN3f-JpyQ), [**4-吐槽**](https://mp.weixin.qq.com/s/cDJHORkRZJoFeH4KhkMDBA), [**5-船政文化**](https://mp.weixin.qq.com/s/qZO5UI575KtJBSf6yhQbdg), [**6-塔兜村**](https://mp.weixin.qq.com/s/jPcF2tUUb3Y76YPHAhrqOA).
 - *2017.4:* 担任 [北京国际长跑节-春季半马志愿者](http://ciee.cau.edu.cn/art/2017/5/10/art_26711_514437.html).
 
+
 # 🛠️ 专利
 - *2024.06:*  [**一种混凝土抗压能力预测方法、装置、设备及存储介质(已授权)**](https://patents.google.com/patent/CN114580299A/zh).
 - *2024.06:*  **一种基于FPGA网表特征子图的硬件木马检测方法(实质审查中)**.
