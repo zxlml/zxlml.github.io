@@ -25,7 +25,7 @@ I am a Ph.D. candidate (2022--) at College of Informatics, Huazhong Agricultural
 
 My research interests lie in the areas of optimization and learning theory, with emphasis on the following topics:
 
-- Automatic machine learning (e.g., Hyperparameter Optimization)
+- Automatic machine learning/LLM (e.g., Hyperparameter Optimization)
 
 - Robust/Interpretable machine learning (e.g., Robust Metric, Sparse/Neural additive models)
 
