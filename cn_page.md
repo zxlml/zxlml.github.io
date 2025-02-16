@@ -246,7 +246,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - *2024.8:* 受邀汇报： 韩国济州岛召开的[**IJCAI-2024国际人工智能会议口头汇报与海报展示**.](https://aisle.hzau.edu.cn/info/1097/1911.htm)
 - *2024.6 - 2024.12:* 前往[**中山大学深圳校区交流学习**.](https://scst.sysu.edu.cn/about/about01/index.htm)
 - *2024.5:* 荣获 2024年度党支部**优秀党员**.
-- *2024.4:* 受邀汇报： 湖北武汉召开的[**湖北省工业与应用数学学会2024年学术交流大会**](https://aisle.hzau.edu.cn/info/1097/1901.htm)[**及颁奖仪式**.](http://hbsiam.whu.edu.cn/a/shouyehuandeng/85.html)
+- *2024.4:* 受邀汇报： 湖北荆州召开的[**湖北省工业与应用数学学会2024年学术交流大会**](https://aisle.hzau.edu.cn/info/1097/1901.htm)[**及颁奖仪式**.](http://hbsiam.whu.edu.cn/a/shouyehuandeng/85.html)
 - *2023.11:* 荣获 **华中农业大学信息学院“电子信息研究生论坛”一等奖**.
 - *2023.7:* 参会 浙江杭州召开的[**数据科学前沿国际研讨会**.](http://cds.zju.edu.cn/a/hyyg/3142.html)
 - *2023.7:* 录取 **武汉大学国家天元数学中部中心[《高性能计算短期课程》.](https://tmcc.whu.edu.cn/info/1051/1571.htm)**
