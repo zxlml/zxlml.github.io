@@ -231,13 +231,14 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. (To ICML[C])
 - Robust Manifold Learning via Bilevel CycleGAN. (To JMLR[J])
 - Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift. (To IJCAI[C])
-- **合作**
-- ~~Fine-grained Analysis on the Generalization of Multimodal Metric Learning. (Resubmit)~~
 - Controlled Feature Interaction Selection for Deep Sparse Networks. (To IJCAI[C])
+- **合作**
 - From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. (To ICML[C])
 - On the Generalization Ability of Next-Token-Prediction Pretraining.(To ICML[C])
 - HDME: Hallucination Detection in LLMs Using Manifold Embedding. (To ICML[C])
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists. (To ACM TODAES[J])
+- ~~Fine-grained Analysis on the Generalization of Multimodal Metric Learning. (Undergoing)~~
+- ~~Robust Hardware Trojan Detection at RTL Through Adversarial Training. (Undergoing)~~
 
 # 🎖️ 以往活动与奖项
 - *2024.12:* 受邀汇报： [**2024年湖北省工业与应用数学学会优秀研究生论文评选**.](http://hbsiam.whu.edu.cn/a/tongzhigonggao/86.html)
