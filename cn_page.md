@@ -228,7 +228,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 # 📝   审稿中工作
 
-- **一作**
+- **(独立/共同)一作**
 - Meta Additive Model: Learning Theory Analysis and Applications. (To ACHA[J])
 - S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. (To ICML[C])
 - Robust Manifold Learning via Bilevel CycleGAN. (To JMLR[J])
