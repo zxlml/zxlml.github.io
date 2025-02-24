@@ -53,7 +53,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[8] ICDM 2024 [ccf-B]</div><img src='images/ICDM2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Generalized Sparse Additive Model with Unknown Link Function](https://icdm2024.org/accepted_papers/)
+[Generalized Sparse Additive Model with Unknown Link Function](https://ieeexplore.ieee.org/abstract/document/10884346)
 
 [Peipei Yuan](https://www.researchgate.net/profile/Peipei-Yuan-3), [Xinge You*](https://scholar.google.com/citations?user=v7bRZX8AAAAJ&hl=en), [Hong Chen](https://chenhongml.github.io/), **Xuelin Zhang**, and [Qinmu Peng](https://scholar.google.com/citations?user=frL8yhIAAAAJ&hl=en). 
 
