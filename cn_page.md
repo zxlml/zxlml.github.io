@@ -40,7 +40,7 @@ redirect_from:
 
 # 🔥 新闻
 
-- *2025.01*: &nbsp;🎉🎉  合作论文被**[TCAD](https://ieeexplore.ieee.org/document/10833822)**(**体系结构领域CCF-A类**期刊)接收. 
+- *2025.01*: &nbsp;🎉🎉  合作论文被[**TCAD**](https://ieeexplore.ieee.org/document/10833822)(**体系结构领域CCF-A类**期刊)接收. 
 
 - *2024.12*: &nbsp;🎉🎉 参加[**2024年湖北省工业与应用数学学会优秀研究生论文评选**.](http://hbsiam.whu.edu.cn/a/tongzhigonggao/86.html)
 
