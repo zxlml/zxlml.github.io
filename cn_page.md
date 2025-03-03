@@ -73,9 +73,10 @@ redirect_from:
 
 **Expert Systems With Applications 2024 [J]**
 
-- 这篇论文缓解了依赖误差值的稳健学习准则的局限性，并提出了误差密度依赖的经验风险最小化框架，用于对抗异常数据的稳健回归与分类.我们的方法的有效性通过充分的实验评估得到了验证.实现代码： [https://github.com/zhangxuelincode/EDERM](https://github.com/zhangxuelincode/EDERM)
+- 这篇论文缓解了依赖误差值的稳健学习准则的局限性，并提出了误差密度依赖的经验风险最小化框架，用于对抗异常数据的稳健回归与分类.我们的方法的有效性通过充分的实验评估得到了验证.
 - 这个原创的损失经历了漫长的打磨，从2021年就一直在不断地从实验做补充.尽管花了三年的时间反复揉搓，仍觉得它还是个需要从理论上进行打磨的半成品.
 - 有幸读到了[林华珍教授](https://csr.swufe.edu.cn/info/1131/1501.htm)发表在[**JASA'24**上的最新工作](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2412364)，在理论上给了一些新的启发，并且佐证了我们这一建模思路的合理性、科学性.
+- 实现代码： [https://github.com/zhangxuelincode/EDERM](https://github.com/zhangxuelincode/EDERM)
 </div>
 </div>
 
@@ -89,8 +90,9 @@ redirect_from:
 
 **International Joint Conference on Artificial Intelligence 2024 [C] (Oral)**
 
-- 在这篇论文中，我们基于（平均参数）算法稳定性技术，对一阶基于梯度的双层优化方法进行了系统的泛化分析.实现代码：[https://github.com/zhangxuelincode/BilevelOptimization](https://github.com/zhangxuelincode/BilevelOptimization)
+- 在这篇论文中，我们基于（平均参数）算法稳定性技术，对一阶基于梯度的双层优化方法进行了系统的泛化分析.
 - 算法稳定性大法好，泛化分析中可以体现出优化的细节（迭代次数，算法设计，学习率，目标函数的光滑性/凸性等）.
+- 实现代码：[https://github.com/zhangxuelincode/BilevelOptimization](https://github.com/zhangxuelincode/BilevelOptimization)
 </div>
 </div>
 
@@ -145,9 +147,10 @@ Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, [Weifu Li](https://www.researchgat
 
 **Applied Intelligence 2023 [J]**
 
-- 在这篇论文中，我们提出了一种新的基于收敛双层优化框架的鲁棒变量结构发现方法，用于基于组套索（group lasso），其中采用了鲁棒倾斜的经验风险最小化.实现代码: [https://github.com/zhangxuelincode/demoTERMGL](https://github.com/zhangxuelincode/demoTERMGL)
+- 在这篇论文中，我们提出了一种新的基于收敛双层优化框架的鲁棒变量结构发现方法，用于基于组套索（group lasso），其中采用了鲁棒倾斜的经验风险最小化.
 - 鲁棒性质是可以度量的喔，本文尝试分析了模型的击穿点,也就是能够忍受的最多的异常数据.
 - 能够从高维数据中挖掘协同关系的组结构，挺有意思.不过做的有些粗糙，只考虑到了非重叠的分组结构.重叠情境比较复杂，这也是最近的考虑方向.
+- 实现代码: [https://github.com/zhangxuelincode/demoTERMGL](https://github.com/zhangxuelincode/demoTERMGL)
 </div>
 </div>
 
@@ -177,8 +180,9 @@ Hao Su, [Wei Hu](https://scholar.google.com.hk/citations?user=1kXI0YEAAAAJ&hl=en
 
 **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 2025 [J]**
 
-- 提出的方法是旨在提取查找表（LUT）级别的丰富结构和行为特征，以训练一个可解释的图神经网络（GNN）模型，用于对FPGA网表中的设计节点进行分类，并识别感染木马的节点.实现代码: [https://github.com/zhangxuelincode/node_label](https://github.com/zhangxuelincode/node_label)
+- 提出的方法是旨在提取查找表（LUT）级别的丰富结构和行为特征，以训练一个可解释的图神经网络（GNN）模型，用于对FPGA网表中的设计节点进行分类，并识别感染木马的节点.
 - 在跨年的这个夜晚，能够看到顶刊接收信息蛮开心的.希望2025年对我好一点 🙏 尤其是善良的编辑，领域主席和审稿人们.
+- 实现代码: [https://github.com/zhangxuelincode/node_label](https://github.com/zhangxuelincode/node_label)
 </div>
 </div>
 
@@ -222,6 +226,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - 这项工作提出了一种新颖的硬件木马检测方法，该方法利用现场可编程门阵列（FPGA）网表中的静态结构特征和行为特征.将硬件设计源映射到查找表（LUT）网络使得这些特征变得明确，允许通过机器学习自动化特征提取，并进一步有效地检测木马.
 - 这篇论文我们引入了混合高效重采样（过采样与欠采样结合）来处理非均衡问题，并在实验中得到了理想的性能提升.
 - 😞 遗憾的是，尽管HOST会议在这个领域有着一定的知名度，但是ccf-C都没进.
+- 实现代码：[https://github.com/zxlml/HOST22](https://github.com/zxlml/HOST22)
 </div>
 </div>
 
