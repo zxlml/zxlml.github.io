@@ -120,7 +120,7 @@ Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang.
 
 **Association for the Advancement of Artificial Intelligence 2023 [C] (Oral)**
 
-- This paper goes beyond the previous concern of Sorted L-One Penalized Estimation (SLOPE) limited to the false discovery rate (FDR) control by considering the stepdown-based SLOPE in order to control the probability of k or more false rejections (k-FWER) and the false discovery proportion (FDP).
+- This paper goes beyond the previous concern of Sorted L-One Penalized Estimation (SLOPE) limited to the false discovery rate (FDR) control by considering the stepdown-based SLOPE in order to control the probability of k or more false rejections (k-FWER) and the false discovery proportion (FDP). The codes are shared at: [https://github.com/zxlml/SLOPE](https://github.com/zxlml/SLOPE)
 </div>
 </div>
 
