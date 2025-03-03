@@ -40,13 +40,13 @@ redirect_from:
 
 # 🔥 新闻
 
-- *2025.01*: &nbsp;🎉🎉  合作论文被**TCAD**(**体系结构领域CCF-A类**期刊)接收. 
+- *2025.01*: &nbsp;🎉🎉  合作论文被**[TCAD](https://ieeexplore.ieee.org/document/10833822)**(**体系结构领域CCF-A类**期刊)接收. 
 
 - *2024.12*: &nbsp;🎉🎉 参加[**2024年湖北省工业与应用数学学会优秀研究生论文评选**.](http://hbsiam.whu.edu.cn/a/tongzhigonggao/86.html)
 
 - *2024.12*: &nbsp;🎉🎉  参加[**CCF武汉2024年会暨第八届优秀博士论坛**](https://www.ccf.org.cn/Member_Activities/2024-12-23/836271.shtml)并作口头汇报.
 
-- *2024.11*: &nbsp;🎉🎉  荣获 **博士国家奖学金**.
+- *2024.11*: &nbsp;🎉🎉  荣获 [**博士国家奖学金**](https://aisle.hzau.edu.cn/info/1097/2216.htm).
 
 # 📝 机器学习方向论文
 
