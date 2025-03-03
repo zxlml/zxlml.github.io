@@ -202,7 +202,7 @@ Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu*.
 
 **International Symposium on Hardware Oriented Security and Trust 2022 [C]**
 
-- This work proposes a novel hardware Trojan detection method that leverages static structural features and behavioral characteristics in field programmable gate array (FPGA) netlists. Mapping of hardware design sources to look-up-table (LUT) networks makes these features explicit, allowing automated feature extraction and further effective Trojan detection through machine learning.
+- This work proposes a novel hardware Trojan detection method that leverages static structural features and behavioral characteristics in field programmable gate array (FPGA) netlists. Mapping of hardware design sources to look-up-table (LUT) networks makes these features explicit, allowing automated feature extraction and further effective Trojan detection through machine learning. The implemented codes are available at: [https://github.com/zxlml/HOST22](https://github.com/zxlml/HOST22)
 </div>
 </div>
 
