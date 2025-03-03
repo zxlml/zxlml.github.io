@@ -135,6 +135,7 @@ Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, [Weifu Li](https://www.researchgat
 
 - 这篇论文打破了以往对排序L-One惩罚估计（Sorted L-One Penalized Estimation，简称SLOPE）的局限，经典SLOPE仅限于控制假发现率（False Discovery Rate，简称FDR）.论文考虑了基于逐步下降的SLOPE，以控制k个或更多假拒绝的概率（k-FWER）和假发现比例（False Discovery Proportion，简称FDP）.这就实现了特征选择任务中的错选率可控性质!
 - 其实我们后来还考虑了group情境下的gSLOPE算法设计与理论保障.
+- 实现代码： [https://github.com/zxlml/SLOPE](https://github.com/zxlml/SLOPE)
 </div>
 </div>
 
