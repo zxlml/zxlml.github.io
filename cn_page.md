@@ -246,8 +246,11 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - On the Generalization Ability of Next-Token-Prediction Pretraining.(To ICML[C])
 - HDME: Hallucination Detection in LLMs Using Manifold Embedding. (To ICML[C])
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists. (To ACM TODAES[J])
-- ~~Fine-grained Analysis on the Generalization of Multimodal Metric Learning. (Undergoing)~~
-- ~~Robust Hardware Trojan Detection at RTL Through Adversarial Training. (Undergoing)~~
+[//]:- 基于Yolo-v11的玉米花粉精准识别与目标检测. (Undergoing)
+[//]:- Fine-grained Analysis on the Generalization of Multimodal Metric Learning. (Undergoing)
+[//]:- Robust Hardware Trojan Detection at RTL Through Adversarial Training. (Undergoing)
+[//]:- Multi-objective Graph Neural Network for Robust and Interpretable Hardware Trojan Detection. (Undergoing)
+
 
 # 🎖️ 以往活动与奖项
 - *2024.12:* 受邀汇报： [**2024年湖北省工业与应用数学学会优秀研究生论文评选**.](http://hbsiam.whu.edu.cn/a/tongzhigonggao/86.html)
