@@ -243,7 +243,6 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift. (To IJCAI[C])
 - Controlled Feature Interaction Selection for Deep Sparse Networks. (To IJCAI[C])
 <div style="display:none">
-- 基于Yolo-v11的玉米花粉精准识别与目标检测. (Undergoing)
 - Fine-grained Analysis on the Generalization of Multimodal Metric Learning. (Undergoing)
 </div>
 - **其他合作**
@@ -252,9 +251,11 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - HDME: Hallucination Detection in LLMs Using Manifold Embedding. (To ICML[C])
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists. (To ACM TODAES[J])
 <div style="display:none">
+- 改进YOLOv11模型的柑橘花粉活性智能检测技术. (Undergoing)
 - Robust Hardware Trojan Detection at RTL Through Adversarial Training. (Undergoing)
 - Multi-objective Graph Neural Network for Robust and Interpretable Hardware Trojan Detection. (Undergoing)
 </div>
+
 
 
 # 🎖️ 以往活动与奖项
