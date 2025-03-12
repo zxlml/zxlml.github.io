@@ -236,18 +236,18 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 # 📝   审稿中工作
 
 - **独立一作**
-- Meta Additive Model: Learning Theory Analysis and Applications. (To ACHA[J])
-- S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. (To ICML[C])
-- Robust Manifold Learning via Bilevel CycleGAN. (To JMLR[J])
+- Meta Additive Model: Learning Theory Analysis and Applications. (Under Review)
+- S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. (Under Review)
+- Robust Manifold Learning via Bilevel CycleGAN. (Under Review)
 - **共同一作**
-- Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift. (To IJCAI[C])
+- Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift. (Second Review)
 - Controlled Feature Interaction Selection for Deep Sparse Networks. (Submitting)
 - Fine-grained Analysis on the Generalization of Multimodal Metric Learning. (Submitting)
 - **其他合作**
-- From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. (To ICML[C])
-- On the Generalization Ability of Next-Token-Prediction Pretraining.(To ICML[C])
-- HDME: Hallucination Detection in LLMs Using Manifold Embedding. (To ICML[C])
-- Explainable Hardware Trojan Detection and Localization in FPGA Netlists. (To ACM TODAES[J])
+- From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. (Under Review)
+- On the Generalization Ability of Next-Token-Prediction Pretraining. (Under Review)
+- HDME: Hallucination Detection in LLMs Using Manifold Embedding. (Under Review)
+- Explainable Hardware Trojan Detection and Localization in FPGA Netlists. (Major Revision)
 <div style="display:none">
 - 改进YOLOv11模型的柑橘花粉活性智能检测技术. (Submitting)
 - Robust Hardware Trojan Detection at RTL Through Adversarial Training. (Undergoing)
