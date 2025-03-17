@@ -275,6 +275,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - *2022.3:* 担任 2021年秋季学期本科生课程《数字逻辑与EDA技术》助教.
 - *2021.9:* 担任 2021年秋季学期本科生课程《嵌入式系统》助教，并获评[**“课程思政”示范建设项目**.](https://coi.hzau.edu.cn/info/1015/9076.htm)
 - *2021.3:* 担任 2021年春季学期本科生课程《C++高级程序设计实验》助教.
+- *2018.7:* 荣获 [“民生杯”大学生数学建模竞赛三等奖](http://sci.cau.edu.cn/art/2018/7/6/art_3474_578123.html)
 - *2017.8:* 担任 中国农业大学“新丝路暑期实践支队”的微信公众号负责人，历史回顾 [**1-启程**](https://mp.weixin.qq.com/s/Xt4DKLweN3KdBmz-v9CSFA), [**2-征程**](https://mp.weixin.qq.com/s/XePZcWS8f5cHk0K4J41HyQ), [**3-马尾区**](https://mp.weixin.qq.com/s/P3YMbiHi9Pk3ZmN3f-JpyQ), [**4-吐槽**](https://mp.weixin.qq.com/s/cDJHORkRZJoFeH4KhkMDBA), [**5-船政文化**](https://mp.weixin.qq.com/s/qZO5UI575KtJBSf6yhQbdg), [**6-塔兜村**](https://mp.weixin.qq.com/s/jPcF2tUUb3Y76YPHAhrqOA).
 - *2017.4:* 担任 [北京国际长跑节-春季半马志愿者](http://ciee.cau.edu.cn/art/2017/5/10/art_26711_514437.html).
 
