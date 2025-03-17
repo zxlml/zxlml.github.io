@@ -243,16 +243,15 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift. (Second Review)
 - Controlled Feature Interaction Selection for Deep Sparse Networks. (Submitting)
 - Fine-grained Analysis on the Generalization of Multimodal Metric Learning. (Submitting)
-- 基于YOLOv11-FS模型的柑橘花粉活力率检测. (Submitting)
+- 基于YOLOv11-FS模型的柑橘花粉活力率检测. (Under Review)
 - **其他合作**
 - From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. (Under Review)
 - On the Generalization Ability of Next-Token-Prediction Pretraining. (Under Review)
 - HDME: Hallucination Detection in LLMs Using Manifold Embedding. (Under Review)
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists. (Major Revision)
 <div style="display:none">
-- 基于YOLOv11-FS模型的柑橘花粉活力率检测. (Submitting)
-- Robust Hardware Trojan Detection at RTL Through Adversarial Training. (Undergoing)
-- Multi-objective Graph Neural Network for Robust and Interpretable Hardware Trojan Detection. (Undergoing)
+- Robust Hardware Trojan Detection at RTL Through Adversarial Training. (Submitting)
+- Multi-objective Graph Neural Network for Robust and Interpretable Hardware Trojan Detection. (Submitting)
 </div>
 
 
