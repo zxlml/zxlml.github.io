@@ -249,6 +249,9 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - HDME: Hallucination Detection in LLMs Using Manifold Embedding. (Under Review)
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists. (Major Revision)
 - 基于YOLOv11-FS模型的柑橘花粉活力率检测. (Under Review)
+- 一种基于FPGA网表特征子图的硬件木马检测方法. (国家发明专利，实质审查中)
+- 一种基于语义特征自动提取的硬件木马检测方法. (国家发明专利，实质审查中)
+- 一种基于图神经网络的硬件木马自动检测方法. (国家发明专利，实质审查中)
 
 <div style="display:none">
 - Robust Hardware Trojan Detection at RTL Through Adversarial Training. (Submitting)
