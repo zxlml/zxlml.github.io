@@ -237,18 +237,18 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 - **独立一作**
 - Meta Additive Model: Learning Theory Analysis and Applications. (Under Review)
-- S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. (Under Review)
+- S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. (Second Review)
 - Robust Manifold Learning via Bilevel CycleGAN. (Under Review)
 - **共同一作**
 - Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift. (Second Review)
 - Controlled Feature Interaction Selection for Deep Sparse Networks. (Submitting)
 - Fine-grained Analysis on the Generalization of Multimodal Metric Learning. (Submitting)
 - **其他合作**
-- From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. (Under Review)
-- On the Generalization Ability of Next-Token-Prediction Pretraining. (Under Review)
-- HDME: Hallucination Detection in LLMs Using Manifold Embedding. (Under Review)
+- From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. (Submitting)
+- On the Generalization Ability of Next-Token-Prediction Pretraining. (Second Review)
+- HDME: Hallucination Detection in LLMs Using Manifold Embedding. (Second Review)
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists. (Major Revision)
-- 基于YOLOv11-FS模型的柑橘花粉活力率检测. (Under Review)
+- 基于YOLOv11-FS模型的柑橘花粉活力率检测. (Submitting)
 
 <div style="display:none">
 - Robust Hardware Trojan Detection at RTL Through Adversarial Training. (Submitting)
