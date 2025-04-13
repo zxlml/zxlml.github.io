@@ -36,9 +36,11 @@ redirect_from:
 
 推荐阅读论文：[可解释人工智能（XAI）](https://arxiv.org/abs/2501.09967), [鲁棒机器学习(Robustness)](https://ieeexplore.ieee.org/document/10571602).
 
-如果对我的研究方向感兴趣, 或者有推荐的(实习/正式)Offer (优先Base 武汉/南昌) 😃, 烦请联系: xlinml@163.com
+如果对我的研究方向感兴趣, 或者有推荐的(实习/正式)Offer (优先Base 南昌/武汉) 😃, 烦请联系: 1053794285@qq.com
 
 # 🔥 新闻
+
+- *2025.04*: &nbsp;🎉🎉  荣获 湖北省工业与应用数学学会[**优秀研究生论文二等奖**](https://aisle.hzau.edu.cn/info/1097/2216.htm). 
 
 - *2025.01*: &nbsp;🎉🎉  合作论文被[**TCAD**](https://ieeexplore.ieee.org/document/10833822)(**体系结构领域CCF-A类**期刊)接收. 
 
@@ -258,13 +260,15 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 
 # 🎖️ 以往活动与奖项
+- *2025.4:*  荣获： 2024年度**湖北省工业与应用数学学会优秀研究生论文二等奖**.
+- *2025.4:*  现场汇报： 湖北荆门召开的**湖北省工业与应用数学学会2025年学术交流大会**.
 - *2025.3:*  荣获 2025年度党支部**优秀党员**.
 - *2024.12:* 现场汇报： [**2024年湖北省工业与应用数学学会优秀研究生论文评选**.](http://hbsiam.whu.edu.cn/a/tongzhigonggao/86.html)
 - *2024.12:* 现场汇报： [**CCF武汉2024年会暨第八届优秀博士生学术风采展示论坛**.](https://www.ccf.org.cn/Chapters/Chapters/Wuhan/hyhdzxdt/2024-12-23/836269.shtml)
 - *2024.11:* 荣获 [2024年度**博士国家奖学金**.](https://aisle.hzau.edu.cn/info/1097/2216.htm)
 - *2024.11:* 荣获 [2024年度**三好研究生**.](https://yjs.hzau.edu.cn/info/1192/10321.htm)
 - *2024.11:* 海报参展： 江苏南京召开的[**第二十二届中国工业与应用数学学会年会**.](https://aisle.hzau.edu.cn/info/1097/2201.htm)
-- *2024.8:*  汇报： 韩国济州岛召开的[**IJCAI-2024国际人工智能会议口头汇报与海报展示**.](https://aisle.hzau.edu.cn/info/1097/1911.htm)
+- *2024.8:*  现场汇报： 韩国济州岛召开的[**IJCAI-2024国际人工智能会议口头汇报与海报展示**.](https://aisle.hzau.edu.cn/info/1097/1911.htm)
 - *2024.6 - 2024.12:* 前往[**中山大学深圳校区交流学习**.](https://scst.sysu.edu.cn/about/about01/index.htm)
 - *2024.5:*  荣获 2024年度党支部**优秀党员**.
 - *2024.4:*  现场汇报： 湖北荆州召开的[**湖北省工业与应用数学学会2024年学术交流大会**](https://aisle.hzau.edu.cn/info/1097/1901.htm)[**及颁奖仪式**.](http://hbsiam.whu.edu.cn/a/shouyehuandeng/85.html)
