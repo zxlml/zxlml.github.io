@@ -252,12 +252,6 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Precise Hardware Trojan Detection via Efficient Embedding and Robust Metric. (Ongoing)
 - 基于YOLOv11-FS模型的柑橘花粉活力率检测. (Submitting)
 
-<div style="display:none">
-- Robust Hardware Trojan Detection at RTL Through Adversarial Training. (Submitting)
-- Multi-objective Graph Neural Network for Robust and Interpretable Hardware Trojan Detection. (Submitting)
-</div>
-
-
 
 # 🎖️ 以往活动与奖项
 - *2025.4:*  荣获： 2024年度**湖北省工业与应用数学学会优秀研究生论文二等奖**.
