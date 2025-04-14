@@ -33,7 +33,7 @@ My research interests lie in the areas of optimization and learning theory, with
 
 Some suggested videos for better understanding the [bilevel optimization](https://www.youtube.com/watch?v=hTDrSjBtKLc), [robust machine learning](https://www.youtube.com/watch?v=IgAPc0i0-9E), [interpretable additive models](https://www.youtube.com/watch?v=3aMB51GMUyQ) as well as the [hardware Trojans](https://www.youtube.com/watch?v=VL3kizVud9Q).
 
-If you are interested or have any question on my works, please feel free to contact me: xlinml@163.com
+If you are interested or have any question on my works, please feel free to contact me: zhangxuelin@webmail.hzau.edu.cn
 
 # 🔥 News
 
@@ -209,7 +209,7 @@ Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu*.
 
 
 # 🎖️ Activities and Honors
-- *2025.4:* A report is made at [**HBSIAM 2025**.](https://aisle.hzau.edu.cn/info/1097/1901.htm)
+- *2025.4:* A report is made at [**HBSIAM 2025**.](https://aisle.hzau.edu.cn/info/1097/2476.htm)
 - *2024.12:* A report is made at [**CCF Wuhan 2024 Annual Conference and 8th Outstanding Doctoral Student Academic Forum**.](https://www.ccf.org.cn/Chapters/Chapters/Wuhan/hyhdzxdt/2024-12-23/836269.shtml)
 - *2024.11:* [**China Doctoral National Scholarship**.](https://aisle.hzau.edu.cn/info/1097/2216.htm)
 - *2024.11:* A poster is presented at [**CSIAM 2024**.](https://aisle.hzau.edu.cn/info/1097/2201.htm)
