@@ -248,7 +248,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - On the Generalization Ability of Next-Token-Prediction Pretraining. (Second Review)
 - HDME: Hallucination Detection in LLMs Using Manifold Embedding. (Second Review)
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists. (Major Revision)
-- Robust Hardware Trojan Detection with Transformer (Submitting)
+- Robust Hardware Trojan Detection with Transformer. (Submitting)
 - Precise Hardware Trojan Detection via Efficient Embedding and Robust Metric. (Ongoing)
 - 基于YOLOv11-FS模型的柑橘花粉活力率检测. (Submitting)
 
@@ -288,9 +288,11 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 # 💬 学术服务
 
+
 - 会议审稿人: [ICLR](https://iclr.cc/), [ICML](https://icml.cc/), [IJCNN](https://2025.ijcnn.org/), [ACML](https://www.acml-conf.org/).
 
 - 期刊审稿人: [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications), [Molecular & Cellular Biomechanics](https://www.techscience.com/journal/mcb), [Journal of Infrastructure, Policy and Development](https://systems.enpress-publisher.com/index.php/jipd).
-  
+
+
 # 🌏 浏览记录
 <a href="https://info.flagcounter.com/LoqT"><img src="https://s05.flagcounter.com/countxl/LoqT/bg_FFFFFF/txt_061414/border_CC4BBB/columns_8/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
