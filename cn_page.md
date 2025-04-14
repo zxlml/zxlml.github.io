@@ -260,7 +260,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 # 🎖️ 以往活动与奖项
 - *2025.4:*  荣获 [2024年度**湖北省工业与应用数学学会优秀研究生论文二等奖**](https://aisle.hzau.edu.cn/info/1097/2476.htm).
-- *2025.4:*  现场汇报： [湖北荆门召开的**湖北省工业与应用数学学会2025年学术交流大会**](https://aisle.hzau.edu.cn/info/1097/2476.htm).
+- *2025.4:*  现场汇报： 湖北荆门召开的[**湖北省工业与应用数学学会2025年学术交流大会**](https://aisle.hzau.edu.cn/info/1097/2476.htm).
 - *2025.3:*  荣获 2025年度党支部**优秀党员**.
 - *2024.12:* 现场汇报： [**2024年湖北省工业与应用数学学会优秀研究生论文评选**.](http://hbsiam.whu.edu.cn/a/tongzhigonggao/86.html)
 - *2024.12:* 现场汇报： [**CCF武汉2024年会暨第八届优秀博士生学术风采展示论坛**.](https://www.ccf.org.cn/Chapters/Chapters/Wuhan/hyhdzxdt/2024-12-23/836269.shtml)
