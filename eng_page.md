@@ -209,6 +209,7 @@ Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu*.
 
 
 # 🎖️ Activities and Honors
+- *2025.4:* A report is made at [**HBSIAM 2025**.](https://aisle.hzau.edu.cn/info/1097/1901.htm)
 - *2024.12:* A report is made at [**CCF Wuhan 2024 Annual Conference and 8th Outstanding Doctoral Student Academic Forum**.](https://www.ccf.org.cn/Chapters/Chapters/Wuhan/hyhdzxdt/2024-12-23/836269.shtml)
 - *2024.11:* [**China Doctoral National Scholarship**.](https://aisle.hzau.edu.cn/info/1097/2216.htm)
 - *2024.11:* A poster is presented at [**CSIAM 2024**.](https://aisle.hzau.edu.cn/info/1097/2201.htm)
