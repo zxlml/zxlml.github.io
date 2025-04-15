@@ -154,6 +154,7 @@ Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, [Weifu Li](https://www.researchgat
 - 在这篇论文中，我们提出了一种新的基于收敛双层优化框架的鲁棒变量结构发现方法，用于基于组套索（group lasso），其中采用了鲁棒倾斜的经验风险最小化.
 - 鲁棒性质是可以度量的喔，本文尝试分析了模型的击穿点,也就是能够忍受的最多的异常数据.
 - 能够从高维数据中挖掘协同关系的组结构，挺有意思.不过做的有些粗糙，只考虑到了非重叠的分组结构.重叠情境比较复杂，这也是最近的考虑方向.
+- 很高兴能够被[TERM损失的原团队在其最新的泛化工作中](https://arxiv.org/pdf/2409.19431)被关注到。
 - 实现代码: [github.com/zhangxuelincode/demoTERMGL](https://github.com/zhangxuelincode/demoTERMGL)
 </div>
 </div>
