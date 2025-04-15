@@ -123,7 +123,7 @@ redirect_from:
 **Frontiers of Computer Science 2023 [J]**
 
 - 这篇论文提出了一种神经部分线性加性模型，该模型能够在神经网络中自动区分不显著、线性和非线性特征，从而实现模型级别的可解释性.
-- 神经可加模型很牛的！  诺奖得主 Hinton 也做过这个方向 （[NeurIPS 2021](https://papers.nips.cc/paper/2021/hash/251bd0442dfcc53b5a761e050f8022b8-Abstract.html)）！ 
+- 神经可加模型很牛的！统计四大常客。  诺奖得主 Hinton 也做过这个方向 （[NeurIPS 2021](https://papers.nips.cc/paper/2021/hash/251bd0442dfcc53b5a761e050f8022b8-Abstract.html)）！ 
 </div>
 </div>
 
