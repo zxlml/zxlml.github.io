@@ -48,6 +48,9 @@ redirect_from:
 
 - *2024.11*: &nbsp;🎉🎉  荣获 [**博士国家奖学金**](https://aisle.hzau.edu.cn/info/1097/2216.htm).
 
+- *2024.6 - 2024.12:* 前往[**中山大学深圳校区交流学习**.](https://scst.sysu.edu.cn/about/about01/index.htm).
+
+
 # 📝 机器学习方向论文
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[8] ICDM 2024 [ccf-B]</div><img src='images/ICDM2024.png' alt="sym" width="100%"></div></div>
