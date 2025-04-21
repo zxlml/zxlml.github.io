@@ -257,7 +257,6 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - On the Generalization Ability of Next-Token-Prediction Pretraining. (Second Review)
 - HDME: Hallucination Detection in LLMs Using Manifold Embedding. (Second Review)
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists. (Major Revision)
-- Robust Hardware Trojan Detection with Interpretable Contextual Model. (Submitting)
 - 基于YOLOv11-FS模型的柑橘花粉活力率检测. (Submitting)
 
 
