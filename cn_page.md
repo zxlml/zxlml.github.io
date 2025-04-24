@@ -251,7 +251,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Controlled Feature Interaction Selection for Deep Sparse Networks. (Submitting)
 - Fine-grained Analysis on the Generalization of Multimodal Metric Learning. (Submitting)
   
-**（3）其他合作与通讯**
+**（3）其他合作**
 
 - From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. (Submitting)
 - On the Generalization Ability of Next-Token-Prediction Pretraining. (Second Review)
