@@ -40,6 +40,8 @@ redirect_from:
 
 # 🔥 新闻
 
+- *2025.05*: &nbsp;🎉🎉  合作论文被**ICML**(**人工智能领域CCF-A类**会议)接收. 
+
 - *2025.04*: &nbsp;🎉🎉  荣获 湖北省工业与应用数学学会[**优秀研究生论文二等奖**](https://aisle.hzau.edu.cn/info/1097/2476.htm). 
 
 - *2025.01*: &nbsp;🎉🎉  合作论文被[**TCAD**](https://ieeexplore.ieee.org/document/10833822)(**体系结构领域CCF-A类**期刊)接收. 
@@ -52,6 +54,23 @@ redirect_from:
 
 
 # 📝 机器学习方向论文
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[8] ICML 2025 [ccf-A]</div><img src='images/ICDM2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[On the Generalization Ability of Next-Token-Prediction Pretraining](https://ieeexplore.ieee.org/abstract/document/10884346)
+
+[Zhihao Li], [Xue Jiang](https://scholar.google.com/citations?hl=zh-CN&user=ajVvHgwAAAAJ), Liyuan Liu, **Xuelin Zhang**, Hong Chen and [Feng Zheng](https://scholar.google.com/citations?user=PcmyXHMAAAAJ&hl).
+
+**International Conference on Machine Learning 2025 [C]**
+
+- 大规模语言模型（LLMs）在自然语言处理任务中表现出色，但其预训练方法Next-Token-Prediction（NTP）的泛化能力缺乏理论分析。
+- 建立了NTP预训练的精细泛化分析框架，提出了一种新颖的Rademacher复杂度分解方法，为基于DOMs的NTP预训练提供了理论保证，并通过实验验证了理论结论。
+- 为理解NTP预训练的泛化行为提供了理论基础，有助于指导实际的模型训练和优化，推动了大规模语言模型理论研究的发展。
+  
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[8] ICDM 2024 [ccf-B]</div><img src='images/ICDM2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
