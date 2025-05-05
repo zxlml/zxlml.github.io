@@ -60,7 +60,7 @@ redirect_from:
 
 [On the Generalization Ability of Next-Token-Prediction Pretraining](https://ieeexplore.ieee.org/abstract/document/10884346)
 
-[Zhihao Li], [Xue Jiang](https://scholar.google.com/citations?hl=zh-CN&user=ajVvHgwAAAAJ), Liyuan Liu, **Xuelin Zhang**, Hong Chen and [Feng Zheng](https://scholar.google.com/citations?user=PcmyXHMAAAAJ&hl).
+Zhihao Li, [Xue Jiang](https://scholar.google.com/citations?hl=zh-CN&user=ajVvHgwAAAAJ), Liyuan Liu, **Xuelin Zhang**, Hong Chen and [Feng Zheng](https://scholar.google.com/citations?user=PcmyXHMAAAAJ&hl).
 
 **International Conference on Machine Learning 2025 [C]**
 
