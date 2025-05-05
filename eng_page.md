@@ -214,7 +214,7 @@ Lingjuan Wu, Hao Su, **Xuelin Zhang**, Yu Tai, Han Li, Wei Hu*.
 
 [Hardware Trojan Detection at LUT: Where Structural Features Meet Behavioral Characteristics](https://ieeexplore.ieee.org/document/9840276)
 
-Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu*. 
+Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu. 
 
 **International Symposium on Hardware Oriented Security and Trust 2022 [C]**
 
