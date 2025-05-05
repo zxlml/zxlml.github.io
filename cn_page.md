@@ -66,7 +66,7 @@ redirect_from:
 
 - 大规模语言模型（LLMs）在自然语言处理任务中表现出色，但其预训练方法Next-Token-Prediction（NTP）的泛化能力缺乏理论分析。
 - 建立了NTP预训练的精细泛化分析框架，提出了一种新颖的Rademacher复杂度分解方法，为基于DOMs的NTP预训练提供了理论保证，并通过实验验证了理论结论。
-- 为理解NTP预训练的泛化行为提供了理论基础，有助于指导实际的模型训练和优化，推动了大规模语言模型理论研究的发展。
+- 为理解NTP预训练的统计泛化性质提供了理论基础，有助于指导实际的模型训练和优化，推动了大规模语言模型理论研究的发展。
   
 </div>
 </div>
@@ -261,21 +261,20 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 **（1）独立一作**
 
 - Meta Additive Model: Learning Theory Analysis and Applications. (Under Review)
-- S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. (Second Review)
-- Robust Manifold Learning via Bilevel CycleGAN. (Under Review)
+- S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. (Submitting)
+- Robust Manifold Learning via Bilevel CycleGAN. (Submitting)
   
 **（2）共同一作**
 
-- Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift. (Second Review)
+- Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift. (Submitting)
 - Controlled Feature Interaction Selection for Deep Sparse Networks. (Submitting)
 - Fine-grained Analysis on the Generalization of Multimodal Metric Learning. (Submitting)
   
 **（3）其他合作**
 
 - From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. (Submitting)
-- On the Generalization Ability of Next-Token-Prediction Pretraining. (Second Review)
-- HDME: Hallucination Detection in LLMs Using Manifold Embedding. (Second Review)
-- Explainable Hardware Trojan Detection and Localization in FPGA Netlists. (Major Revision)
+- HDME: Hallucination Detection in LLMs Using Manifold Embedding. (Submitting)
+- Explainable Hardware Trojan Detection and Localization in FPGA Netlists. (Submitting)
 - 基于YOLOv11-FS模型的柑橘花粉活力率检测. (Submitting)
 
 
