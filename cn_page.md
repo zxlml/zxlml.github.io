@@ -55,10 +55,10 @@ redirect_from:
 
 # 📝 机器学习方向论文
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[8] ICML 2025 [ccf-A]</div><img src='images/ICDM2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[8] ICML 2025 [ccf-A]</div><img src='images/icml2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[On the Generalization Ability of Next-Token-Prediction Pretraining](https://ieeexplore.ieee.org/abstract/document/10884346)
+[On the Generalization Ability of Next-Token-Prediction Pretraining](zxlml.github.io)
 
 Zhihao Li, [Xue Jiang](https://scholar.google.com/citations?hl=zh-CN&user=ajVvHgwAAAAJ), Liyuan Liu, **Xuelin Zhang**, Hong Chen and [Feng Zheng](https://scholar.google.com/citations?user=PcmyXHMAAAAJ&hl).
 
