@@ -305,6 +305,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 
 # 🛠️ 专利
+
 - *2024.06:*  [**一种混凝土抗压能力预测方法、装置、设备及存储介质(已授权)**](https://patents.google.com/patent/CN114580299A/zh).
 - *2024.06:*  **一种基于FPGA网表特征子图的硬件木马检测方法(实质审查中)**.
 - *2024.10:*  **一种基于语义特征自动提取的硬件木马检测方法(实质审查中)**.
