@@ -313,7 +313,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 # 👾 软著
 
-- *2025:*  两项图像去噪相关软著申请中.
+- *2025:*  两项图像去噪与补帧相关软著申请中.
 
 
 # 💬 学术服务
