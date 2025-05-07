@@ -263,6 +263,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Meta Additive Model: Learning Theory Analysis and Applications. (Under Review)
 - S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. (Submitting)
 - Robust Manifold Learning via Bilevel CycleGAN. (Submitting)
+- On the convergence rate of nonconcave-nonconvex generative adversarial networks. (Submitting)
   
 **（2）共同一作**
 
