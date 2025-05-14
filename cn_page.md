@@ -268,14 +268,14 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 **（2）共同一作**
 
-- Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift. (Submitting)
-- Controlled Feature Interaction Selection for Deep Sparse Networks. (Submitting)
+- Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift. (Submitted)
+- Controlled Feature Interaction Selection for Deep Sparse Networks. (Submitted)
 - Fine-grained Analysis on the Generalization of Multimodal Metric Learning. (Submitting)
   
 **（3）其他合作**
 
 - From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. (Submitting)
-- HDME: Hallucination Detection in LLMs Using Manifold Embedding. (Submitting)
+- HDME: Hallucination Detection in LLMs Using Manifold Embedding. (Submitted)
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists. (Submitting)
 - 基于YOLOv11-FS模型的柑橘花粉活力率检测. (Submitting)
 
