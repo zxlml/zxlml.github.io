@@ -263,7 +263,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Meta Additive Model: Learning Theory Analysis and Applications. (Under Review)
 - S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. (Submitting)
 - Robust Manifold Learning via Bilevel CycleGAN. (Submitting)
-- On the convergence of nonconcave-nonconvex generative adversarial networks. (Submitting)
+- On the convergence of nonconcave-nonconvex max-min problems. (Submitted)
   
 **（2）共同一作**
 
@@ -280,6 +280,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 
 # 🎖️ 以往活动与奖项
+- *2025.5:*  获选 华中农业大学第二十次**研究生代表大会信息学院2022级代表（1人）**.
 - *2025.4:*  荣获 [2024年度**湖北省工业与应用数学学会优秀研究生论文二等奖**](https://aisle.hzau.edu.cn/info/1097/2476.htm).
 - *2025.4:*  现场汇报： 湖北荆门召开的[**湖北省工业与应用数学学会2025年学术交流大会**](https://aisle.hzau.edu.cn/info/1097/2476.htm).
 - *2025.3:*  荣获 2025年度党支部**优秀党员**.
@@ -297,7 +298,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - *2023.7:*  录取 **武汉大学国家天元数学中部中心[《高性能计算短期课程》.](https://tmcc.whu.edu.cn/info/1051/1571.htm)**
 - *2023.7:*  参会 贵州贵阳召开的[**第四届全国大数据与人工智能科学大会**.](http://bda.pku.edu.cn/info/1003/2402.htm)
 - *2023.3:*  参会 海南海口召开的[**第十一届全国空间环境及其应用专题研讨会**.](http://www.nssc.cas.cn/library/cyzy/rese/202304/t20230420_6742010.html)
-- *2022.5:*  获选 [华中农业大学第十七次**研究生代表大会信息学院2022级代表（1人）**.](https://coi.hzau.edu.cn/info/1027/9450.htm)
+- *2022.5:*  获选 [华中农业大学第十七次**研究生代表大会信息学院2020级代表（1人）**.](https://coi.hzau.edu.cn/info/1027/9450.htm)
 - *2022.3:*  担任 2021年秋季学期本科生课程《数字逻辑与EDA技术》助教.
 - *2021.9:*  担任 2021年秋季学期本科生课程《嵌入式系统》助教，并获评[**“课程思政”示范建设项目**.](https://coi.hzau.edu.cn/info/1015/9076.htm)
 - *2021.3:*  担任 2021年春季学期本科生课程《C++高级程序设计实验》助教.
