@@ -261,10 +261,11 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 **（1）独立一作**
 
 - Meta Additive Model: Learning Theory Analysis and Applications. (Under Review)
-- S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. (Submitting)
+- S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. (Submitted)
 - Robust Manifold Learning via Bilevel CycleGAN. (Submitting)
 - On the convergence of nonconcave-nonconvex max-min problems. (Submitted)
-  
+- Meta Neural Additive Models for Robust and Interpretable Estimation. (Submitting)
+
 **（2）共同一作**
 
 - Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift. (Submitting)
