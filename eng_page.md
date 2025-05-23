@@ -237,7 +237,7 @@ Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu.
 
 # 💬 Academic Services
 
-- Conference reviewer for ICLR, ICML, IJCNN.
+- Conference reviewer for ICLR, ICML, NeurIPS, IJCNN, ACML.
 
 - Journal reviewer for Expert Systems With Applications, Molecular & Cellular Biomechanics, Journal of Infrastructure, Policy and Development.
   
