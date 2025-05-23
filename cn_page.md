@@ -265,12 +265,6 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Robust Manifold Learning via Bilevel CycleGAN. (Submitting)
 - On the convergence of nonconcave-nonconvex max-min problems. (Submitted)
 - Meta Neural Additive Models for Robust and Interpretable Estimation. (Submitting)
-
-**（2）共同一作**
-
-- Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift. (Submitted)
-- Controlled Feature Interaction Selection for Deep Sparse Networks. (Submitted)
-- Fine-grained Analysis on the Generalization of Multimodal Metric Learning. (Submitting)
   
 **（3）其他合作**
 
