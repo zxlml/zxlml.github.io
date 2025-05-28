@@ -67,7 +67,7 @@ Zhihao Li, [Xue Jiang](https://scholar.google.com/citations?hl=zh-CN&user=ajVvHg
 - 大规模语言模型（LLMs）在自然语言处理任务中表现出色，但其预训练方法Next-Token-Prediction（NTP）的泛化能力缺乏理论分析。
 - 建立了NTP预训练的精细泛化分析框架，提出了一种新颖的Rademacher复杂度分解方法，为基于DOMs的NTP预训练提供了理论保证，并通过实验验证了理论结论。
 - 为理解NTP预训练的统计泛化性质提供了理论基础，有助于指导实际的模型训练和优化，推动了大规模语言模型理论研究的发展。
-  
+- 部分验证源码：[github.com/Lizeihao/MININTP](https://github.com/Lizeihao/MININTP)
 </div>
 </div>
 
