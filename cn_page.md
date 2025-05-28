@@ -34,7 +34,7 @@ redirect_from:
 
 - 机器学习算法应用（基于 自然语言与电路拓扑结构 等策略的**硬件安全检测**）
 
-推荐阅读论文：[可解释人工智能（XAI）](https://arxiv.org/abs/2501.09967), [鲁棒机器学习(Robustness)](https://ieeexplore.ieee.org/document/10571602).
+推荐阅读论文：[可解释人工智能（XAI）](https://arxiv.org/abs/2103.11251), [鲁棒机器学习(Robustness)](https://ieeexplore.ieee.org/document/10571602).
 
 如果对我的研究方向感兴趣, 或者有推荐的 **(实习/秋招)Offer** 😃, 烦请联系: 1053794285@qq.com （万分感谢！）
 
