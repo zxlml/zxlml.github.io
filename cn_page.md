@@ -263,7 +263,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. (Under Review)
 - Robust Manifold Learning via Bilevel CycleGAN. (Submitting)
 - On the convergence of nonconcave-nonconvex max-min problems. (Submitted)
-- Meta Neural Additive Models for Robust and Interpretable Estimation. (Submitted)
+- Meta Neural Additive Models for Robust and Interpretable Estimation. (Under Review)
 
 **（2）合作**
 
@@ -272,7 +272,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift. (Submitted)
 - From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. (Submitted)
 - HDME: Hallucination Detection in LLMs Using Manifold Embedding. (Submitted)
-- Explainable Hardware Trojan Detection and Localization in FPGA Netlists. (Submitting)
+- Explainable Hardware Trojan Detection and Localization in FPGA Netlists. (Under Review)
 - 基于YOLOv11-FS模型的柑橘花粉活力率检测. (Submitting)
 
 
