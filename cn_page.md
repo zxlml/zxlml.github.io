@@ -316,6 +316,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 - *2025.7:*  **流形学习视频优化处理软件 V1.0 （已授权）**
 
+
 # 💬 学术服务
 
 
