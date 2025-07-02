@@ -268,11 +268,10 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 **（2）合作**
 
-- Controlled Feature Interaction Selection for Deep Sparse Networks. (Submitted)
-- Fine-grained Analysis on Generalization Error of Multimodal Learning. (Submitting)
-- Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift. (Submitted)
-- From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. (Submitted)
-- HDME: Hallucination Detection in LLMs Using Manifold Embedding. (Submitted)
+- Controlled Feature Interaction Selection for Deep Sparse Networks. (Under Review)
+- Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift. (Under Review)
+- From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. (Under Review)
+- HDME: Hallucination Detection in LLMs Using Manifold Embedding. (Under Review)
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists. (Under Review)
 - 基于YOLOv11-FS模型的柑橘花粉活力率检测. (Submitting)
 
@@ -315,8 +314,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 # 👾 软著
 
-- *2025:*  两项图像去噪与补帧相关软著 审查中.
-
+- *2025.7:*  **流形学习视频优化处理软件 V1.0 （已授权）**
 
 # 💬 学术服务
 
