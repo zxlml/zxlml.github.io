@@ -273,7 +273,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. (Under Review)
 - HDME: Hallucination Detection in LLMs Using Manifold Embedding. (Under Review)
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists. (Under Review)
-- 基于YOLOv11-FS模型的柑橘花粉活力率检测. (Submitting)
+- 基于YOLOv11-FS模型的柑橘花粉活力率检测. (Under Review)
 
 
 # 🎖️ 以往活动与奖项
