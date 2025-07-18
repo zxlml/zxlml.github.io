@@ -50,7 +50,7 @@ redirect_from:
 
 - *2024.11*: &nbsp;🎉🎉  荣获 [**博士国家奖学金**](https://coi.hzau.edu.cn/info/1371/15671.htm).
 
-- *2024.6 - 2024.12:* 前往[**中山大学深圳校区交流学习**](https://scst.sysu.edu.cn/about/about01/index.htm).
+- *2024:* 前往[**中山大学深圳校区交流学习**](https://scst.sysu.edu.cn/about/about01/index.htm).
 
 
 # 📝 机器学习方向论文
@@ -262,7 +262,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 - Meta Additive Model: Learning Theory Analysis and Applications. (Under Review)
 - S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. (Under Review)
-- Robust Manifold Learning via Bilevel CycleGAN. (Submitting)
+- Robust Manifold Learning via Bilevel CycleGAN. (Under Review)
 - On the convergence of nonconcave-nonconvex max-min problems. (Submitted)
 - Meta Neural Additive Models for Robust and Interpretable Estimation. (Under Review)
 
@@ -275,7 +275,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists. (Under Review)
 - 基于YOLOv11-FS模型的柑橘花粉活力率检测. (Under Review)
 
-~_~  Some ongoing works on learning theory and novel algorithm design are coming soon!
+- ~_~  Some ongoing works on learning theory and novel algorithm design are coming soon!
 
 # 🎖️ 以往活动与奖项
 - *2025.5:*  参会 湖北武汉召开的[**第三届机器学习与统计学会议**](https://ml-stat.github.io/MLSTAT2025/).
