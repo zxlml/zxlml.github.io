@@ -275,6 +275,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists. (Under Review)
 - 基于YOLOv11-FS模型的柑橘花粉活力率检测. (Under Review)
 
+~_~  Some ongoing works on learning theory and novel algorithm design are coming soon!
 
 # 🎖️ 以往活动与奖项
 - *2025.5:*  参会 湖北武汉召开的[**第三届机器学习与统计学会议**](https://ml-stat.github.io/MLSTAT2025/).
