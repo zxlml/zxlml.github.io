@@ -321,9 +321,9 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 # 💬 学术服务
 
 
-- 会议审稿人: [ICLR](https://iclr.cc/), [ICML](https://icml.cc/), [NeurIPS](https://neurips.cc/), [IJCNN](https://2025.ijcnn.org/), [ACML](https://www.acml-conf.org/).
+- *PC or Reviewer for Conference:* [ICLR](https://iclr.cc/), [ICML](https://icml.cc/), [NeurIPS](https://neurips.cc/), [IJCNN](https://2025.ijcnn.org/), [ACML](https://www.acml-conf.org/).
 
-- 期刊审稿人: [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications), [Molecular & Cellular Biomechanics](https://www.techscience.com/journal/mcb), [Journal of Infrastructure, Policy and Development](https://systems.enpress-publisher.com/index.php/jipd), [International Journal of Applied and Computational Mathematics](https://link.springer.com/journal/40819).
+- *Reviewer for Journal:* [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications), [Molecular & Cellular Biomechanics](https://www.techscience.com/journal/mcb), [Journal of Infrastructure, Policy and Development](https://systems.enpress-publisher.com/index.php/jipd), [International Journal of Applied and Computational Mathematics](https://link.springer.com/journal/40819).
 
 
 # 🌏 浏览记录
