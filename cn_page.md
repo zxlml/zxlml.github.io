@@ -40,6 +40,8 @@ redirect_from:
 
 # 🔥 新闻
 
+- *2025.08*: &nbsp;🎉🎉  一篇独立一作论文被[**CIKM**](https://cikm2025.org/)(**知识管理推荐领域CCF-B类**会议)接收.
+- 
 - *2025年*: &nbsp;🎉🎉  前往[**滴滴出行 AI-Labs 交流学习**](https://www.didiglobal.com/science/ailabs). 
 
 - *2025.05*: &nbsp;🎉🎉  合作论文被[**ICML**](https://icml.cc/)(**人工智能领域CCF-A类**会议)接收. 
@@ -281,6 +283,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - ~_~  Some ongoing works on learning theory and novel algorithm design are coming soon!
 
 # 🎖️ 以往活动与奖项
+- *2025.5 - now:*  交流实习 [**北京滴滴 AI LAB: L-Lab**](https://www.didiglobal.com/science/ailabs).
 - *2025.5:*  参会 湖北武汉召开的[**第三届机器学习与统计学会议**](https://ml-stat.github.io/MLSTAT2025/).
 - *2025.5:*  获选 华中农业大学第二十次**研究生代表大会信息学院2022级代表（1人）**.
 - *2025.4:*  参会 湖北武汉召开的[**2025机器学习数学理论与智慧农业应用研讨会暨CSIAM青年论坛**](https://news.hzau.edu.cn/info/1011/34888.htm).
