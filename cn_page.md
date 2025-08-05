@@ -41,7 +41,7 @@ redirect_from:
 # 🔥 新闻
 
 - *2025.08*: &nbsp;🎉🎉  一篇独立一作论文被[**CIKM**](https://cikm2025.org/)(**知识管理推荐领域CCF-B类**会议)接收.
-- 
+
 - *2025年*: &nbsp;🎉🎉  前往[**滴滴出行 AI-Labs 交流学习**](https://www.didiglobal.com/science/ailabs). 
 
 - *2025.05*: &nbsp;🎉🎉  合作论文被[**ICML**](https://icml.cc/)(**人工智能领域CCF-A类**会议)接收. 
