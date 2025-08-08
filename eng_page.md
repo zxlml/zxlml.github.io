@@ -33,9 +33,11 @@ My research interests lie in the areas of optimization and learning theory, with
 
 Some suggested videos for better understanding the [bilevel optimization](https://www.youtube.com/watch?v=hTDrSjBtKLc), [robust machine learning](https://www.youtube.com/watch?v=IgAPc0i0-9E), [interpretable additive models](https://www.youtube.com/watch?v=3aMB51GMUyQ) as well as the [hardware Trojans](https://www.youtube.com/watch?v=VL3kizVud9Q).
 
-If you are interested or have any question on my works, please feel free to contact me: zhangxuelin@webmail.hzau.edu.cn
+If you are interested or have any questions about my work, please feel free to contact me: zhangxuelin@webmail.hzau.edu.cn
 
 # 🔥 News
+
+- *2025.08*: &nbsp;🎉🎉  New Acceptance: "Interpretable Meta-weighted Sparse Neural Additive Networks for Datasets with Label Noise and Class Imbalance" to appear in **CIKM (ccf-B)**.
 
 - *2025.05*: &nbsp;🎉🎉  New Acceptance: "On the Generalization Ability of Next-Token-Prediction Pretraining" to appear in **ICML (ccf-A)**. Congratulations to my co-authors!
 
