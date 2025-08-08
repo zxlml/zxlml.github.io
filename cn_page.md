@@ -279,7 +279,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Maximum Likelihood Neural Additive Models: Error Bounds and Applications. (Submitted)
 - 基于YOLOv11-FS模型的柑橘花粉活力率检测. (Under Review)
 
-- ~_~  Some ongoing works on learning theory and novel algorithm design are coming soon!
+- +_+  Some ongoing works on learning theory and novel algorithm design are coming soon!
 
 # 🎖️ 以往活动与奖项
 - *2025.5 - now:*  交流实习 [**北京滴滴 AI LAB: L-Lab**](https://www.didiglobal.com/science/ailabs).
