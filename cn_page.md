@@ -267,7 +267,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Robust Manifold Learning via Bilevel CycleGAN. (Under Review)
 - Meta Additive Model: Learning Theory Analysis and Applications. (Under Review)
 - On the convergence of nonconcave-nonconvex max-min problems. (Submitted)
-- On the Stability and Generalization of Bilevel Minimax Optimization. (Submitted)
+- On the Stability and Generalization of Bilevel Minimax Optimization. (Under Review)
 - S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. (Under Review)
 
 **（2）合作**
@@ -276,7 +276,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. (Under Review)
 - HDME: Hallucination Detection in LLMs Using Manifold Embedding. (Under Review)
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists. (Under Review)
-- Maximum Likelihood Neural Additive Models: Error Bounds and Applications. (Submitted)
+- Maximum Likelihood Neural Additive Models: Error Bounds and Applications. (Under Review)
 - 基于YOLOv11-FS模型的柑橘花粉活力率检测. (Under Review)
 
 - +_+  Some ongoing works on learning theory and novel algorithm design are coming soon!
