@@ -282,7 +282,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - +_+  Some ongoing works on learning theory and novel algorithm design are coming soon!
 
 # 🎖️ 以往活动与奖项
-- *2025.8:*  参会 北京海淀召开的 [**中国机器学习与科学应用大会**](https://c2sml.cn/conference.html).
+- *2025.8:*  参会 北京海淀召开的 [**中国机器学习与科学应用大会**](https://cmlr.pku.edu.cn/Events/Conference/6ace3fc8bfeb40dd835b577de6e90cce.htm).
 - *2025.5 - now:*  交流实习 [**北京滴滴 AI LAB: L-Lab**](https://www.didiglobal.com/science/ailabs).
 - *2025.5:*  参会 湖北武汉召开的[**第三届机器学习与统计学会议**](https://ml-stat.github.io/MLSTAT2025/).
 - *2025.5:*  获选 华中农业大学第二十次**研究生代表大会信息学院2022级代表（1人）**.
