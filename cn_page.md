@@ -54,7 +54,7 @@ redirect_from:
 
 - *2024.11*: &nbsp;🎉🎉  荣获 [**博士国家奖学金**](https://coi.hzau.edu.cn/info/1371/15671.htm).
 
-- *2024:* 前往[**中山大学深圳校区交流学习**](https://scst.sysu.edu.cn/about/about01/index.htm).
+- *2024年:* 前往[**中山大学深圳校区交流学习**](https://scst.sysu.edu.cn/about/about01/index.htm).
 
 
 # 📝 机器学习方向论文
