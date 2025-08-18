@@ -284,7 +284,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 # 🎖️ 以往活动与奖项
 - *2025.8:*  参会 北京海淀清华大学召开的 [**数学发展述评暨中青年学术研讨会**](https://ymsc.tsinghua.edu.cn/info/1060/4437.htm).
 - *2025.8:*  参会 北京海淀北京大学召开的 [**中国机器学习与科学应用大会**](https://cmlr.pku.edu.cn/Events/Conference/6ace3fc8bfeb40dd835b577de6e90cce.htm).
-- *2025.5 - now:*  交流实习 [**北京滴滴 AI LAB: L-Lab**](https://www.didiglobal.com/science/ailabs).
+- *2025.6 - now:*  交流实习 [**北京滴滴 AI LAB: L-Lab**](https://www.didiglobal.com/science/ailabs).
 - *2025.5:*  参会 湖北武汉召开的[**第三届机器学习与统计学会议**](https://ml-stat.github.io/MLSTAT2025/).
 - *2025.5:*  获选 华中农业大学第二十次**研究生代表大会信息学院2022级代表（1人）**.
 - *2025.4:*  参会 湖北武汉召开的[**2025机器学习数学理论与智慧农业应用研讨会暨CSIAM青年论坛**](https://news.hzau.edu.cn/info/1011/34888.htm).
