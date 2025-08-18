@@ -40,7 +40,7 @@ redirect_from:
 
 # 🔥 新闻
 
-- *2025.08*: &nbsp;🎉🎉  一篇独立一作论文被[**CIKM**](https://cikm2025.org/)(**知识管理推荐领域CCF-B类**会议)接收.
+- *2025.08*: &nbsp;🎉🎉  一篇一作论文被[**CIKM**](https://cikm2025.org/)(**知识管理推荐领域CCF-B类**会议)接收.
 
 - *2025年*: &nbsp;🎉🎉  前往[**滴滴出行 AI-Labs 交流学习**](https://www.didiglobal.com/science/ailabs). 
 
@@ -59,10 +59,25 @@ redirect_from:
 
 # 📝 机器学习方向论文
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[14] CIKM 2025 [ccf-B]</div><img src='images/cikm2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Interpretable Meta-weighted Sparse Neural Additive Networks](zxlml.github.io)
+
+**Xuelin Zhang**, Hong Chen, Lingjuan Wu*.
+
+**ACM Conference on Information and Knowledge Management 2025 [C]**
+
+- 双层优化策略下，自适应调整样本权重，同时以稀疏正则保持单特征可解释性.
+- 在多种分布偏移下均显著优于现有方法，验证了神经可加模型在连续学习任务中的抗遗忘能力.
+  
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[13] ICML 2025 [ccf-A]</div><img src='images/icml2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[On the Generalization Ability of Next-Token-Prediction Pretraining](zxlml.github.io)
+[On the Generalization Ability of Next-Token-Prediction Pretraining](https://icml.cc/media/icml-2025/Slides/44423.pdf)
 
 Zhihao Li, [Xue Jiang](https://scholar.google.com/citations?hl=zh-CN&user=ajVvHgwAAAAJ), Liyuan Liu, **Xuelin Zhang**, Hong Chen and [Feng Zheng](https://scholar.google.com/citations?user=PcmyXHMAAAAJ&hl).
 
