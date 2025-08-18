@@ -294,7 +294,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. (Submitted)
 - HDME: Hallucination Detection in LLMs Using Manifold Embedding. (Submitted)
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists. (Under Review)
-- Maximum Likelihood Neural Additive Models: Error Bounds and Applications. (Submitted)
+- Distribution-Aware Neural Additive Models: Error Bounds and Applications. (Submitted)
 - Interpretable Bilevel Additive Taylor Model for Datasets with Noisy Labels and Imbalanced Classes. (Submitted)
 - Robust Hardware Trojan Detection Framework against Adversarial Label Flipping Attack. (Ongoing)
 - Interpretable Bilevel Additive Taylor Model for Datasets with Noisy Labels and Imbalanced Classes. (Submitted)
