@@ -49,7 +49,7 @@ If you are interested or have any questions about my work, please feel free to c
 
 # 📝 Publications in Machine Learning
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[14] CIKM 2025 [ccf-B]</div><img src='images/icml2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[14] CIKM 2025 [ccf-B]</div><img src='images/cikm2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Interpretable Meta-weighted Sparse Neural Additive Networks](zxlml.github.io)
