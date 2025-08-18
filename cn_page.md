@@ -62,7 +62,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[14] CIKM 2025 [ccf-B]</div><img src='images/cikm2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Interpretable Meta-weighted Sparse Neural Additive Networks](zxlml.github.io)
+[Interpretable Meta-weighted Sparse Neural Additive Networks](https://zhangxuelincode.github.io/)
 
 **Xuelin Zhang**, Hong Chen, Lingjuan Wu*.
 
