@@ -37,7 +37,7 @@ If you are interested or have any questions about my work, please feel free to c
 
 # 🔥 News
 
-- *2025.08*: &nbsp;🎉🎉  New Acceptance: "Interpretable Meta-weighted Sparse Neural Additive Networks for Datasets with Label Noise and Class Imbalance" to appear in **CIKM (ccf-B)**.
+- *2025.08*: &nbsp;🎉🎉  New Acceptance: "Interpretable Meta-weighted Sparse Neural Additive Networks" to appear in **CIKM (ccf-B)**.
 
 - *2025.05*: &nbsp;🎉🎉  New Acceptance: "On the Generalization Ability of Next-Token-Prediction Pretraining" to appear in **ICML (ccf-A)**. Congratulations to my co-authors!
 
