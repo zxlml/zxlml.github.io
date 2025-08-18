@@ -284,14 +284,20 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - On the convergence of nonconcave-nonconvex max-min problems. (Submitted)
 - On the Stability and Generalization of Bilevel Minimax Optimization. (Under Review)
 - S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. (Under Review)
-
-**（2）合作**
+- Beyond False Discovery Rate: A Stepdown Group SLOPE Approach for Grouped Variable Selection. (Submitted)
+- Bilevel Rashomon-based ProtoPNet (BRP$^2$Net): Robust, Interpretable, and Editable Models for Imperfect Data. (Submitted)
+- Bilevel Preference-Guided Policy for Efficient Communication Among Multi-Agent Large Language Models. (Submitted)
+  
+**（2）通讯与合作**
 
 - Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift. (Under Review)
-- From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. (Under Review)
-- HDME: Hallucination Detection in LLMs Using Manifold Embedding. (Under Review)
+- From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. (Submitted)
+- HDME: Hallucination Detection in LLMs Using Manifold Embedding. (Submitted)
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists. (Under Review)
-- Maximum Likelihood Neural Additive Models: Error Bounds and Applications. (Under Review)
+- Maximum Likelihood Neural Additive Models: Error Bounds and Applications. (Submitted)
+- Interpretable Bilevel Additive Taylor Model for Datasets with Noisy Labels and Imbalanced Classes. (Submitted)
+- Robust Hardware Trojan Detection Framework against Adversarial Label Flipping Attack. (Submitted)
+- Interpretable Bilevel Additive Taylor Model for Datasets with Noisy Labels and Imbalanced Classes. (Submitted)
 - 基于YOLOv11-FS模型的柑橘花粉活力率检测. (Under Review)
 
 - +_+  Some ongoing works on learning theory and novel algorithm design are coming soon!
