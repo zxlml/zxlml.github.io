@@ -286,7 +286,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. (Under Review)
 - Beyond False Discovery Rate: A Stepdown Group SLOPE Approach for Grouped Variable Selection. (Submitted)
 - Bilevel Rashomon-based ProtoPNet (BRP$^2$Net): Robust, Interpretable, and Editable Models for Imperfect Data. (Submitted)
-- Bilevel Preference-Guided Policy for Efficient Communication Among Multi-Agent Large Language Models. (Submitted)
+- Meta Preference-Guided Policy for Efficient Communication Among Multi-Agent Large Language Models. (Ongoing)
   
 **（2）通讯与合作**
 
@@ -296,11 +296,11 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists. (Under Review)
 - Maximum Likelihood Neural Additive Models: Error Bounds and Applications. (Submitted)
 - Interpretable Bilevel Additive Taylor Model for Datasets with Noisy Labels and Imbalanced Classes. (Submitted)
-- Robust Hardware Trojan Detection Framework against Adversarial Label Flipping Attack. (Submitted)
+- Robust Hardware Trojan Detection Framework against Adversarial Label Flipping Attack. (Ongoing)
 - Interpretable Bilevel Additive Taylor Model for Datasets with Noisy Labels and Imbalanced Classes. (Submitted)
 - 基于YOLOv11-FS模型的柑橘花粉活力率检测. (Under Review)
 
-- +_+  Some ongoing works on learning theory and novel algorithm design are coming soon!
+- +_+  More ongoing works on learning theory and novel algorithm design are coming soon!
 
 # 🎖️ 以往活动与奖项
 - *2025.8:*  参会 北京海淀清华大学召开的 [**数学发展述评暨中青年学术研讨会**](https://ymsc.tsinghua.edu.cn/info/1060/4437.htm).
