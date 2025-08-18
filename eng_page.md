@@ -49,6 +49,20 @@ If you are interested or have any questions about my work, please feel free to c
 
 # 📝 Publications in Machine Learning
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[14] CIKM 2025 [ccf-B]</div><img src='images/icml2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Interpretable Meta-weighted Sparse Neural Additive Networks](zxlml.github.io)
+
+**Xuelin Zhang**, Hong Chen, Lingjuan Wu*.
+
+**ACM Conference on Information and Knowledge Management 2025 [C]**
+
+- Under a bi-level optimization scheme, we jointly learn adaptive sample weights and impose sparsity on a neural additive model’s univariate functions, yielding both continual robustness and single-feature interpretability; experiments across multiple distribution shifts confirm markedly superior performance and strong resistance to forgetting.
+  
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[13] ICML 2025 [ccf-A]</div><img src='images/icml2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
