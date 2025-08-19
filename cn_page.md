@@ -286,7 +286,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. (Under Review)
 - Beyond False Discovery Rate: A Stepdown Group SLOPE Approach for Grouped Variable Selection. (Submitted)
 - Bilevel Rashomon-based ProtoPNet (BRP2Net): Robust, Interpretable, and Editable Models for Imperfect Data. (Submitted)
-- Meta Preference-Guided Policy for Efficient Communication Among Multi-Agent Large Language Models. (Ongoing)
+- Meta Preference-Guided Policy for Efficient Communication Among Multi-Agent Large Language Models. (Submitted)
   
 **（2）通讯与合作**
 
