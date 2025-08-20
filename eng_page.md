@@ -25,11 +25,11 @@ I am a Ph.D. candidate (2022--) at College of Informatics, Huazhong Agricultural
 
 My research interests lie in the areas of optimization and learning theory, with emphasis on the following topics:
 
-- Automatic machine learning/LLM (e.g., **Hyperparameter Optimization**, **Hallucination Detection**)
+- Automatic machine learning/LLM (e.g., **Bilevel Optimization**, **Multi-Agent Communication**)
 
 - Robust/Interpretable machine learning (e.g., **Robust Metric**, Sparse/Neural **Additive Models**)
 
-- Applications in hardware security (e.g., **Trojan Detection** at FPGA/Gate/LUT Synthetic Levels)
+- Applications (e.g., **Hardware Trojan Detection**, **Biology Analysis in Genes**)
 
 Some suggested videos for better understanding the [bilevel optimization](https://www.youtube.com/watch?v=hTDrSjBtKLc), [robust machine learning](https://www.youtube.com/watch?v=IgAPc0i0-9E), [interpretable additive models](https://www.youtube.com/watch?v=3aMB51GMUyQ) as well as the [hardware Trojans](https://www.youtube.com/watch?v=VL3kizVud9Q).
 
