@@ -297,7 +297,6 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Distribution-Aware Neural Additive Models: Error Bounds and Applications. (Submitted)
 - Interpretable Bilevel Additive Taylor Model for Datasets with Noisy Labels and Imbalanced Classes. (Submitted)
 - Robust Hardware Trojan Detection Framework against Adversarial Label Flipping Attack. (Ongoing)
-- Interpretable Bilevel Additive Taylor Model for Datasets with Noisy Labels and Imbalanced Classes. (Submitted)
 - 基于YOLOv11-FS模型的柑橘花粉活力率检测. (Under Review)
 
 - +_+  More ongoing works on learning theory and novel algorithm design are coming soon!
