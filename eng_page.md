@@ -257,7 +257,7 @@ Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu.
 
 - Conference reviewer for ICLR, ICML, NeurIPS, AAAI, IJCNN, ACML.
 
-- Journal reviewer for Expert Systems With Applications, Molecular & Cellular Biomechanics, Journal of Infrastructure, Policy and Development, International Journal of Applied and Computational Mathematics.
+- Journal reviewer for Expert Systems With Applications,  Statistics and Computing,  International Journal of Data Science and Analytics, International Journal of Applied and Computational Mathematics, Journal of Infrastructure, Policy and Development, Molecular & Cellular Biomechanics.
   
 # 🌏 Visit Counter
 <a href="https://info.flagcounter.com/LoqT"><img src="https://s05.flagcounter.com/countxl/LoqT/bg_FFFFFF/txt_061414/border_CC4BBB/columns_8/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
