@@ -40,7 +40,7 @@ redirect_from:
 
 # 🔥 新闻
 
-- *2025.08*: &nbsp;🎉🎉  一篇一作论文被[**CIKM**](https://cikm2025.org/)(**数据挖掘领域CCF-B类**会议)接收.
+- *2025.08*: &nbsp;🎉🎉  一篇论文被[**CIKM**](https://cikm2025.org/)(**数据挖掘领域CCF-B类**会议)接收.
 
 - *2025年*: &nbsp;🎉🎉  前往[**滴滴出行 AI-Labs 交流学习**](https://www.didiglobal.com/science/ailabs). 
 
