@@ -274,7 +274,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 </div>
 </div>
 
-
+<!--
 # 📝   审稿中工作
 
 **（1）第一作者**
@@ -302,6 +302,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - 基于YOLOv11-FS模型的柑橘花粉活力率检测. (Under Review)
 
 - +_+  More ongoing works on learning theory and novel algorithm design are coming soon!
+-->
 
 # 🎖️ 以往活动与奖项
 - *2025.8:*  参会 北京海淀清华大学召开的 [**数学发展述评暨中青年学术研讨会**](https://ymsc.tsinghua.edu.cn/info/1060/4437.htm).
