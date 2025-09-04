@@ -59,7 +59,7 @@ redirect_from:
 
 # 📝 机器学习方向论文
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[14] CIKM 2025 [ccf-B]</div><img src='images/cikm2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[14] CIKM 2025 [ccf-B, Core A]</div><img src='images/cikm2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Interpretable Meta-weighted Sparse Neural Additive Networks](https://zhangxuelincode.github.io/)
@@ -74,7 +74,7 @@ redirect_from:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[13] ICML 2025 [ccf-A]</div><img src='images/icml2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[13] ICML 2025 [ccf-A, Core A*]</div><img src='images/icml2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [On the Generalization Ability of Next-Token-Prediction Pretraining](https://icml.cc/media/icml-2025/Slides/44423.pdf)
@@ -90,7 +90,7 @@ Zhihao Li, [Xue Jiang](https://scholar.google.com/citations?hl=zh-CN&user=ajVvHg
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[12] ICDM 2024 [ccf-B]</div><img src='images/ICDM2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[12] ICDM 2024 [ccf-B, , Core A*]</div><img src='images/ICDM2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generalized Sparse Additive Model with Unknown Link Function](https://ieeexplore.ieee.org/abstract/document/10884346)
@@ -121,7 +121,7 @@ Zhihao Li, [Xue Jiang](https://scholar.google.com/citations?hl=zh-CN&user=ajVvHg
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[10] IJCAI 2024 [ccf-A]</div><img src='images/ijcai24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[10] IJCAI 2024 [ccf-A, Core A*]</div><img src='images/ijcai24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fine-grained Analysis of Stability and Generalization for Stochastic Bilevel Optimization](https://www.ijcai.org/proceedings/2024/609)
@@ -136,7 +136,7 @@ Zhihao Li, [Xue Jiang](https://scholar.google.com/citations?hl=zh-CN&user=ajVvHg
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[9] IJCNN 2024 [ccf-C]</div><img src='images/ijcnn24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[9] IJCNN 2024 [ccf-C, Core A]</div><img src='images/ijcnn24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Improved Concentration Bound for CVaR](https://ieeexplore.ieee.org/abstract/document/10650860)
@@ -164,7 +164,7 @@ Zhihao Li, [Xue Jiang](https://scholar.google.com/citations?hl=zh-CN&user=ajVvHg
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[7] AAAI 2023 [ccf-A]</div><img src='images/aaai23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[7] AAAI 2023 [ccf-A, Core A*]</div><img src='images/aaai23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Stepdown SLOPE for Controlled Feature Selection](https://ojs.aaai.org/index.php/AAAI/article/view/26050)
