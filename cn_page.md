@@ -274,7 +274,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 </div>
 </div>
 
-<!--
+
 # 📝   审稿中工作
 
 **（1）第一作者**
@@ -284,9 +284,8 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - On the convergence of nonconcave-nonconvex max-min problems. (Submitted)
 - On the Stability and Generalization of Bilevel Minimax Optimization. (Under Review)
 - S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. (Under Review)
-- Beyond False Discovery Rate: A Stepdown Group SLOPE Approach for Grouped Variable Selection. (Submitted)
-- Bilevel Rashomon-based ProtoPNet (BRP2Net): Robust, Interpretable, and Editable Models for Imperfect Data. (Submitted)
-- Meta Preference-Guided Policy for Efficient Communication Among Multi-Agent Large Language Models. (Submitted)
+- Beyond False Discovery Rate: A Stepdown Group SLOPE Approach for Grouped Variable Selection.
+- Meta Preference-Guided Policy for Efficient Communication Among Multi-Agent Large Language Models. 
   
 **（2）通讯与合作**
 
@@ -301,8 +300,8 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Bilevel Sharply Graphic Neural Network: Robust and Interpretable Prediction on Hardware Trojans. (Ongoing)
 - 基于YOLOv11-FS模型的柑橘花粉活力率检测. (Under Review)
 
-- +_+  More ongoing works on learning theory and novel algorithm design are coming soon!
--->
+- +_+  More ongoing works on LLM benchmark and novel algorithm design are coming soon!
+
 
 # 🎖️ 以往活动与奖项
 - *2025.8:*  参会 北京海淀清华大学召开的 [**数学发展述评暨中青年学术研讨会**](https://ymsc.tsinghua.edu.cn/info/1060/4437.htm).
