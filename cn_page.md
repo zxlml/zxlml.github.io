@@ -279,26 +279,26 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 **（1）第一作者**
 
-- Robust Manifold Learning via Bilevel CycleGAN. (Under Review)
-- Meta Additive Model: Learning Theory Analysis and Applications. (Under Review)
-- On the convergence of nonconcave-nonconvex max-min problems. (Submitted)
-- On the Stability and Generalization of Bilevel Minimax Optimization. (Under Review)
-- S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. (Under Review)
+- Robust Manifold Learning via Bilevel CycleGAN. 
+- Meta Additive Model: Learning Theory Analysis and Applications. 
+- On the convergence of nonconcave-nonconvex max-min problems. 
+- On the Stability and Generalization of Bilevel Minimax Optimization.
+- S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. 
 - Beyond False Discovery Rate: A Stepdown Group SLOPE Approach for Grouped Variable Selection.
 - Meta Preference-Guided Policy for Efficient Communication Among Multi-Agent Large Language Models. 
   
 **（2）通讯与合作**
 
-- Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift. (Under Review)
-- From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. (Submitted)
-- HDME: Hallucination Detection in LLMs Using Manifold Embedding. (Submitted)
-- Explainable Hardware Trojan Detection and Localization in FPGA Netlists. (Under Review)
-- Distribution-Aware Neural Additive Models: Error Bounds and Applications. (Ongoing)
-- Interpretable Bilevel Additive Taylor Model for Imperfect Datasets. (Submitted)
-- BIAM: Bilevel Interactive Additive Model. (Ongoing)
-- Robust Hardware Trojan Detection Framework against Adversarial Label Flipping Attack. (Ongoing)
-- Bilevel Sharply Graphic Neural Network: Robust and Interpretable Prediction on Hardware Trojans. (Ongoing)
-- 基于YOLOv11-FS模型的柑橘花粉活力率检测. (Under Review)
+- Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift. 
+- From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. 
+- HDME: Hallucination Detection in LLMs Using Manifold Embedding.
+- Explainable Hardware Trojan Detection and Localization in FPGA Netlists.
+- Distribution-Aware Neural Additive Models: Error Bounds and Applications. 
+- Interpretable Bilevel Additive Taylor Model for Imperfect Datasets. 
+- BIAM: Bilevel Interactive Additive Model. 
+- Robust Hardware Trojan Detection Framework against Adversarial Label Flipping Attack. 
+- Bilevel Sharply Graphic Neural Network: Robust and Interpretable Prediction on Hardware Trojans.
+- 基于YOLOv11-FS模型的柑橘花粉活力率检测. 
 
 - +_+  More ongoing works on LLM benchmark and novel algorithm design are coming soon!
 
