@@ -42,15 +42,15 @@ redirect_from:
 
 # 🔥 新闻
 
-- *2025.08*: &nbsp;🎉🎉  一篇论文被[**CIKM**](https://cikm2025.org/)(**数据挖掘领域CCF-B类**会议)接收.
+- *2025.08*: &nbsp;🎉🎉  一篇论文（“可解释机器学习”）被[**CIKM**](https://cikm2025.org/)(**数据挖掘领域CCF-B类**会议)接收.
 
 - *2025年*: &nbsp;🎉🎉   前往[**北京滴滴出行 AI-Labs (L-Lab) 交流实习**](https://www.didiglobal.com/science/ailabs). 
 
-- *2025.05*: &nbsp;🎉🎉  合作论文被[**ICML**](https://icml.cc/)(**人工智能领域CCF-A类**会议)接收. 
+- *2025.05*: &nbsp;🎉🎉  合作论文（“大模型预训练与泛化”）被[**ICML**](https://icml.cc/)(**人工智能领域CCF-A类**会议)接收. 
 
 - *2025.04*: &nbsp;🎉🎉  荣获 湖北省工业与应用数学学会[**优秀研究生论文**](https://aisle.hzau.edu.cn/info/1097/2476.htm). 
 
-- *2025.01*: &nbsp;🎉🎉  合作论文被[**TCAD**](https://ieeexplore.ieee.org/document/10833822)(**体系结构领域CCF-A类**期刊)接收. 
+- *2025.01*: &nbsp;🎉🎉  合作论文（“可解释算法与硬件安全”）被[**TCAD**](https://ieeexplore.ieee.org/document/10833822)(**体系结构领域CCF-A类**期刊)接收. 
 
 - *2024.12*: &nbsp;🎉🎉  参加[**CCF武汉2024年会暨第八届优秀博士论坛**](https://www.ccf.org.cn/Member_Activities/2024-12-23/836271.shtml)并作口头汇报.
 
