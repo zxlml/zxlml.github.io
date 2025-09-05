@@ -289,18 +289,18 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
   
 **（2）通讯与合作**
 
-- Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift. 
-- From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. 
-- HDME: Hallucination Detection in LLMs Using Manifold Embedding.
-- Explainable Hardware Trojan Detection and Localization in FPGA Netlists.
-- Distribution-Aware Neural Additive Models: Error Bounds and Applications. 
+- BIAM: Bilevel Interactive Additive Model.
 - Interpretable Bilevel Additive Taylor Model for Imperfect Datasets. 
-- BIAM: Bilevel Interactive Additive Model. 
-- Robust Hardware Trojan Detection Framework against Adversarial Label Flipping Attack. 
-- Bilevel Sharply Graphic Neural Network: Robust and Interpretable Prediction on Hardware Trojans.
+- Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift.
+- HDME: Hallucination Detection in LLMs Using Manifold Embedding.
+- Distribution-Aware Neural Additive Models: Error Bounds and Applications. 
+- From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. 
+- Explainable Hardware Trojan Detection and Localization in FPGA Netlists.
+- Robust Hardware Trojan Detection at RTL through Adversarial Attack and Defense
+- Robust Hardware Trojan Detection Framework against Adversarial Label Flipping Attack.
 - 基于YOLOv11-FS模型的柑橘花粉活力率检测. 
 
-- +_+  More ongoing works on LLM benchmark and novel algorithm design are coming soon!
+  **+_+**  More ongoing works on LLM benchmark and novel algorithm design are coming soon!
 
 
 # 🎖️ 以往活动与奖项
