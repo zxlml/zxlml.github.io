@@ -279,7 +279,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 **（1）第一作者**
 
-- Robust Manifold Learning via Bilevel CycleGAN. 
+- Bilevel Manifold Fitting. 
 - Meta Additive Model: Learning Theory Analysis and Applications. 
 - On the convergence of nonconcave-nonconvex max-min problems. 
 - On the Stability and Generalization of Bilevel Minimax Optimization.
