@@ -255,9 +255,10 @@ Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu.
 
 # 💬 Academic Services
 
-- Conference reviewer for ICLR, ICML, NeurIPS, AAAI, IJCNN, ACML.
+- *Conference reviewer for* [ICLR](https://iclr.cc/), [ICML](https://icml.cc/), [NeurIPS](https://neurips.cc/), [AAAI](https://aaai.org/conference/aaai/aaai-26/), [IJCNN](https://2025.ijcnn.org/), [ACML](https://www.acml-conf.org/).
 
-- Journal reviewer for Expert Systems With Applications,  Statistics and Computing,  International Journal of Data Science and Analytics, International Journal of Applied and Computational Mathematics, Journal of Infrastructure, Policy and Development, Molecular & Cellular Biomechanics.
+- *Journal reviewer for* [Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence), [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications), [Statistics and Computing](https://link.springer.com/journal/11222), [International Journal of Applied and Computational Mathematics](https://link.springer.com/journal/40819), [International Journal of Data Science and Analytics](https://link.springer.com/journal/41060), [Journal of Infrastructure, Policy and Development](https://systems.enpress-publisher.com/index.php/jipd), [Molecular & Cellular Biomechanics](https://www.techscience.com/journal/mcb) .
+
   
 # 🌏 Visit Counter
 <a href="https://info.flagcounter.com/LoqT"><img src="https://s05.flagcounter.com/countxl/LoqT/bg_FFFFFF/txt_061414/border_CC4BBB/columns_8/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
