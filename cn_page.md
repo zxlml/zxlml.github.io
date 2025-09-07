@@ -294,7 +294,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - BIAM: Bilevel Interactive Additive Model.
 - Interpretable Bilevel Additive Taylor Model for Imperfect Datasets. 
 - Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift.
-- HDME: Hallucination Detection in LLMs Using Manifold Embedding.
+- Detecting LLM Hallucinations via Nonlinear Manifold Separation.
 - Distribution-Aware Neural Additive Models: Error Bounds and Applications. 
 - From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. 
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists.
