@@ -299,7 +299,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. 
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists.
 - Robust Hardware Trojan Detection at RTL through Adversarial Attack and Defense
-- Robust Hardware Trojan Detection Framework against Adversarial Label Flipping Attack.
+- A Pseudo-Supervised Learning Approach with Imbalance-Aware Robust Loss
 - 基于YOLOv11-FS模型的柑橘花粉活力率检测. 
 
   **+_+**  More ongoing works on LLM benchmark and novel algorithm design are coming soon!
