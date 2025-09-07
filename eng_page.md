@@ -49,7 +49,7 @@ If you are interested or have any questions about my work, please feel free to c
 
 # 📝 Publications in Machine Learning
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[14] CIKM 2025 [ccf-B]</div><img src='images/cikm2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[14] CIKM 2025 [ccf-B, Core A]</div><img src='images/cikm2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Interpretable Meta-weighted Sparse Neural Additive Networks](zxlml.github.io)
@@ -63,7 +63,7 @@ If you are interested or have any questions about my work, please feel free to c
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[13] ICML 2025 [ccf-A]</div><img src='images/icml2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[13] ICML 2025 [ccf-A, Core A*]</div><img src='images/icml2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [On the Generalization Ability of Next-Token-Prediction Pretraining](zxlml.github.io)
@@ -77,7 +77,7 @@ Zhihao Li, [Xue Jiang](https://scholar.google.com/citations?hl=zh-CN&user=ajVvHg
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[12] ICDM 2024 [ccf-B]</div><img src='images/ICDM2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[12] ICDM 2024 [ccf-B, Core A*]</div><img src='images/ICDM2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generalized Sparse Additive Model with Unknown Link Function](https://icdm2024.org/accepted_papers/)
@@ -104,7 +104,7 @@ Hong Chen*, **Xuelin Zhang**, Tieliang Gong, Bin Gu, Feng Zheng.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[10] IJCAI 2024 [ccf-A]</div><img src='images/ijcai24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[10] IJCAI 2024 [ccf-A, Core A*]</div><img src='images/ijcai24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fine-grained Analysis of Stability and Generalization for Stochastic Bilevel Optimization](https://www.ijcai.org/proceedings/2024/609)
@@ -117,7 +117,7 @@ Hong Chen*, **Xuelin Zhang**, Tieliang Gong, Bin Gu, Feng Zheng.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[9] IJCNN 2024 [ccf-C]</div><img src='images/ijcnn24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[9] IJCNN 2024 [ccf-C, Core A]</div><img src='images/ijcnn24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Improved Concentration Bound for CVaR](https://ieeexplore.ieee.org/abstract/document/10650860)
@@ -143,7 +143,7 @@ Liangxuan Zhu, Han Li*, **Xuelin Zhang**, Lingjuan Wu, Hong Chen.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[7] AAAI 2023 [ccf-A]</div><img src='images/aaai23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[7] AAAI 2023 [ccf-A, Core A*]</div><img src='images/aaai23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Stepdown SLOPE for Controlled Feature Selection](https://ojs.aaai.org/index.php/AAAI/article/view/26050)
@@ -212,7 +212,7 @@ Yichen Li, Wei Hu, Hao Su, **Xuelin Zhang**, Yizhi Zhao, Lingjuan Wu*.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[2] ICCAD 2023 [ccf-B]</div><img src='images/iccad23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[2] ICCAD 2023 [ccf-B, Core A]</div><img src='images/iccad23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Automated Hardware Trojan Detection at LUT Using Explainable Graph Neural Networks](https://ieeexplore.ieee.org/document/10323915)
