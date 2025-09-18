@@ -279,7 +279,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 # 📝   在投/审稿中工作
 
-**（1）第一作者**
+**（1）一作**
 
 - Bilevel Manifold Fitting. 
 - Meta Additive Model: Learning Theory Analysis and Applications. 
@@ -287,13 +287,14 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - On the Stability and Generalization of Bilevel Minimax Optimization.
 - S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. 
 - Beyond False Discovery Rate: A Stepdown Group SLOPE Approach for Grouped Variable Selection.
-- Meta Preference-Guided Policy for Efficient Communication Among Multi-Agent Large Language Models. 
+- Meta Preference-Guided Policy for Efficient Communication Among Multi-Agent Large Language Models.
+- Distribution-Aware Neural Additive Models: Robust Interpretable Deep Learning with Feature Selection.
   
-**（2）通讯与合作**
+**（2）<span style="color: #888888;">通讯</span>与合作**
 
-- BIAM: Bilevel Interactive Additive Model.
-- Interpretable Bilevel Additive Taylor Model for Imperfect Datasets. 
-- Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift.
+- <span style="color: #888888;"> BIAM: Bilevel Interactive Additive Model. </span>
+- <span style="color: #888888;"> Interpretable Bilevel Additive Taylor Model for Imperfect Datasets. </span>
+- <span style="color: #888888;"> Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift. </span>
 - Detecting LLM Hallucinations via Nonlinear Manifold Separation.
 - Distribution-Aware Neural Additive Models: Error Bounds and Applications. 
 - From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. 
