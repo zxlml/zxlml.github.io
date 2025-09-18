@@ -46,11 +46,11 @@ redirect_from:
 
 - *2025年*: &nbsp;🎉🎉   前往[**北京滴滴出行 AI-Labs (L-Lab) 交流实习**](https://www.didiglobal.com/science/ailabs). 
 
-- *2025.05*: &nbsp;🎉🎉  合作论文（“大模型预训练与泛化”）被[**ICML**](https://icml.cc/)(**人工智能领域CCF-A类**会议)接收. 
+- *2025.05*: &nbsp;🎉🎉  一篇论文（“大模型预训练与泛化”）被[**ICML**](https://icml.cc/)(**人工智能领域CCF-A类**会议)接收. 
 
 - *2025.04*: &nbsp;🎉🎉  荣获 湖北省工业与应用数学学会[**优秀研究生论文**](https://aisle.hzau.edu.cn/info/1097/2476.htm). 
 
-- *2025.01*: &nbsp;🎉🎉  合作论文（“可解释算法与硬件安全”）被[**TCAD**](https://ieeexplore.ieee.org/document/10833822)(**体系结构领域CCF-A类**期刊)接收. 
+- *2025.01*: &nbsp;🎉🎉  一篇论文（“可解释算法与硬件安全”）被[**TCAD**](https://ieeexplore.ieee.org/document/10833822)(**体系结构领域CCF-A类**期刊)接收. 
 
 - *2024.12*: &nbsp;🎉🎉  参加[**CCF武汉2024年会暨第八届优秀博士论坛**](https://www.ccf.org.cn/Member_Activities/2024-12-23/836271.shtml)并作口头汇报.
 
@@ -285,6 +285,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Meta Additive Model: Learning Theory Analysis and Applications. 
 - On the convergence of nonconcave-nonconvex max-min problems. 
 - On the Stability and Generalization of Bilevel Minimax Optimization.
+- ChronosBench: Assessing Agent Capabilities in Ultra Long-Horizon Scenarios
 - S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. 
 - Beyond False Discovery Rate: A Stepdown Group SLOPE Approach for Grouped Variable Selection.
 - Meta Preference-Guided Policy for Efficient Communication Among Multi-Agent Large Language Models.
@@ -296,8 +297,9 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - <span style="color: #888888;"> Interpretable Bilevel Additive Taylor Model for Imperfect Datasets. </span>
 - <span style="color: #888888;"> Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift. </span>
 - Detecting LLM Hallucinations via Nonlinear Manifold Separation.
+- D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents.
 - Distribution-Aware Neural Additive Models: Error Bounds and Applications. 
-- From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning. 
+- From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning.
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists.
 - Robust Hardware Trojan Detection at RTL through Adversarial Attack and Defense
 - A Pseudo-Supervised Learning Approach with Imbalance-Aware Robust Loss
