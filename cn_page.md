@@ -288,7 +288,6 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - ChronosBench: Assessing Agent Capabilities in Ultra Long-Horizon Scenarios
 - S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. 
 - Beyond False Discovery Rate: A Stepdown Group SLOPE Approach for Grouped Variable Selection.
-- Meta Preference-Guided Policy for Efficient Communication Among Multi-Agent Large Language Models.
 - Distribution-Aware Neural Additive Models: Robust Interpretable Deep Learning with Feature Selection.
   
 **（2）<span style="color: #888888;">通讯</span>与合作**
