@@ -19,7 +19,7 @@ redirect_from:
 
 # 👨‍🎓 Education
 
-I am a Ph.D. candidate (2022--) at College of Informatics, Huazhong Agricultural University, supervised by [Prof. Hong Chen](https://chenhongml.github.io/). Previously, I was persuing the M.S. degree (2020-2022) with assistance of [Prof. Lingjuan Wu](https://www.researchgate.net/profile/Lingjuan-Wu). I received the B.S. degree in Engineering from China Agricultural University in 2020. 
+I am a Ph.D. candidate (2022--) at the College of Informatics, Huazhong Agricultural University, supervised by [Prof. Hong Chen](https://chenhongml.github.io/). Previously, I was pursuing the M.S. degree (2020-2022) with the assistance of [Prof. Lingjuan Wu](https://www.researchgate.net/profile/Lingjuan-Wu). I received the B.S. degree in Engineering from China Agricultural University in 2020. 
 
 # 🔬 Research Area
 
@@ -99,7 +99,7 @@ Hong Chen*, **Xuelin Zhang**, Tieliang Gong, Bin Gu, Feng Zheng.
 
 **Expert Systems With Applications 2024 [J]**
 
-- This paper goes beyond the limitation of error value-dependent learning criterion and proposes the EDERM framework for robust regression against atypical data. The effectiveness of our method is validated by sufficient empirical evaluations. The implementation codes can be found at: [https://github.com/zhangxuelincode/EDERM](https://github.com/zhangxuelincode/EDERM)
+- This paper goes beyond the limitation of error value-dependent learning criterion and proposes the EDERM framework for robust regression against atypical data. Sufficient empirical evaluations validate the effectiveness of our method. The implementation codes can be found at: [https://github.com/zhangxuelincode/EDERM](https://github.com/zhangxuelincode/EDERM)
 </div>
 </div>
 
@@ -113,7 +113,7 @@ Hong Chen*, **Xuelin Zhang**, Tieliang Gong, Bin Gu, Feng Zheng.
 
 **International Joint Conference on Artificial Intelligence 2024 [C] (Oral)**
 
-- In this paper, we provide a systematical generalization analysis of the first-order gradient-based bilevel optimization methods, based on the (on-average argument) algorithmic stability technique. The verification codes are provided at: [https://github.com/zhangxuelincode/BilevelOptimization](https://github.com/zhangxuelincode/BilevelOptimization)
+- In this paper, we provide a systematic generalization analysis of the first-order gradient-based bilevel optimization methods, based on the (on-average argument) algorithmic stability technique. The verification codes are provided at: [https://github.com/zhangxuelincode/BilevelOptimization](https://github.com/zhangxuelincode/BilevelOptimization)
 </div>
 </div>
 
@@ -179,7 +179,7 @@ Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, Yizhi Zhao.
 
 **International Conference on Computer and Communication Systems 2022 [C]**
 
-- In this paper, we provide a theoretical framework to analyze the robustness of classifier to AE under imbalanced dataset from the perspective of AUC (Area under the ROC curve), and derive an interpretable upper bound.
+- In this paper, we provide a theoretical framework to analyze the robustness of a classifier to AE under an imbalanced dataset from the perspective of AUC (Area under the ROC curve), and derive an interpretable upper bound.
 </div>
 </div>
 
@@ -195,7 +195,7 @@ Hao Su, Wei Hu, **Xuelin Zhang**, Dan Zhu, Lingjuan Wu*.
 
 **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 2025 [J]**
 
-- The proposed approach aims to extract the rich structural and behavioral features at look-up-table (LUT) level to train an explainable graph neural network (GNN) model for classifying design nodes in FPGA netlists and identifying the Trojan-infected ones. The implementation codes can be found at: [https://github.com/zhangxuelincode/node_label](https://github.com/zhangxuelincode/node_label)
+- The proposed approach aims to extract the rich structural and behavioral features at the look-up-table (LUT) level to train an explainable graph neural network (GNN) model for classifying design nodes in FPGA netlists and identifying the Trojan-infected ones. The implementation codes can be found at: [https://github.com/zhangxuelincode/node_label](https://github.com/zhangxuelincode/node_label)
 </div>
 </div>
 
@@ -221,7 +221,7 @@ Lingjuan Wu, Hao Su, **Xuelin Zhang**, Yu Tai, Han Li, Wei Hu*.
 
 **International Conference on Computer-Aided Design 2023 [C]**
 
-- In this work, we propose a novel hardware Trojan detection method based on graph neural networks (GNNs) targeting FPGA netlist. We leverage the rich explicit structural features and behavioral characteristics at LUT, which offers an ideal abstraction level and granularity for Trojan detection. A GNN model with optimized class-balanced focal loss is trained for automated Trojan feature extraction and classification. Model implementation is available at [https://github.com/zxlml/XGNN_HT_Detection](https://github.com/zxlml/XGNN_HT_Detection)
+- In this work, we propose a novel hardware Trojan detection method based on graph neural networks (GNNs) targeting FPGA netlists. We leverage the rich explicit structural features and behavioral characteristics at LUT, which offer an ideal abstraction level and granularity for Trojan detection. A GNN model with optimized class-balanced focal loss is trained for automated Trojan feature extraction and classification. Model implementation is available at [https://github.com/zxlml/XGNN_HT_Detection](https://github.com/zxlml/XGNN_HT_Detection)
 </div>
 </div>
 
