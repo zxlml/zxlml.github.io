@@ -355,7 +355,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 # 💬 学术服务
 
 
-- *会议审稿人:* [ICLR](https://iclr.cc/), [ICML](https://icml.cc/), [NeurIPS](https://neurips.cc/), [AAAI](https://aaai.org/conference/aaai/aaai-26/), [IJCNN](https://2025.ijcnn.org/), [ACML](https://www.acml-conf.org/).
+- *会议审稿人:* [ICLR](https://iclr.cc/), [ICML](https://icml.cc/), [NeurIPS](https://neurips.cc/), [AAAI](https://aaai.org/conference/aaai/aaai-26/), [AISTAT](https://virtual.aistats.org/), [IJCNN](https://2025.ijcnn.org/), [ACML](https://www.acml-conf.org/).
 
 - *期刊审稿人:* [Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence), [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications), [Statistics and Computing](https://link.springer.com/journal/11222), [International Journal of Applied and Computational Mathematics](https://link.springer.com/journal/40819), [International Journal of Data Science and Analytics](https://link.springer.com/journal/41060), [Journal of Infrastructure, Policy and Development](https://systems.enpress-publisher.com/index.php/jipd), [Molecular & Cellular Biomechanics](https://www.techscience.com/journal/mcb) .
 
