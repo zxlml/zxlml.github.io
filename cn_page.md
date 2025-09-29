@@ -285,7 +285,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Meta Additive Model: Learning Theory Analysis and Applications. 
 - On the convergence of nonconcave-nonconvex max-min problems. 
 - On the Stability and Generalization of Bilevel Minimax Optimization.
-- ChronosBench: Assessing Agent Capabilities in Ultra Long-Horizon Scenarios
+- [ChronosBench: Assessing Agent Capabilities in Ultra Long-Horizon Scenarios.](https://arxiv.org/pdf/2509.21766)
 - S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. 
 - Beyond False Discovery Rate: A Stepdown Group SLOPE Approach for Grouped Variable Selection.
 - Distribution-Aware Neural Additive Models: Robust Interpretable Deep Learning with Feature Selection.
@@ -296,7 +296,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - <span style="color: #888888;"> Interpretable Bilevel Additive Taylor Model for Imperfect Datasets. </span>
 - <span style="color: #888888;"> Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift. </span>
 - Detecting LLM Hallucinations via Nonlinear Manifold Separation.
-- D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents.
+- [D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents.](https://arxiv.org/pdf/2509.21799)
 - Distribution-Aware Neural Additive Models: Error Bounds and Applications. 
 - From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning.
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists.
