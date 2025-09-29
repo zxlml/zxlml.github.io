@@ -281,9 +281,9 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 **（1）一作**
 
-- Bilevel Manifold Fitting. 
-- On the convergence of nonconcave-nonconvex max-min problems.
+- Bilevel Manifold Fitting.
 - Meta Additive Model: Learning Theory Analysis and Applications. 
+- On the convergence of nonconcave-nonconvex max-min problems.
 - On the Stability and Generalization of Bilevel Minimax Optimization.
 - Maximum Likelihood Neural Additive Models: Error Bounds and Applications.
 - [ChronosBench: Assessing Agent Capabilities in Ultra Long-Horizon Scenarios.](https://arxiv.org/pdf/2509.21766)
