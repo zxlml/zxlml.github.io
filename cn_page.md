@@ -306,7 +306,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning.
 - Distribution-Aware Neural Additive Models: Robust Interpretable Deep Learning with Feature Selection
 - Enhancing Trojan Detection Robustness: A Pseudo-Supervised Framework with Imbalance-Aware Robust Loss.
-  **+_+**  More ongoing works on LLM benchmark and novel algorithm design are coming soon!
+- **+_+**  More ongoing works on LLM benchmark and novel algorithm design are coming soon!
 
 
 # 🎖️ 以往活动与奖项
