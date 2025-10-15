@@ -63,6 +63,35 @@ redirect_from:
 
 # 📝 机器学习方向论文
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[16] ICPADS 2025 [ccf-C, Core B]</div><img src='images/icpads25-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift](https://zhangxuelincode.github.io/)
+
+Richeng Zhou, **Xuelin Zhang***, Hong Chen, Weifu Li, Liyuan Liu.
+
+**IEEE International Conference on Parallel and Distributed Systems 2025 [C]**
+
+- PGIW框架在度量学习领域引入了一种创新的解决方案，有效地解决了传统方法在分布变化下的性能下降问题。
+- 从理论角度，分析了现有算法的缺陷，证明了PGIW方法在大范围的分布变化下表现出风险一致性，为其实际应用提供了有力的理论支持。
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[15] ICPADS 2025 [ccf-C, Core B]</div><img src='images/icpads25-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Interpretable Bilevel Additive Taylor Model for Datasets with Noisy Labels and Imbalanced Classes](https://zhangxuelincode.github.io/)
+
+Wenxing Zhou, Chao Xu, Lian Peng, **Xuelin Zhang***.
+
+**IEEE International Conference on Parallel and Distributed Systems 2025 [C]**
+
+- 利用泰勒级数展开来捕捉更高阶的相互作用，为低秩近似引入了Tucker分解。
+- 结合了双层优化和稀疏神经加性建模，并集成了Tucker分解，有效地解决了标签噪声和类别不平衡，同时保持了可解释性。
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[14] CIKM 2025 [ccf-B, Core A]</div><img src='images/cikm2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
