@@ -43,7 +43,7 @@ redirect_from:
 # 🔥 新闻
 
 - *2025.10*: &nbsp;🎉🎉  两篇论文被[**ICPADS**](http://ieee-icpads.org.cn/)(**分布式领域CCF-C类**会议)接收.
-- 
+
 - *2025.08*: &nbsp;🎉🎉  一篇论文（“可解释机器学习”）被[**CIKM**](https://cikm2025.org/)(**数据挖掘领域CCF-B类**会议)接收.
 
 - *2025年*: &nbsp;🎉🎉   前往[**北京滴滴出行 AI-Labs (L-Lab) 交流实习**](https://www.didiglobal.com/science/ailabs). 
