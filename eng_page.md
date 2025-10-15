@@ -39,7 +39,7 @@ If you are interested or have any questions about my work, please feel free to c
 
 - *2025.10*: &nbsp;🎉🎉  New Acceptance: "Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift" to appear in **ICPADS (core B)**.
 
-- *2025.10*: &nbsp;🎉🎉  New Acceptance: "Interpretable Bilevel Additive Taylor Model for Datasets with Noisy Labels and Imbalanced Classes" to appear in **ICPADS (core B)**.
+- *2025.10*: &nbsp;🎉🎉  New Acceptance: "Interpretable Bilevel Additive Taylor Model" to appear in **ICPADS (core B)**.
   
 - *2025.08*: &nbsp;🎉🎉  New Acceptance: "Interpretable Meta-weighted Sparse Neural Additive Networks" to appear in **CIKM (core A)**.
 
@@ -52,6 +52,35 @@ If you are interested or have any questions about my work, please feel free to c
 - *2024.11*: &nbsp;🎉🎉  New Award: **China Doctoral National Scholarship**.
 
 # 📝 Publications in Machine Learning
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[16] ICPADS 2025 [ccf-C, Core B]</div><img src='images/icpads25-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift](https://zhangxuelincode.github.io/)
+
+Richeng Zhou, **Xuelin Zhang***, Hong Chen, Weifu Li, Liyuan Liu.
+
+**IEEE International Conference on Parallel and Distributed Systems 2025 [C]**
+
+- Introduces an innovative solution to metric learning, effectively overcoming performance degradation under distributional shifts.
+- Identifies existing algorithms' limitations and proves risk consistency across broad distributional changes, offering strong theoretical guarantees.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[15] ICPADS 2025 [ccf-C, Core B]</div><img src='images/icpads25-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Interpretable Bilevel Additive Taylor Model for Datasets with Noisy Labels and Imbalanced Classes](https://zhangxuelincode.github.io/)
+
+Wenxing Zhou, Chao Xu, Lian Peng, **Xuelin Zhang***.
+
+**IEEE International Conference on Parallel and Distributed Systems 2025 [C]**
+
+- Tucker decomposition is introduced for low-rank approximation by leveraging Taylor-series expansion to capture higher-order interactions.
+- Fusing bilevel optimization with sparse neural additive models and integrated Tucker decomposition, it robustly handles label noise and class imbalance while preserving interpretability.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[14] CIKM 2025 [ccf-B, Core A]</div><img src='images/cikm2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
