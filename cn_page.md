@@ -297,11 +297,11 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - <span style="color: #888888;"> Interpretable Bilevel Additive Taylor Model for Imperfect Datasets. </span>
 - <span style="color: #888888;"> Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift. </span>
 - Detecting LLM Hallucinations via Nonlinear Manifold Separation.
+- Explainable Hardware Trojan Detection and Localization in FPGA Netlists.
 - [D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents.](https://arxiv.org/pdf/2509.21799)
+- Robust Hardware Trojan Detection at RTL through Adversarial Attack and Defense.
 - From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning.
 - Distribution-Aware Neural Additive Models: Robust Interpretable Deep Learning with Feature Selection
-- Explainable Hardware Trojan Detection and Localization in FPGA Netlists.
-- Robust Hardware Trojan Detection at RTL through Adversarial Attack and Defense.
 - Enhancing Trojan Detection Robustness: A Pseudo-Supervised Framework with Imbalance-Aware Robust Loss.
 - 基于YOLOv11-FS模型的柑橘花粉活力率检测. 
 
