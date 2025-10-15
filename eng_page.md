@@ -37,11 +37,15 @@ If you are interested or have any questions about my work, please feel free to c
 
 # 🔥 News
 
-- *2025.08*: &nbsp;🎉🎉  New Acceptance: "Interpretable Meta-weighted Sparse Neural Additive Networks" to appear in **CIKM (ccf-B)**.
+- *2025.10*: &nbsp;🎉🎉  New Acceptance: "Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift" to appear in **ICPADS (core B)**.
 
-- *2025.05*: &nbsp;🎉🎉  New Acceptance: "On the Generalization Ability of Next-Token-Prediction Pretraining" to appear in **ICML (ccf-A)**. Congratulations to my co-authors!
+- *2025.10*: &nbsp;🎉🎉  New Acceptance: "Interpretable Bilevel Additive Taylor Model for Datasets with Noisy Labels and Imbalanced Classes" to appear in **ICPADS (core B)**.
+  
+- *2025.08*: &nbsp;🎉🎉  New Acceptance: "Interpretable Meta-weighted Sparse Neural Additive Networks" to appear in **CIKM (core A)**.
 
-- *2025.01*: &nbsp;🎉🎉  New Acceptance: "Towards Precise and Explainable Hardware Trojan Localization at LUT Level" to appear in **TCAD (ccf-A)**. Congratulations to my co-authors!
+- *2025.05*: &nbsp;🎉🎉  New Acceptance: "On the Generalization Ability of Next-Token-Prediction Pretraining" to appear in **ICML (core A+)**. Congratulations to my co-authors!
+
+- *2025.01*: &nbsp;🎉🎉  New Acceptance: "Towards Precise and Explainable Hardware Trojan Localization at LUT Level" to appear in **TCAD (core A+)**. Congratulations to my co-authors!
 
 - *2024.12*: &nbsp;🎉🎉  New Activity: Attendance in CCF Wuhan 2024 Annual Conference and the 8th Outstanding Doctoral Student Academic Activity.
 
