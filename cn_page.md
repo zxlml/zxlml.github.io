@@ -73,7 +73,7 @@ Richeng Zhou, **Xuelin Zhang***, Hong Chen, Weifu Li, Liyuan Liu.
 **IEEE International Conference on Parallel and Distributed Systems 2025 [C]**
 
 - PGIW框架在度量学习领域引入了一种创新的解决方案，有效地解决了传统方法在分布变化下的性能下降问题。
-- 从理论角度，分析了现有算法的缺陷，证明了PGIW方法在大范围的分布变化下表现出风险一致性，为其实际应用提供了有力的理论支持。
+- 从理论角度，分析了现有算法的缺陷，证明了PGIW方法在更多的分布漂移类型下表现出风险一致性，为其实际应用提供了有力的理论支持。
 </div>
 </div>
 
