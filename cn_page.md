@@ -322,9 +322,9 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Beyond False Discovery Rate: A Stepdown Group SLOPE Approach for Grouped Variable Selection.
 - Distribution-Aware Neural Additive Models: Robust Interpretable Deep Learning with Feature Selection.
 
-**（2）<span style="color: #888888;">通讯</span>与合作**
+**（2）合作**
 
-- <span style="color: #888888;"> BIAM: Bilevel Interactive Additive Model. </span>
+- BIAM: Bilevel Interactive Additive Model.
 - 基于YOLOv11-FS模型的柑橘花粉活力率检测. 
 - Detecting LLM Hallucinations via Nonlinear Manifold Separation.
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists.
