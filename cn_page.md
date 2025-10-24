@@ -328,10 +328,10 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - 基于YOLOv11-FS模型的柑橘花粉活力率检测. 
 - Detecting LLM Hallucinations via Nonlinear Manifold Separation.
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists.
+- Fine-grained Analysis on the Generalization of Multimodal Metric Learning.
 - [D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents.](https://arxiv.org/pdf/2509.21799)
 - Robust Hardware Trojan Detection at RTL through Adversarial Attack and Defense.
 - From Conflicts to Convergence: A Zeroth-order Method for Multi-Objective Learning.
-- Distribution-Aware Neural Additive Models: Robust Interpretable Deep Learning with Feature Selection
 - Enhancing Trojan Detection Robustness: A Pseudo-Supervised Framework with Imbalance-Aware Robust Loss.
 - **+_+**  More ongoing works on LLM benchmark and novel algorithm design are coming soon!
 
