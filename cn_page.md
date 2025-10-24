@@ -315,7 +315,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 - Bilevel Manifold Fitting.
 - Maximum Likelihood Neural Additive Models.
 - Meta Additive Model: Learning Theory Analysis and Applications.
-- [ChronosBench: Assessing Agent Capabilities in Ultra Long-Horizon Scenarios.](https://arxiv.org/pdf/2509.21766)
+- [UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon Scenarios.](https://arxiv.org/pdf/2509.21766)
 - On the Convergence of Nonconcave-Nonconvex Max-Min Optimization Problem.
 - On the Stability and Generalization of First-order Bilevel Minimax Optimization.
 - S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection. 
