@@ -106,7 +106,7 @@ Wenxing Zhou, Chao Xu, Lian Peng, **Xuelin Zhang***.
 
 **Journal of Numerical Simulations in Physics and Mathematics 2025 [J]**
 
-- This paper introduces a novel two-sided Polyak-Łojasiewicz and Quadratic Growth framework that establishes the first O(1/K) convergence guarantee for SAGDA in nonconvex-nonconcave max-min optimization, matching convex-concave rates under milder geometry.
+- This paper introduces a novel two-sided Polyak-Łojasiewicz and Quadratic Growth framework that establishes the convergence guarantee of O(1/K) for SAGDA in nonconvex-nonconcave max-min optimization, matching convex-concave rates under milder geometry.
   
 </div>
 </div>
