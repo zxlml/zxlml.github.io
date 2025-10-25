@@ -92,7 +92,7 @@ Wenxing Zhou, Chao Xu, Lian Peng, **Xuelin Zhang***.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[14] CIKM 2025 [ccf-B, Core A]</div><img src='images/cikm2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[15] CIKM 2025 [ccf-B, Core A]</div><img src='images/cikm2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Interpretable Meta-weighted Sparse Neural Additive Networks](https://zhangxuelincode.github.io/)
@@ -103,6 +103,20 @@ Wenxing Zhou, Chao Xu, Lian Peng, **Xuelin Zhang***.
 
 - 双层优化策略下，自适应调整样本权重，同时以稀疏正则保持单特征可解释性。
 - 在多种分布偏移下均显著优于现有方法，验证了神经可加模型在连续学习任务中的抗遗忘能力。
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[14] JNSPM 2025 </div><img src='images/jnspm2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[On the Convergence of Nonconcave-Nonconvex Max-Min Optimization Problem](https://zhangxuelincode.github.io/)
+
+**Xuelin Zhang***
+
+**Journal of Numerical Simulations in Physics and Mathematics 2025 [J]**
+
+- 本文针对非凸-非凹极大-极小优化问题，提出了一种基于双端Polyak-Łojasiewicz与二次增长条件的新分析框架，证明SAGDA算法以 O(1/K) 速率收敛，结果与凸-凹情形相当但要求更弱。
 </div>
 </div>
 
