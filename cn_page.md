@@ -63,7 +63,7 @@ redirect_from:
 
 # 📝 机器学习方向论文
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[16] ICPADS 2025 [ccf-C, Core B]</div><img src='images/icpads25-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[17] ICPADS 2025 [ccf-C, Core B]</div><img src='images/icpads25-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift](https://zhangxuelincode.github.io/)
@@ -77,7 +77,7 @@ Richeng Zhou, **Xuelin Zhang***, Hong Chen, Weifu Li, Liyuan Liu.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[15] ICPADS 2025 [ccf-C, Core B]</div><img src='images/icpads25-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[16] ICPADS 2025 [ccf-C, Core B]</div><img src='images/icpads25-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Interpretable Bilevel Additive Taylor Model for Datasets with Noisy Labels and Imbalanced Classes](https://zhangxuelincode.github.io/)
