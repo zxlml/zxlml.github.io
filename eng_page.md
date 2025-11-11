@@ -85,7 +85,7 @@ Wenxing Zhou, Chao Xu, Lian Peng, **Xuelin Zhang***.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[15] CIKM 2025 [ccf-B, Core A]</div><img src='images/cikm2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Interpretable Meta-weighted Sparse Neural Additive Networks](zxlml.github.io)
+[Interpretable Meta-weighted Sparse Neural Additive Networks](https://dl.acm.org/doi/10.1145/3746252.3760829)
 
 **Xuelin Zhang**, Hong Chen, Lingjuan Wu*.
 
