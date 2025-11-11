@@ -42,7 +42,7 @@ redirect_from:
 
 # 🔥 新闻
 
-- *2025.10*: &nbsp;🎉🎉  荣获华中农业大学研究生年会（数学）一等奖与“三好研究生”称号.
+- *2025.11*: &nbsp;🎉🎉  荣获华中农业大学研究生年会（数学）一等奖与“三好研究生”称号.
 
 - *2025.10*: &nbsp;🎉🎉  两篇论文（“可解释/鲁棒机器学习”）被[**ICPADS**](http://ieee-icpads.org.cn/)(**分布式领域CCF-C类**会议)接收.
 
@@ -352,6 +352,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 
 # 🎖️ 以往活动与奖项
+- *2025.10*: 荣获 华中农业大学**研究生年会（数学）一等奖**与“**三好研究生**”称号.
 - *2025.8:*  参会 北京海淀清华大学召开的 [**数学发展述评暨中青年学术研讨会**](https://ymsc.tsinghua.edu.cn/info/1060/4437.htm).
 - *2025.8:*  参会 北京海淀北京大学召开的 [**中国机器学习与科学应用大会**](https://cmlr.pku.edu.cn/Events/Conference/6ace3fc8bfeb40dd835b577de6e90cce.htm).
 - *2025.6 - now:*  交流实习 [**北京滴滴 AI LAB: L-Lab**](https://www.didiglobal.com/science/ailabs).
