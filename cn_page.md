@@ -352,6 +352,7 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 
 
 # 🎖️ 以往活动与奖项
+- *2025.12:* 现场汇报： 安徽合肥召开的[**IEEE International Conference on Parallel and Distributed Systems 2025**](http://ieee-icpads.org.cn/).
 - *2025.11:* 现场汇报： 韩国首尔召开的[**ACM Conference on Information and Knowledge Management 2025**](https://cikm2025.org/).
 - *2025.11*: 荣获 [华中农业大学**研究生年会（数学）一等奖**](https://mp.weixin.qq.com/s/g6Lh_Vp07kt1QMgahd7i2g).
 - *2025.10*: 荣获“**2025年度三好研究生**”.
