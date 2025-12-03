@@ -291,6 +291,8 @@ Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu.
 
 # 🎖️ Activities and Honors
 - *2025:* Internship at [**DiDi AI-Lab: L-Lab**.](https://www.didiglobal.com/science/ailabs)
+- 2025.12: A report is made at [31th IEEE International Conference on Parallel and Distributed Systems 2025.](http://ieee-icpads.org.cn/).
+- 2025.11: A report is made at [34th ACM Conference on Information and Knowledge Management 2025](https://cikm2025.org/).
 - *2025.4:* A report is made at [**HBSIAM 2025**.](https://aisle.hzau.edu.cn/info/1097/2476.htm)
 - *2024.12:* A report is made at [**CCF Wuhan 2024 Annual Conference and 8th Outstanding Doctoral Student Academic Forum**.](https://www.ccf.org.cn/Chapters/Chapters/Wuhan/hyhdzxdt/2024-12-23/836269.shtml)
 - *2024.11:* [**China Doctoral National Scholarship**.](https://aisle.hzau.edu.cn/info/1097/2216.htm)
