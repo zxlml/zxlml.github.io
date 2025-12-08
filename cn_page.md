@@ -100,7 +100,7 @@ Wenxing Zhou, Chao Xu, Lian Peng, **Xuelin Zhang***.
 
 [Citrus Pollen Viability Detection via Modified YOLOv11-FS Model](https://zhangxuelincode.github.io/)
 
-刘力源, **张学林***, 陈洪, 李伟夫, 	廖健华, 	解凯东, 伍小萌, 陈耀辉.
+刘力源, **张学林**, 陈洪, 李伟夫, 	廖健华, 	解凯东, 伍小萌, 陈耀辉.
 
 **华中农业大学学报 2025 [J]**
 
