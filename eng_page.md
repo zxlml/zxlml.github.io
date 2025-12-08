@@ -89,7 +89,7 @@ Wenxing Zhou, Chao Xu, Lian Peng, **Xuelin Zhang***.
 
 Liyuan Liu, **Xuelin Zhang**, Hong Chen, Weifu Li, Jianhua Liao, Kaidong Xie, Xiaomeng Wu, Yaohui Chen*.
 
-**Journal of Huazhong Agricultural University 2025 [C]**
+**Journal of Huazhong Agricultural University 2025 [J]**
 
 - An improved YOLOv11-FS model is proposed that effectively overcomes detection challenges such as the small size, clumping tendency, and complex background of citrus pollen grains.
 - It provides reliable technical support for the breeding of seedless citrus varieties and can also underpin automated pollen-viability monitoring and cultivar improvement in the intelligent management of citrus orchards.
