@@ -1,4 +1,4 @@
----
+<img width="432" height="35" alt="image" src="https://github.com/user-attachments/assets/8be48a04-bccb-422d-921c-c54200fb5763" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -65,7 +65,9 @@ redirect_from:
 
 # 📝 机器学习方向论文
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[17] ICPADS 2025 [ccf-C, Core B]</div><img src='images/icpads25-2.png' alt="sym" width="100%"></div></div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[18] ICPADS 2025 [ccf-C, Core B]</div><img src='images/icpads25-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift](https://zhangxuelincode.github.io/)
@@ -79,7 +81,7 @@ Richeng Zhou, **Xuelin Zhang***, Hong Chen, Weifu Li, Liyuan Liu.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[16] ICPADS 2025 [ccf-C, Core B]</div><img src='images/icpads25-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[17] ICPADS 2025 [ccf-C, Core B]</div><img src='images/icpads25-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Interpretable Bilevel Additive Taylor Model for Datasets with Noisy Labels and Imbalanced Classes](https://zhangxuelincode.github.io/)
@@ -90,6 +92,20 @@ Wenxing Zhou, Chao Xu, Lian Peng, **Xuelin Zhang***.
 
 - 利用泰勒级数展开来捕捉更高阶的相互作用，为低秩近似引入了Tucker分解。
 - 结合了双层优化和稀疏神经加性建模，并集成了Tucker分解，有效地解决了标签噪声和类别不平衡，同时保持了可解释性。
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[16] 华中农业大学学报 2025 [Q2, T2]</div><img src='images/hzau.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Citrus Pollen Viability Detection via Modified YOLOv11-FS Model](https://zhangxuelincode.github.io/)
+
+刘力源, **张学林***, 陈洪, 李伟夫, 	廖健华, 	解凯东, 伍小萌, 陈耀辉.
+
+**华中农业大学学报 2025 [J]**
+
+- 提出了改进的YOLOv11-FS模型，有效克服了柑橘花粉颗粒小、易抱团、背景复杂等检测挑战。
+- 为无核柑橘品种培育提供了可靠的技术支持，同时可为柑橘果园智能化管理中的花粉活力检测和品种改良提供技术支撑。
 </div>
 </div>
 
@@ -340,7 +356,6 @@ Lingjuan Wu, **Xuelin Zhang**, [Siyi Wang](https://scholar.google.com/citations?
 **（2）合作**
 
 - BIAM: Bilevel Interactive Additive Model.
-- 基于YOLOv11-FS模型的柑橘花粉活力率检测. 
 - Detecting LLM Hallucinations via Nonlinear Manifold Separation.
 - Explainable Hardware Trojan Detection and Localization in FPGA Netlists.
 - Fine-grained Analysis on the Generalization of Multimodal Metric Learning.
