@@ -53,7 +53,7 @@ If you are interested or have any questions about my work, please feel free to c
 
 # 📝 Publications in Machine Learning
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[17] ICPADS 2025 [ccf-C, Core B]</div><img src='images/icpads25-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[18] ICPADS 2025 [ccf-C, Core B]</div><img src='images/icpads25-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift](https://zhangxuelincode.github.io/)
@@ -68,7 +68,7 @@ Richeng Zhou, **Xuelin Zhang***, Hong Chen, Weifu Li, Liyuan Liu.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[16] ICPADS 2025 [ccf-C, Core B]</div><img src='images/icpads25-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[17] ICPADS 2025 [ccf-C, Core B]</div><img src='images/icpads25-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Interpretable Bilevel Additive Taylor Model for Datasets with Noisy Labels and Imbalanced Classes](https://zhangxuelincode.github.io/)
@@ -79,6 +79,20 @@ Wenxing Zhou, Chao Xu, Lian Peng, **Xuelin Zhang***.
 
 - Tucker decomposition is introduced for low-rank approximation by leveraging Taylor-series expansion to capture higher-order interactions.
 - Fusing bilevel optimization with sparse neural additive models and integrated Tucker decomposition, it robustly handles label noise and class imbalance while preserving interpretability.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[16] Journal of HZAU 2025 [Q2, T2]</div><img src='images/hzau.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Citrus Pollen Viability Detection via Modified YOLOv11-FS Model](https://zhangxuelincode.github.io/)
+
+Liyuan Liu, **Xuelin Zhang**, Hong Chen, Weifu Li, Jianhua Liao, Kaidong Xie, Xiaomeng Wu, Yaohui Chen*.
+
+**Journal of Huazhong Agricultural University 2025 [C]**
+
+- An improved YOLOv11-FS model is proposed that effectively overcomes detection challenges such as the small size, clumping tendency, and complex background of citrus pollen grains.
+- It provides reliable technical support for the breeding of seedless citrus varieties and can also underpin automated pollen-viability monitoring and cultivar improvement in the intelligent management of citrus orchards.
 </div>
 </div>
 
