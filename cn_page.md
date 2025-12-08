@@ -81,6 +81,7 @@ Richeng Zhou, **Xuelin Zhang***, Hong Chen, Weifu Li, Liyuan Liu.
 </div>
 </div>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[17] ICPADS 2025 [ccf-C, Core B]</div><img src='images/icpads25-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -94,6 +95,8 @@ Wenxing Zhou, Chao Xu, Lian Peng, **Xuelin Zhang***.
 - 结合了双层优化和稀疏神经加性建模，并集成了Tucker分解，有效地解决了标签噪声和类别不平衡，同时保持了可解释性。
 </div>
 </div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[16] 华中农业大学学报 2025 [Q2, T2]</div><img src='images/hzau.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
