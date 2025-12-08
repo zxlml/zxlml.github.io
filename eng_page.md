@@ -111,7 +111,7 @@ Liyuan Liu, **Xuelin Zhang**, Hong Chen, Weifu Li, Jianhua Liao, Kaidong Xie, Xi
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[15] JNSPM 2025 </div><img src='images/jnspm2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[14] JNSPM 2025 </div><img src='images/jnspm2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [On the Convergence of Nonconcave-Nonconvex Max-Min Optimization Problem](zxlml.github.io)
