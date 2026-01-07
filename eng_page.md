@@ -37,6 +37,8 @@ If you are interested or have any questions about my work, please feel free to c
 
 # 🔥 News
 
+- *2025.10*: &nbsp;🎉🎉  New Awards: Two papers are selected as "**Best Presentation in Session**" in **ICPADS 2025**.
+
 - *2025.10*: &nbsp;🎉🎉  New Acceptance: "Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift" to appear in **ICPADS (core B)**.
 
 - *2025.10*: &nbsp;🎉🎉  New Acceptance: "Interpretable Bilevel Additive Taylor Model" to appear in **ICPADS (core B)**.
@@ -60,7 +62,7 @@ If you are interested or have any questions about my work, please feel free to c
 
 Richeng Zhou, **Xuelin Zhang***, Hong Chen, Weifu Li, Liyuan Liu.
 
-**IEEE International Conference on Parallel and Distributed Systems 2025 [C]**
+**IEEE International Conference on Parallel and Distributed Systems 2025 [C]** (**Best Presentation in Session**)
 
 - Introduces an innovative solution to metric learning, effectively overcoming performance degradation under distributional shifts.
 - Identifies existing algorithms' limitations and proves risk consistency across broad distributional changes, offering strong theoretical guarantees.
@@ -71,11 +73,11 @@ Richeng Zhou, **Xuelin Zhang***, Hong Chen, Weifu Li, Liyuan Liu.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[17] ICPADS 2025 [ccf-C, Core B]</div><img src='images/icpads25-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Interpretable Bilevel Additive Taylor Model for Datasets with Noisy Labels and Imbalanced Classes](https://zhangxuelincode.github.io/)
+[Interpretable Bilevel Additive Taylor Model](https://zhangxuelincode.github.io/)
 
 Wenxing Zhou, Chao Xu, Lian Peng, **Xuelin Zhang***.
 
-**IEEE International Conference on Parallel and Distributed Systems 2025 [C]**
+**IEEE International Conference on Parallel and Distributed Systems 2025 [C]** (**Best Presentation in Session**)
 
 - Tucker decomposition is introduced for low-rank approximation by leveraging Taylor-series expansion to capture higher-order interactions.
 - Fusing bilevel optimization with sparse neural additive models and integrated Tucker decomposition, it robustly handles label noise and class imbalance while preserving interpretability.
