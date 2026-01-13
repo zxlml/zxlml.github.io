@@ -62,7 +62,7 @@ If you are interested or have any questions about my work, please feel free to c
 
 [Maximum Likelihood Neural Additive Models](https://zhangxuelincode.github.io/)
 
-Jingyi Chen$^\#$, **Xuelin Zhang$^\#$**, Peipei Yuan, [Rushi Lan](https://www.cgn.net.cn/cms/show.action?code=publish_808080806b6e478b016b6ed1371b0009&newsid=5d66538136c741ceaef07a5ee827c699&channelid=0000000178), Hong Chen*.
+Jingyi Chen#, **Xuelin Zhang**#, Peipei Yuan, [Rushi Lan](https://www.cgn.net.cn/cms/show.action?code=publish_808080806b6e478b016b6ed1371b0009&newsid=5d66538136c741ceaef07a5ee827c699&channelid=0000000178), Hong Chen*.
 
 **Information Sciences 2026 [J]**
 
