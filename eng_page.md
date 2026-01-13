@@ -37,6 +37,8 @@ If you are interested or have any questions about my work, please feel free to c
 
 # 🔥 News
 
+- *2026.01*: &nbsp;🎉🎉  New Acceptance: "Maximum Likelihood Neural Additive Models" to appear in **Information Sciences (ccf-B)**.
+
 - *2025.10*: &nbsp;🎉🎉  New Awards: Two papers are selected as "**Best Presentation in Session**" in **ICPADS 2025**.
 
 - *2025.10*: &nbsp;🎉🎉  New Acceptance: "Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift" to appear in **ICPADS (core B)**.
@@ -54,6 +56,21 @@ If you are interested or have any questions about my work, please feel free to c
 - *2024.11*: &nbsp;🎉🎉  New Award: **China Doctoral National Scholarship**.
 
 # 📝 Publications in Machine Learning
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[19] Information Sciences 2026 [ccf-B, SCI-2] </div><img src='images/ins2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Maximum Likelihood Neural Additive Models](https://zhangxuelincode.github.io/)
+
+Jingyi Chen$^\#$, **Xuelin Zhang$^\#$**, Peipei Yuan, [Rushi Lan](https://www.cgn.net.cn/cms/show.action?code=publish_808080806b6e478b016b6ed1371b0009&newsid=5d66538136c741ceaef07a5ee827c699&channelid=0000000178), Hong Chen*.
+
+**Information Sciences 2026 [J]**
+
+- Algorithmically, we propose the Maximum Likelihood Neural Additive Model (ML-NAM), which employs kernel density estimation for non-parametric residual modeling to achieve robust learning against non-Gaussian noise without distributional assumptions. 
+- Theoretically, we establish non-asymptotic upper bounds on the excess risk, demonstrating that the model achieves minimax convergence rates with polynomial decay within Besov spaces.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[18] ICPADS 2025 [ccf-C, Core B]</div><img src='images/icpads25-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
