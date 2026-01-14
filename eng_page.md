@@ -60,7 +60,7 @@ If you are interested or have any questions about my work, please feel free to c
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[19] Information Sciences 2026 [ccf-B, SCI-2] </div><img src='images/ins2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Maximum Likelihood Neural Additive Models](https://zhangxuelincode.github.io/)
+[Maximum Likelihood Neural Additive Models](https://linkinghub.elsevier.com/retrieve/pii/S0020025526000356)
 
 Jingyi Chen#, **Xuelin Zhang**#, Peipei Yuan, [Rushi Lan](https://www.cgn.net.cn/cms/show.action?code=publish_808080806b6e478b016b6ed1371b0009&newsid=5d66538136c741ceaef07a5ee827c699&channelid=0000000178), Hong Chen*.
 
