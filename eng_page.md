@@ -75,7 +75,7 @@ Jingyi Chen#, **Xuelin Zhang**#, Peipei Yuan, [Rushi Lan](https://www.cgn.net.cn
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[18] ICPADS 2025 [ccf-C, Core B]</div><img src='images/icpads25-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift](https://zhangxuelincode.github.io/)
+[Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift](https://www.computer.org/csdl/proceedings-article/icpads/2025/11323092/2dgOl5RfFbW)
 
 Richeng Zhou, **Xuelin Zhang***, Hong Chen, Weifu Li, Liyuan Liu.
 
@@ -90,7 +90,7 @@ Richeng Zhou, **Xuelin Zhang***, Hong Chen, Weifu Li, Liyuan Liu.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[17] ICPADS 2025 [ccf-C, Core B]</div><img src='images/icpads25-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Interpretable Bilevel Additive Taylor Model](https://zhangxuelincode.github.io/)
+[Interpretable Bilevel Additive Taylor Model](https://www.computer.org/csdl/proceedings-article/icpads/2025/11323060/2dgOcv0Lkxa)
 
 Wenxing Zhou, Chao Xu, Lian Peng, **Xuelin Zhang***.
 
@@ -104,7 +104,7 @@ Wenxing Zhou, Chao Xu, Lian Peng, **Xuelin Zhang***.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[16] Journal of HZAU 2025 [Q2, T2]</div><img src='images/hzau.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Citrus Pollen Viability Detection via Modified YOLOv11-FS Model](https://zhangxuelincode.github.io/)
+[Citrus Pollen Viability Detection via Modified YOLOv11-FS Model](http://hnxbl.cnjournals.net/hznydxzren/article/abstract/L202507001)
 
 Liyuan Liu, **Xuelin Zhang**, Hong Chen, Weifu Li, Jianhua Liao, Kaidong Xie, Xiaomeng Wu, Yaohui Chen*.
 
