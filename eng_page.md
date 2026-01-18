@@ -37,21 +37,21 @@ If you are interested or have any questions about my work, please feel free to c
 
 # 🔥 News
 
-- *2026.01*: &nbsp;🎉🎉  New Acceptance: "Maximum Likelihood Neural Additive Models" to appear in **Information Sciences (ccf-B)**.
+- *2026.01*: &nbsp;🎉🎉  New Acceptance: One paper on interpretability to appear in **ICASSP (ccf-B)**.
 
-- *2025.10*: &nbsp;🎉🎉  New Awards: Two papers are selected as "**Best Presentation in Session**" in **ICPADS 2025**.
+- *2026.01*: &nbsp;🎉🎉  New Acceptance: One paper on interpretability to appear in **Information Sciences (ccf-B)**.
 
-- *2025.10*: &nbsp;🎉🎉  New Acceptance: "Pairwise Generalized Importance Weighting for Metric Learning under Distribution Shift" to appear in **ICPADS (core B)**.
+- *2026.01*: &nbsp;🎉🎉  New Awards: Two papers are selected as "**Best Presentation in Session**" in **ICPADS 2025**.
 
-- *2025.10*: &nbsp;🎉🎉  New Acceptance: "Interpretable Bilevel Additive Taylor Model" to appear in **ICPADS (core B)**.
+- *2025.10*: &nbsp;🎉🎉  New Acceptance: Two papers on robust domain adaptation and interpretability to appear in **ICPADS (core B)**.
   
-- *2025.08*: &nbsp;🎉🎉  New Acceptance: "Interpretable Meta-weighted Sparse Neural Additive Networks" to appear in **CIKM (core A)**.
+- *2025.08*: &nbsp;🎉🎉  New Acceptance: One paper on interpretability to appear in **CIKM (core A)**.
 
-- *2025.05*: &nbsp;🎉🎉  New Acceptance: "On the Generalization Ability of Next-Token-Prediction Pretraining" to appear in **ICML (core A+)**. Congratulations to my co-authors!
+- *2025.05*: &nbsp;🎉🎉  New Acceptance: One paper on LLM learning theory to appear in **ICML (core A+)**. Congratulations to my co-authors!
 
-- *2025.01*: &nbsp;🎉🎉  New Acceptance: "Towards Precise and Explainable Hardware Trojan Localization at LUT Level" to appear in **TCAD (core A+)**. Congratulations to my co-authors!
+- *2025.01*: &nbsp;🎉🎉  New Acceptance: One paper on hardware Trojan detection to appear in **TCAD (core A+)**. Congratulations to my co-authors!
 
-- *2024.12*: &nbsp;🎉🎉  New Activity: Attendance in CCF Wuhan 2024 Annual Conference and the 8th Outstanding Doctoral Student Academic Activity.
+- *2024.12*: &nbsp;🎉🎉  New Activity: Attendance in CCF Wuhan 2024 Annual Conference and the 8th Outstanding Doctoral Student Academic Award.
 
 - *2024.11*: &nbsp;🎉🎉  New Award: **China Doctoral National Scholarship**.
 
