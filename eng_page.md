@@ -68,6 +68,7 @@ Jingyi Chen#, **Xuelin Zhang**#, Peipei Yuan*, Liyuan Liu, Hong Chen.
 
 - Proposing a novel Distribution-Aware Neural Additive Model integrating kernel density estimation to flexibly capture diverse noise structures without restrictive distributional assumptions.
 - Incorporating group sparsity regularization to automatically select the most informative input features and enhance model interpretability as well as predictive performance.
+- The implementation could be found at [Github Link](https://github.com/zxlml/DANAM)
 </div>
 </div>
 
@@ -82,7 +83,7 @@ Jingyi Chen#, **Xuelin Zhang**#, Peipei Yuan, [Rushi Lan](https://www.cgn.net.cn
 
 - Algorithmically, we propose the Maximum Likelihood Neural Additive Model (ML-NAM), which employs kernel density estimation for non-parametric residual modeling to achieve robust learning against non-Gaussian noise without distributional assumptions. 
 - Theoretically, we establish non-asymptotic upper bounds on the excess risk, demonstrating that the model achieves minimax convergence rates with polynomial decay within Besov spaces.
-
+- The implementation could be found at [Github Link](https://github.com/zhangxuelincode/ML-NAM)
 </div>
 </div>
 
@@ -195,7 +196,7 @@ Hong Chen*, **Xuelin Zhang**, Tieliang Gong, Bin Gu, Feng Zheng.
 
 **Expert Systems With Applications 2024 [J]**
 
-- This paper goes beyond the limitation of error value-dependent learning criterion and proposes the EDERM framework for robust regression against atypical data. Sufficient empirical evaluations validate the effectiveness of our method. The implementation codes can be found at: [https://github.com/zhangxuelincode/EDERM](https://github.com/zhangxuelincode/EDERM)
+- This paper goes beyond the limitation of error value-dependent learning criterion and proposes the EDERM framework for robust regression against atypical data. Sufficient empirical evaluations validate the effectiveness of our method. The implementation codes can be found at: [Github Link](https://github.com/zhangxuelincode/EDERM)
 </div>
 </div>
 
@@ -209,7 +210,7 @@ Hong Chen*, **Xuelin Zhang**, Tieliang Gong, Bin Gu, Feng Zheng.
 
 **International Joint Conference on Artificial Intelligence 2024 [C] (Oral)**
 
-- In this paper, we provide a systematic generalization analysis of the first-order gradient-based bilevel optimization methods, based on the (on-average argument) algorithmic stability technique. The verification codes are provided at: [https://github.com/zhangxuelincode/BilevelOptimization](https://github.com/zhangxuelincode/BilevelOptimization)
+- In this paper, we provide a systematic generalization analysis of the first-order gradient-based bilevel optimization methods, based on the (on-average argument) algorithmic stability technique. The verification codes are provided at: [Github Link](https://github.com/zhangxuelincode/BilevelOptimization)
 </div>
 </div>
 
@@ -248,7 +249,7 @@ Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang.
 
 **Association for the Advancement of Artificial Intelligence 2023 [C] (Oral)**
 
-- This paper goes beyond the previous concern of Sorted L-One Penalized Estimation (SLOPE) limited to the false discovery rate (FDR) control by considering the stepdown-based SLOPE in order to control the probability of k or more false rejections (k-FWER) and the false discovery proportion (FDP). The codes are shared at: [https://github.com/zxlml/SLOPE](https://github.com/zxlml/SLOPE)
+- This paper goes beyond the previous concern of Sorted L-One Penalized Estimation (SLOPE) limited to the false discovery rate (FDR) control by considering the stepdown-based SLOPE in order to control the probability of k or more false rejections (k-FWER) and the false discovery proportion (FDP). The codes are shared at: [Github Link](https://github.com/zxlml/SLOPE)
 </div>
 </div>
 
@@ -261,7 +262,7 @@ Jingxuan Liang, **Xuelin Zhang**, Hong Chen*, Weifu Li, Xin Tang.
 
 **Applied Intelligence 2023 [J]**
 
-- In this paper, we propose a new robust variable structure discovery method for group lasso based on a convergent bilevel optimization framework, where the robust tilted empirical risk minimization is adopted. The implementation codes can be found at: [https://github.com/zhangxuelincode/demoTERMGL](https://github.com/zhangxuelincode/demoTERMGL)
+- In this paper, we propose a new robust variable structure discovery method for group lasso based on a convergent bilevel optimization framework, where the robust tilted empirical risk minimization is adopted. The implementation codes can be found at: [Github Link](https://github.com/zhangxuelincode/demoTERMGL)
 </div>
 </div>
 
@@ -291,7 +292,7 @@ Hao Su, Wei Hu, **Xuelin Zhang**, Dan Zhu, Lingjuan Wu*.
 
 **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 2025 [J]**
 
-- The proposed approach aims to extract the rich structural and behavioral features at the look-up-table (LUT) level to train an explainable graph neural network (GNN) model for classifying design nodes in FPGA netlists and identifying the Trojan-infected ones. The implementation codes can be found at: [https://github.com/zhangxuelincode/node_label](https://github.com/zhangxuelincode/node_label)
+- The proposed approach aims to extract the rich structural and behavioral features at the look-up-table (LUT) level to train an explainable graph neural network (GNN) model for classifying design nodes in FPGA netlists and identifying the Trojan-infected ones. The implementation codes can be found at: [Github Link](https://github.com/zhangxuelincode/node_label)
 </div>
 </div>
 
@@ -317,7 +318,7 @@ Lingjuan Wu, Hao Su, **Xuelin Zhang**, Yu Tai, Han Li, Wei Hu*.
 
 **International Conference on Computer-Aided Design 2023 [C]**
 
-- In this work, we propose a novel hardware Trojan detection method based on graph neural networks (GNNs) targeting FPGA netlists. We leverage the rich explicit structural features and behavioral characteristics at LUT, which offer an ideal abstraction level and granularity for Trojan detection. A GNN model with optimized class-balanced focal loss is trained for automated Trojan feature extraction and classification. Model implementation is available at [https://github.com/zxlml/XGNN_HT_Detection](https://github.com/zxlml/XGNN_HT_Detection)
+- In this work, we propose a novel hardware Trojan detection method based on graph neural networks (GNNs) targeting FPGA netlists. We leverage the rich explicit structural features and behavioral characteristics at LUT, which offer an ideal abstraction level and granularity for Trojan detection. A GNN model with optimized class-balanced focal loss is trained for automated Trojan feature extraction and classification. Model implementation is available at [Github Link](https://github.com/zxlml/XGNN_HT_Detection)
 </div>
 </div>
 
@@ -330,7 +331,7 @@ Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu.
 
 **International Symposium on Hardware Oriented Security and Trust 2022 [C]**
 
-- This work proposes a novel hardware Trojan detection method that leverages static structural features and behavioral characteristics in field programmable gate array (FPGA) netlists. Mapping of hardware design sources to look-up-table (LUT) networks makes these features explicit, allowing automated feature extraction and further effective Trojan detection through machine learning. The implemented codes are available at: [https://github.com/zxlml/HOST22](https://github.com/zxlml/HOST22)
+- This work proposes a novel hardware Trojan detection method that leverages static structural features and behavioral characteristics in field programmable gate array (FPGA) netlists. Mapping of hardware design sources to look-up-table (LUT) networks makes these features explicit, allowing automated feature extraction and further effective Trojan detection through machine learning. The implemented codes are available at: [Github Link](https://github.com/zxlml/HOST22)
 </div>
 </div>
 
