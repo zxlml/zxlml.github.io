@@ -57,6 +57,20 @@ If you are interested or have any questions about my work, please feel free to c
 
 # 📝 Publications in Machine Learning
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[20] ICASSP 2026 [ccf-B, Core B] </div><img src='images/icassp2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Maximum Likelihood Neural Additive Models](https://zxlml.github.io/)
+
+Jingyi Chen#, **Xuelin Zhang**#, Peipei Yuan, Liyuan Liu, Hong Chen.
+
+**International Conference on Acoustics, Speech, and Signal Processing 2026 [C]** 
+
+- Proposing a novel Distribution-Aware Neural Additive Model integrating kernel density estimation to flexibly capture diverse noise structures without restrictive distributional assumptions.
+- Incorporating group sparsity regularization to automatically select the most informative input features and enhance model interpretability as well as predictive performance.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[19] Information Sciences 2026 [ccf-B, SCI-2] </div><img src='images/ins2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
