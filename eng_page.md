@@ -62,7 +62,7 @@ If you are interested or have any questions about my work, please feel free to c
 
 [Distribution-Aware Neural Additive Models](https://cmsworkshops.com/ICASSP2026/papers/accepted_papers.php)
 
-Jingyi Chen#, **Xuelin Zhang**#, Peipei Yuan*, Liyuan Liu, Hong Chen.
+Jingyi Chen, **Xuelin Zhang**, Peipei Yuan*, Liyuan Liu, Hong Chen.
 
 **International Conference on Acoustics, Speech, and Signal Processing 2026 [C]** 
 
