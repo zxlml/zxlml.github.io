@@ -287,6 +287,21 @@ Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, Yizhi Zhao.
 
 # 📝 Publications in Hardware Security
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[5] COSE 2025 [ccf-B, SCI Q2 Top]</div><img src='images/cs2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Explainable Hardware Trojan Detection and Localization in FPGA Netlists](https://ieeexplore.ieee.org/document/10833822)
+
+Lingjuan Wu, Hao Su, Siyi Tian, **Xuelin Zhang**, [Wei Hu*](https://scholar.google.com.hk/citations?user=1kXI0YEAAAAJ&hl=en). 
+
+**Computers & Security 2026 [J]**
+
+- proposing an explainable hardware Trojan detection and localization method based on graph neural networks, leveraging the initialization vector features of look-up tables (LUTs) in FPGA netlists
+- introducing Granger causality theory, the method further reveals the decision-making mechanism of the GNN model to achieve precise identification of infected IP cores and Trojan nodes in Xilinx FPGA netlists 
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[4] TCAD 2025 [ccf-A]</div><img src='images/tcad2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
