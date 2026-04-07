@@ -37,7 +37,7 @@ If you are interested or have any questions about my work, please feel free to c
 
 # 🔥 News
 
-- *2026.04*: &nbsp;🎉🎉  New Acceptance: One paper on GUI Agents to appear in **ACL (ccf-A) Findings**.
+- *2026.04*: &nbsp;🎉🎉  New Acceptance: One paper on GUI Agents to appear in **ACL Findings**.
 
 - *2026.04*: &nbsp;🎉🎉  New Acceptance: One paper on hardware security to appear in **Computer & Security (ccf-B)**.
 
