@@ -37,25 +37,32 @@ If you are interested or have any questions about my work, please feel free to c
 
 # 🔥 News
 
-- *2026.01*: &nbsp;🎉🎉  New Acceptance: One paper on hardware security to appear in **Computer & Security (ccf-B)**.
+- *2026.04*: &nbsp;🎉🎉  New Acceptance: One paper on GUI Agents to appear in **ACL (ccf-A) Findings**.
 
-- *2026.01*: &nbsp;🎉🎉  New Acceptance: One paper on interpretability to appear in **Information Sciences (ccf-B)**.
+- *2026.04*: &nbsp;🎉🎉  New Acceptance: One paper on hardware security to appear in **Computer & Security (ccf-B)**.
+
+- *2026.01*: &nbsp;🎉🎉  New Acceptance: Two papers on interpretability to appear in **Information Sciences (ccf-B)** and **ICASSP (ccf-B)**.
 
 - *2026.01*: &nbsp;🎉🎉  New Awards: Two papers are selected as "**Best Presentation in Session**" in **ICPADS 2025**.
-
-- *2025.10*: &nbsp;🎉🎉  New Acceptance: Two papers on robust domain adaptation and interpretability to appear in **ICPADS (core B)**.
-  
-- *2025.08*: &nbsp;🎉🎉  New Acceptance: One paper on interpretability to appear in **CIKM (core A)**.
-
-- *2025.05*: &nbsp;🎉🎉  New Acceptance: One paper on LLM learning theory to appear in **ICML (core A+)**. Congratulations to my co-authors!
-
-- *2025.01*: &nbsp;🎉🎉  New Acceptance: One paper on hardware Trojan detection to appear in **TCAD (core A+)**. Congratulations to my co-authors!
-
-- *2024.12*: &nbsp;🎉🎉  New Activity: Attendance in CCF Wuhan 2024 Annual Conference and the 8th Outstanding Doctoral Student Academic Award.
 
 - *2024.11*: &nbsp;🎉🎉  New Award: **China Doctoral National Scholarship**.
 
 # 📝 Publications in Machine Learning
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[22] ACL Findings 2026 </div><img src='images/acl2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents](https://openreview.net/forum?id=1YVmSUB1lb#discussion)
+
+Hongze Mi, Yibo Feng, WenJie Lu, Yuqi Wang, Jinyuan Li, Song Cao, He Cui, Tengfei Tian, **Xuelin Zhang**, Haotian Luo, Di Sun, Jun Fang, Hua Chai, Naiqiang Tan, Gang Pan.
+
+**Annual Meeting of the Association for Computational Linguistics 2026 [C]** 
+
+- Proposing the D-Artemis deliberative framework, which enhances general-purpose multimodal large language models for GUI tasks without requiring training on complex trajectory datasets, by leveraging a fine-grained, app-specific tip retrieval mechanism.
+- Designing a cognitive closed-loop mechanism of "pre-execution alignment and post-execution reflection," where the collaborative operation of the TAC Check module, Action Correction Agent, and Status Reflection Agent proactively prevents execution failures and enables experiential learning.
+- Implementation: [Github Link](https://anonymous.4open.science/r/Artemis-D8D9)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[21] ICASSP 2026 [ccf-B, Core B] </div><img src='images/icassp2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -290,7 +297,7 @@ Wenqian Zhao, Han Li, Lingjuan Wu*, Liangxuan Zhu, **Xuelin Zhang**, Yizhi Zhao.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[5] COSE 2025 [ccf-B, SCI Q2 Top]</div><img src='images/cs2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Explainable Hardware Trojan Detection and Localization in FPGA Netlists](https://ieeexplore.ieee.org/document/10833822)
+[Explainable Hardware Trojan Detection and Localization in FPGA Netlists](https://www.sciencedirect.com/science/article/pii/S016740482600088X)
 
 Lingjuan Wu, Hao Su, Siyi Tian, **Xuelin Zhang**, [Wei Hu*](https://scholar.google.com.hk/citations?user=1kXI0YEAAAAJ&hl=en). 
 
