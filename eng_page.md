@@ -67,7 +67,7 @@ Hongze Mi, Yibo Feng, WenJie Lu, Yuqi Wang, Jinyuan Li, Song Cao, He Cui, Tengfe
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[21] ICASSP 2026 [ccf-B, Core B] </div><img src='images/icassp2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Distribution-Aware Neural Additive Models](https://cmsworkshops.com/ICASSP2026/papers/accepted_papers.php)
+[Distribution-Aware Neural Additive Models: Robust Interpretable Deep Learning with Feature Selection](https://ieeexplore.ieee.org/abstract/document/11463944)
 
 Jingyi Chen, **Xuelin Zhang**, Peipei Yuan*, Liyuan Liu, Hong Chen.
 
