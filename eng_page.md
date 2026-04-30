@@ -29,7 +29,7 @@ My research interests lie in the areas of optimization and learning theory, with
 
 - Robust/Interpretable machine learning (e.g., **Robust Metric**, Sparse/Neural **Additive Models**)
 
-- Applications (e.g., **Hardware Trojan Detection**, **Biology Analysis in Genes**)
+- Applications (e.g., **Hardware Trojan Detection**, **Intelligent Biology Analysis**)
 
 Some suggested videos for better understanding the [bilevel optimization](https://www.youtube.com/watch?v=hTDrSjBtKLc), [robust machine learning](https://www.youtube.com/watch?v=IgAPc0i0-9E), [interpretable additive models](https://www.youtube.com/watch?v=3aMB51GMUyQ) as well as the [hardware Trojans](https://www.youtube.com/watch?v=VL3kizVud9Q).
 
