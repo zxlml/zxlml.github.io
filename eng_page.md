@@ -52,7 +52,7 @@ If you are interested or have any questions about my work, please feel free to c
 # 📝 Publications in Machine Learning
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[25] ICML 2026 </div><img src='images/icml2-2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[25] ICML 2026 </div><img src='images/icml3-2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents](https://openreview.net/forum?id=1YVmSUB1lb#discussion)
