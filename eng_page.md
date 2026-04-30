@@ -37,7 +37,7 @@ If you are interested or have any questions about my work, please feel free to c
 
 # 🔥 News
 
-- *2026.05*: &nbsp;🎉🎉  New Acceptance: Three papers on Interpretable ML/LLM Evaluation/GUI Agents to appear in **ICML**.
+- *2026.05*: &nbsp;🎉🎉  New Acceptance: Three papers on Interpretable ML/LLM Evaluation/GUI Agents to appear in **ICML (ccf-A)**.
   
 - *2026.04*: &nbsp;🎉🎉  New Acceptance: One paper on GUI Agents to appear in **ACL Findings**.
 
@@ -45,7 +45,7 @@ If you are interested or have any questions about my work, please feel free to c
 
 - *2026.01*: &nbsp;🎉🎉  New Acceptance: Two papers on interpretability to appear in **Information Sciences (ccf-B)** and **ICASSP (ccf-B)**.
 
-- *2026.01*: &nbsp;🎉🎉  New Awards: Two papers are selected as "**Best Presentation in Session**" in **ICPADS 2025**.
+- *2026.01*: &nbsp;🎉🎉  New Awards: Two papers are selected as "**Best Presentation in Session**" in **ICPADS**.
 
 - *2024.11*: &nbsp;🎉🎉  New Award: **China Doctoral National Scholarship**.
 
