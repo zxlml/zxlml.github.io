@@ -52,10 +52,10 @@ If you are interested or have any questions about my work, please feel free to c
 # 📝 Publications in Machine Learning
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[25] ICML 2026 </div><img src='images/icml3-2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[25] ICML 2026 [ccf-A, Core A*]</div><img src='images/icml3-2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents](https://openreview.net/forum?id=1YVmSUB1lb#discussion)
+[S2MAM: Semi-supervised Meta Additive Model for Robust Estimation and Variable Selection](https://arxiv.org/abs/2604.19072)
 
 **Xuelin Zhang**, Hong Chen*, Yingjie Wang, Tieliang Gong, Bin Gu
 
@@ -67,10 +67,11 @@ If you are interested or have any questions about my work, please feel free to c
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[24] ICML 2026 </div><img src='images/icml2-2026.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[24] ICML 2026 [ccf-A, Core A*]</div><img src='images/icml2-2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents](https://openreview.net/forum?id=1YVmSUB1lb#discussion)
+[UltraHorizon: Benchmarking LLM-Agent Capabilities in Ultra Long-Horizon Scenarios](https://arxiv.org/abs/2509.21766)
 
 Haotian Luo#, Huaisong Zhang#, **Xuelin Zhang**#, Haoyu Wang#, Zeyu Qin#, WenJie Lu#, Guozheng Ma, Haiying He, Yingsha Xie, Qiyang Zhou, Zixuan Hu, Hongze Mi, Yibo Wang, Naiqiang Tan, Hong Chen, Yi R. Fung, Chun Yuan, Li Shen*
 
@@ -83,10 +84,10 @@ Haotian Luo#, Huaisong Zhang#, **Xuelin Zhang**#, Haoyu Wang#, Zeyu Qin#, WenJie
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[23] ICML 2026 </div><img src='images/icml1-2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[23] ICML 2026 [ccf-A, Core A*]</div><img src='images/icml1-2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents](https://openreview.net/forum?id=1YVmSUB1lb#discussion)
+[Darwinian Memory: A Training-Free Self-Regulating Memory System for GUI Agent Evolution](https://arxiv.org/abs/2601.22528)
 
 Hongze Mi, Yibo Feng, WenJie Lu, Song Cao, Jinyuan Li, Yanming Li, **Xuelin Zhang**, Haotian Luo, Songyang Peng, He Cui, Tengfei Tian, Jun Fang, Hua Chai, Naiqiang Tan*.
 
