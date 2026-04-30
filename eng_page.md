@@ -37,6 +37,8 @@ If you are interested or have any questions about my work, please feel free to c
 
 # 🔥 News
 
+- *2026.04*: &nbsp;🎉🎉  New Acceptance: Three papers on Interpretable ML/LLM Evaluation/GUI Agents to appear in **ICML**.
+- 
 - *2026.04*: &nbsp;🎉🎉  New Acceptance: One paper on GUI Agents to appear in **ACL Findings**.
 
 - *2026.04*: &nbsp;🎉🎉  New Acceptance: One paper on hardware security to appear in **Computer & Security (ccf-B)**.
@@ -48,6 +50,53 @@ If you are interested or have any questions about my work, please feel free to c
 - *2024.11*: &nbsp;🎉🎉  New Award: **China Doctoral National Scholarship**.
 
 # 📝 Publications in Machine Learning
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[25] ICML 2026 </div><img src='images/icml2-2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents](https://openreview.net/forum?id=1YVmSUB1lb#discussion)
+
+**Xuelin Zhang**, Hong Chen*, Yingjie Wang, Tieliang Gong, Bin Gu
+
+**Forty-Third International Conference on Machine Learning 2026 [C]** 
+
+- This paper introduces the Semi-Supervised Meta Additive Model (S2MAM) to overcome the vulnerability of traditional manifold regularization to noisy data by employing a bilevel optimization scheme that automatically selects informative variables and dynamically updates the similarity matrix.
+- Supported by theoretical guarantees for convergence and generalization, extensive experiments confirm that the model achieves robust and interpretable predictions across diverse corrupted datasets.
+- Implementation: [Github Link](https://anonymous.4open.science/r/S2MAM-2731/)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[24] ICML 2026 </div><img src='images/icml2-2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents](https://openreview.net/forum?id=1YVmSUB1lb#discussion)
+
+Haotian Luo#, Huaisong Zhang#, **Xuelin Zhang**#, Haoyu Wang#, Zeyu Qin#, WenJie Lu#, Guozheng Ma, Haiying He, Yingsha Xie, Qiyang Zhou, Zixuan Hu, Hongze Mi, Yibo Wang, Naiqiang Tan, Hong Chen, Yi R. Fung, Chun Yuan, Li Shen*
+
+**Forty-Third International Conference on Machine Learning 2026 [C]** 
+
+- Existing evaluations for autonomous agents typically fail to capture the complexity of long-horizon, partially observable real-world tasks that require sustained reasoning, memory management, and tool use. To address this gap, we introduce a novel exploration-based benchmark across three environments, featuring extremely long agent trajectories with high token counts and frequent tool calls.
+- Extensive experiments reveal that current state-of-the-art agents significantly underperform compared to humans and fail to improve with simple scaling, primarily due to in-context locking and fundamental capability gaps.
+- Implementation: [Github Link](https://github.com/StarDewXXX/UltraHorizon)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[23] ICML 2026 </div><img src='images/icml1-2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[D-Artemis: A Deliberative Cognitive Framework for Mobile GUI Multi-Agents](https://openreview.net/forum?id=1YVmSUB1lb#discussion)
+
+Hongze Mi, Yibo Feng, WenJie Lu, Song Cao, Jinyuan Li, Yanming Li, **Xuelin Zhang**, Haotian Luo, Songyang Peng, He Cui, Tengfei Tian, Jun Fang, Hua Chai, Naiqiang Tan*.
+
+**Forty-Third International Conference on Machine Learning 2026 [C]** 
+
+- To overcome the limitations of current memory systems in complex GUI automation, the proposed Darwinian Memory System (DMS) uses a self-evolving, "survival of the fittest" approach to dynamically refine strategies by retaining successful actions and pruning suboptimal ones.
+- Extensive testing demonstrates that DMS significantly improves the success rate, execution stability, and speed of general-purpose Multimodal Large Language Models without requiring additional training overhead.
+- Implementation: [Github Link](https://anonymous.4open.science/r/DMS-C48C)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[22] ACL Findings 2026 </div><img src='images/acl2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -383,7 +432,7 @@ Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu.
 
 # 💬 Academic Services
 
-- *Conference reviewer for* [ICLR](https://iclr.cc/), [ICML](https://icml.cc/), [NeurIPS](https://neurips.cc/), [CVPR](https://cvpr.thecvf.com/Conferences/2026), [AAAI](https://aaai.org/conference/aaai/aaai-26/), [AISTAT](https://virtual.aistats.org/), [IJCNN](https://2025.ijcnn.org/), [ACML](https://www.acml-conf.org/).
+- *Conference reviewer for* [ICLR](https://iclr.cc/), [ICML](https://icml.cc/), [NeurIPS](https://neurips.cc/), [CVPR](https://cvpr.thecvf.com/Conferences/2026), [AAAI](https://aaai.org/conference/aaai/aaai-26/), [AISTAT](https://virtual.aistats.org/), [IJCNN](https://2025.ijcnn.org/), [ACML](https://www.acml-conf.org/) and their Findings/Workshops.
 
 - *Journal reviewer for* [Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence), [Machine Learning](https://link.springer.com/journal/10994), [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications), [Discover Analytics](https://link.springer.com/journal/44257), [Statistics and Computing](https://link.springer.com/journal/11222), [International Journal of Applied and Computational Mathematics](https://link.springer.com/journal/40819), [International Journal of Data Science and Analytics](https://link.springer.com/journal/41060), [Journal of Infrastructure, Policy and Development](https://systems.enpress-publisher.com/index.php/jipd), [Molecular & Cellular Biomechanics](https://www.techscience.com/journal/mcb), [Journal of Biomedical Research](http://www.jbr-pub.org.cn/) .
 
