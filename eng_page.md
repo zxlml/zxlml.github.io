@@ -39,10 +39,9 @@ If you are interested or have any questions about my work, please feel free to c
 
 
 - *2026.05*: &nbsp;🎉🎉  New Award: **Golden Reviewer** in in **ICML 2026** conference.
-- 
+
 - *2026.05*: &nbsp;🎉🎉  New Acceptance: Three papers on Interpretable ML/LLM Evaluation/GUI Agents to appear in **ICML (ccf-A)**.
 
-  
 - *2026.04*: &nbsp;🎉🎉  New Acceptance: One paper on GUI Agents to appear in **ACL Findings**.
 
 - *2026.04*: &nbsp;🎉🎉  New Acceptance: One paper on hardware security to appear in **Computer & Security (ccf-B)**.
