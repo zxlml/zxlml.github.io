@@ -421,6 +421,7 @@ Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu.
 
 # 🎖️ Activities and Honors
 - *2025:* Internship at [**DiDi AI-Lab: L-Lab**.](https://www.didiglobal.com/science/ailabs)
+- 2026.5: Received **Golden Reviewer** in in **ICML 2026** conference.
 - 2025.12: A report is made at [31th IEEE International Conference on Parallel and Distributed Systems 2025.](http://ieee-icpads.org.cn/).
 - 2025.11: A report is made at [34th ACM Conference on Information and Knowledge Management 2025](https://cikm2025.org/).
 - *2025.4:* A report is made at [**HBSIAM 2025**.](https://aisle.hzau.edu.cn/info/1097/2476.htm)
@@ -438,7 +439,7 @@ Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu.
 
 - *Conference reviewer for* [ICLR](https://iclr.cc/), [ICML](https://icml.cc/), [NeurIPS](https://neurips.cc/), [CVPR](https://cvpr.thecvf.com/Conferences/2026), [AAAI](https://aaai.org/conference/aaai/aaai-26/), [AISTAT](https://virtual.aistats.org/), [IJCNN](https://2025.ijcnn.org/), [ACML](https://www.acml-conf.org/) and their Findings/Workshops.
 
-- *Journal reviewer for* [Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence), [Machine Learning](https://link.springer.com/journal/10994), [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications), [Discover Analytics](https://link.springer.com/journal/44257), [Statistics and Computing](https://link.springer.com/journal/11222), [International Journal of Applied and Computational Mathematics](https://link.springer.com/journal/40819), [International Journal of Data Science and Analytics](https://link.springer.com/journal/41060), [Journal of Infrastructure, Policy and Development](https://systems.enpress-publisher.com/index.php/jipd), [Molecular & Cellular Biomechanics](https://www.techscience.com/journal/mcb), [Journal of Biomedical Research](http://www.jbr-pub.org.cn/) .
+- *Journal reviewer for* [Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence), [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), [Machine Learning](https://link.springer.com/journal/10994), [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications), [Discover Analytics](https://link.springer.com/journal/44257), [Statistics and Computing](https://link.springer.com/journal/11222), [International Journal of Applied and Computational Mathematics](https://link.springer.com/journal/40819), [International Journal of Data Science and Analytics](https://link.springer.com/journal/41060), [Journal of Infrastructure, Policy and Development](https://systems.enpress-publisher.com/index.php/jipd), [Molecular & Cellular Biomechanics](https://www.techscience.com/journal/mcb), [Journal of Biomedical Research](http://www.jbr-pub.org.cn/) .
 
   
 # 🌏 Visit Counter
