@@ -40,7 +40,7 @@ If you are interested or have any questions about my work, please feel free to c
 - *2026.07*: &nbsp;🎉🎉  New Acceptance: One paper on robust manifold fitting to appear in **Neural Networks (ccf-B)**.
 
 - *2026.06*: &nbsp;🎉🎉  New Award: Awarded as [an Outstanding Doctoral Graduate and a Merit Student at the Postgraduate Level](https://yjs.hzau.edu.cn/info/1183/863668.htm).
-- 
+  
 - *2026.05*: &nbsp;🎉🎉  New Award: **Golden Reviewer** in in **ICML 2026** conference.
 
 - *2026.05*: &nbsp;🎉🎉  New Acceptance: Three papers on Interpretable ML/LLM Evaluation/GUI Agents to appear in **ICML (ccf-A)**.
