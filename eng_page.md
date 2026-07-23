@@ -19,7 +19,7 @@ redirect_from:
 
 # 👨‍🎓 Education
 
-I am a Ph.D. candidate (2022--) at the College of Informatics, Huazhong Agricultural University, supervised by [Prof. Hong Chen](https://chenhongml.github.io/). Previously, I was pursuing the M.S. degree (2020-2022) with the assistance of [Prof. Lingjuan Wu](https://www.researchgate.net/profile/Lingjuan-Wu). I received the B.S. degree in Engineering from China Agricultural University in 2020. 
+I am a Ph.D. candidate (2022--2026) at the College of Informatics, Huazhong Agricultural University, supervised by [Prof. Hong Chen](https://chenhongml.github.io/). Previously, I was pursuing the M.S. degree (2020-2022) with the assistance of [Prof. Lingjuan Wu](https://www.researchgate.net/profile/Lingjuan-Wu). I received the B.S. degree in Engineering from China Agricultural University in 2020. 
 
 # 🔬 Research Area
 
@@ -37,7 +37,10 @@ If you are interested or have any questions about my work, please feel free to c
 
 # 🔥 News
 
+- *2026.07*: &nbsp;🎉🎉  New Acceptance: One paper on robust manifold fitting to appear in **Neural Networks (ccf-B)**.
 
+- *2026.06*: &nbsp;🎉🎉  New Award: Awarded as [an Outstanding Doctoral Graduate and a Merit Student at the Postgraduate Level](https://yjs.hzau.edu.cn/info/1183/863668.htm).
+- 
 - *2026.05*: &nbsp;🎉🎉  New Award: **Golden Reviewer** in in **ICML 2026** conference.
 
 - *2026.05*: &nbsp;🎉🎉  New Acceptance: Three papers on Interpretable ML/LLM Evaluation/GUI Agents to appear in **ICML (ccf-A)**.
@@ -53,6 +56,21 @@ If you are interested or have any questions about my work, please feel free to c
 - *2024.11*: &nbsp;🎉🎉  New Award: **China Doctoral National Scholarship**.
 
 # 📝 Publications in Machine Learning
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[26] NN 2026 [ccf-B, Q2 Top, IF 7.22]</div><img src='images/NN26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Bilevel Manifold Fitting](https://arxiv.org/abs/2604.19072)
+
+**Xuelin Zhang**, Hong Chen, Li Shen, Bin Gu, Heng Huang
+
+**Neural Network 2026 [J]** 
+
+- To overcome the challenge of noise misleading latent manifold estimation, we propose a Bilevel Cycle Generative Adversarial Network that automatically assigns masks to learn robust mappings and generate synthetic samples.
+- Both theoretical upper bounds on generalization error and extensive experiments demonstrate the model's robustness and competitiveness in handling corrupted data.
+- Implementation：[Github Link](https://github.com/zxlml/BCGAN)
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[25] ICML 2026 [ccf-A, Core A*]</div><img src='images/icml3-2026.png' alt="sym" width="100%"></div></div>
@@ -420,6 +438,7 @@ Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu.
 
 
 # 🎖️ Activities and Honors
+- *2026.06*: Awarded as [an Outstanding Doctoral Graduate and a Merit Student at the Postgraduate Level](https://yjs.hzau.edu.cn/info/1183/863668.htm).
 - *2025:* Internship at [**DiDi AI-Lab: L-Lab**.](https://www.didiglobal.com/science/ailabs)
 - 2026.5: Received **Golden Reviewer** in in **ICML 2026** conference.
 - 2025.12: A report is made at [31th IEEE International Conference on Parallel and Distributed Systems 2025.](http://ieee-icpads.org.cn/).
