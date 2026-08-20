@@ -19,7 +19,7 @@ redirect_from:
 
 # 👨‍🎓 Education
 
-I am a Ph.D. candidate (2022--2026) at the College of Informatics, Huazhong Agricultural University, supervised by [Prof. Hong Chen](https://chenhongml.github.io/). Previously, I was pursuing the M.S. degree (2020-2022) with the assistance of [Prof. Lingjuan Wu](https://www.researchgate.net/profile/Lingjuan-Wu). I received the B.S. degree in Engineering from China Agricultural University in 2020. 
+I am a Ph.D. graduated from the College of Informatics, Huazhong Agricultural University (2022--2026), supervised by [Prof. Hong Chen](https://chenhongml.github.io/). Previously, I was pursuing the M.S. degree (2020-2022) with the assistance of [Prof. Lingjuan Wu](https://www.researchgate.net/profile/Lingjuan-Wu). I received the B.S. degree in Engineering from China Agricultural University in 2020. 
 
 # 🔬 Research Area
 
