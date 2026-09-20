@@ -59,7 +59,7 @@ If you are interested or have any questions about my work, please feel free to c
 
 # 📝 Publications in Machine Learning
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[27] DMKD 2026 [ccf-B, Q3, IF 6.70]</div><img src='images/NN26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[27] DMKD 2026 [ccf-B, Q3, IF 6.70]</div><img src='images/DMKD-26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Meta Additive Model: Interpretable Sparse Learning With Auto Weighting](https://arxiv.org/abs/2604.20111)
