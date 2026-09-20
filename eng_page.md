@@ -37,6 +37,8 @@ If you are interested or have any questions about my work, please feel free to c
 
 # 🔥 News
 
+- *2026.09*: &nbsp;🎉🎉  New Acceptance: One paper on robust manifold fitting to appear in **Data Mining and Knowledge Discovery (ccf-B)**.
+
 - *2026.07*: &nbsp;🎉🎉  New Acceptance: One paper on robust manifold fitting to appear in **Neural Networks (ccf-B)**.
 
 - *2026.06*: &nbsp;🎉🎉  New Award: Awarded as [an Outstanding Doctoral Graduate and a Merit Student at the Postgraduate Level](https://yjs.hzau.edu.cn/info/1183/863668.htm).
@@ -56,6 +58,21 @@ If you are interested or have any questions about my work, please feel free to c
 - *2024.11*: &nbsp;🎉🎉  New Award: **China Doctoral National Scholarship**.
 
 # 📝 Publications in Machine Learning
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[27] DMKD 2026 [ccf-B, Q3, IF 6.70]</div><img src='images/NN26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Meta Additive Model: Interpretable Sparse Learning With Auto Weighting](https://arxiv.org/abs/2604.20111)
+
+**Xuelin Zhang**, Xinyue Liu, Lingjuan Wu, Hong Chen*
+
+**Data Mining and Knowledge Discovery 2026 [J]** 
+
+-To address the issue where noise interference easily misleads latent manifold estimation, this paper proposes a bilevel cycle generative adversarial network that learns robust spatial mappings and generates synthetic samples by automatically assigning masks. 
+- Furthermore, both the theoretically derived upper bound of the generalization error and extensive experimental results verify that the proposed method exhibits outstanding competitiveness and robustness when dealing with corrupted data.
+- Implementation：[Github Link](https://github.com/zxlml/BCGAN)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[26] NN 2026 [ccf-B, Q2 Top, IF 7.22]</div><img src='images/NN26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -458,7 +475,7 @@ Lingjuan Wu, **Xuelin Zhang**, Siyi Wang, Wei Hu.
 
 - *Conference reviewer for* [ICLR](https://iclr.cc/), [ICML](https://icml.cc/), [NeurIPS](https://neurips.cc/), [CVPR](https://cvpr.thecvf.com/Conferences/2026), [AAAI](https://aaai.org/conference/aaai/aaai-26/), [AISTAT](https://virtual.aistats.org/), [IJCNN](https://2025.ijcnn.org/), [ACML](https://www.acml-conf.org/) and their Findings/Workshops.
 
-- *Journal reviewer for* [Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence), [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), [Machine Learning](https://link.springer.com/journal/10994), [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications), [Integration](https://www.sciencedirect.com/journal/integration), [Discover Analytics](https://link.springer.com/journal/44257), [Statistics and Computing](https://link.springer.com/journal/11222), [Frontiers in Neuroinformatics](https://www.frontiersin.org/journals/neuroinformatics), [International Journal of Applied and Computational Mathematics](https://link.springer.com/journal/40819), [International Journal of Data Science and Analytics](https://link.springer.com/journal/41060), [Journal of Infrastructure, Policy and Development](https://systems.enpress-publisher.com/index.php/jipd), [Molecular & Cellular Biomechanics](https://www.techscience.com/journal/mcb), [Journal of Biomedical Research](http://www.jbr-pub.org.cn/) .
+- *Journal reviewer for* [Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence), [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), [Machine Learning](https://link.springer.com/journal/10994), [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence), [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications), [Integration](https://www.sciencedirect.com/journal/integration), [Discover Analytics](https://link.springer.com/journal/44257), [Statistics and Computing](https://link.springer.com/journal/11222), [Frontiers in Neuroinformatics](https://www.frontiersin.org/journals/neuroinformatics), [International Journal of Applied and Computational Mathematics](https://link.springer.com/journal/40819), [International Journal of Data Science and Analytics](https://link.springer.com/journal/41060), [Journal of Infrastructure, Policy and Development](https://systems.enpress-publisher.com/index.php/jipd), [Molecular & Cellular Biomechanics](https://www.techscience.com/journal/mcb), [Journal of Biomedical Research](http://www.jbr-pub.org.cn/) .
 
   
 # 🌏 Visit Counter
