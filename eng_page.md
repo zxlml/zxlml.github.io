@@ -77,7 +77,7 @@ If you are interested or have any questions about my work, please feel free to c
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">[26] NN 2026 [ccf-B, Q2 Top, IF 7.22]</div><img src='images/NN26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Bilevel Manifold Fitting](https://arxiv.org/abs/2604.19072)
+[Bilevel Manifold Fitting](https://www.sciencedirect.com/science/article/abs/pii/S0893608026008828)
 
 **Xuelin Zhang**, Hong Chen, Li Shen, Bin Gu, Heng Huang
 
