@@ -37,7 +37,7 @@ If you are interested or have any questions about my work, please feel free to c
 
 # 🔥 News
 
-- *2026.09*: &nbsp;🎉🎉  New Acceptance: One paper on robust manifold fitting to appear in **Data Mining and Knowledge Discovery (ccf-B)**.
+- *2026.09*: &nbsp;🎉🎉  New Acceptance: One paper on robust and interpretable prediction to appear in **Data Mining and Knowledge Discovery (ccf-B)**.
 
 - *2026.07*: &nbsp;🎉🎉  New Acceptance: One paper on robust manifold fitting to appear in **Neural Networks (ccf-B)**.
 
